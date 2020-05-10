@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        {% if site.logo %}
+          <img src="https://clanfear.github.io/CSSS508/docs/img/csss_white.png" alt="Logo" />
+        {% endif %}
+
+        <p>Course website for <a href="https://clanfear.github.io/SOC321/">CSSS/SOC/STAT 321: Data Science and Statistics for the Social Sciences I</a></p>
+
+        <p></p>University of Washington</p>
+
+        <p>
+        Charles Lanfear<br>
+        &bull; <a href="mailto:clanfear@uw.edu">Email</a><br>
+        &bull; <a href="https://twitter.com/cclanfear">Twitter</a><br>
+        &bull; <a href="https://github.com/clanfear">GitHub</a>
+        </p>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
