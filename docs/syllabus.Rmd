@@ -1,7 +1,9 @@
 ---
-output: 
-  md_document:
-    variant: markdown_github
+output:
+  github_document:
+    includes:
+      in_header: header.md
+    html_preview: false
 ---
 
 ```{r, include=FALSE}

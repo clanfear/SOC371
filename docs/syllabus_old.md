@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 # SOC 371
 
 ## Criminology
