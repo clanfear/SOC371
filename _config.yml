@@ -1,0 +1,6 @@
+title: 'UW SOC371'
+description: "Course website for SOC371: Criminology"
+logo: 'https://raw.githubusercontent.com/clanfear/CSSS508/master/docs/img/csss_white.png'
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
