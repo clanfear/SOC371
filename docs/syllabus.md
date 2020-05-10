@@ -64,19 +64,43 @@ Grades will be assessed with the following breakdown:
 
 |         Item         | Number | Percent of Grade |
 | :------------------: | :----: | :--------------: |
-| Discussion Questions |   16   |        10        |
+| Discussion Questions |   16   |        20        |
 |    Midterm Exams     |   2    |        40        |
-|      Final Exam      |   1    |        30        |
-|        Essay         |   1    |        20        |
+|      Final Exam      |   1    |        40        |
 
 A score of at least 95% will guarantee a 4.0 in the course. Every 2.5
 percentage points below 95 will correspond to a .1 difference in the
 final grade (e.g. 90/100 is a 3.8).
 
+#### Discussion Questions
+
+Students will be required to submit two discussion questions via Canvas
+prior to each lecture meeting. These questions will be used to
+facilitate post-lecture discussion. Questions should be open-ended and
+reflect engagement with the material–that is, they delve deeper into
+ideas presented in the reading or raise critical questions. Questions
+are due by 6 PM the day before (i.e. 6 PM Sunday for Monday lecture’s
+readings). If there are multiple readings, each question should address
+a different reading.
+
+#### Exams
+
+There will be two midterm and one final exam. Exams will focus on
+application of concepts rather than regurgitation of knowledge.
+Consequently, they are open book and you will have at least a day to
+work on them. The format will consist of a number of short answer and
+small essay questions. Students are expected to reference course
+readings with clear citations, e.g. “Shaw & McKay (1942) proposed
+delinquent subcultures as a mechanism for stability in neighborhood
+crime rates.” Students may refer to other materials, but should do so
+sparingly and not the exclusion of relevant course material.
+
 ## Course Texts
 
-There are two required texts for this course, both of which are freely
-available as eBooks through the UW library and affordable in print.
+There is no textbook for this course. Rather, there are two required
+books documenting important studies in criminology. Both of books are
+freely available as eBooks through the UW library and affordable in
+print.
 
   - [Divergent Social Worlds (2010) Ruth D. Peterson & Lauren J.
     Krivo](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71175976510001451)
