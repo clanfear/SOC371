@@ -31,11 +31,12 @@ course_outline %>%
   filter(!is.na(Lecture)) %>%
   left_join(course_readings, by = "Lecture") %>%
   select(-Lecture, Readings = Citation) %>%
+  group_by(Date) %>%
+  summarize(Topic = first(Topic), Readings = paste(Readings, collapse = "<br><br>")) %>%
+  mutate(Readings = ifelse(Readings == "NA", NA_character_, Readings)) %>%
+  mutate_at(vars(-Date), ~ ifelse(is.na(.), "", .)) %>%
   arrange(Date) %>%
   mutate(Date = format(Date, "%b %e")) %>%
-  group_by(Date) %>%
-  summarize(Topic = first(Topic), Readings = paste(Readings, collapse = "<br>")) %>%
-  mutate_all(~ ifelse(is.na(.), "", .)) %>%
   pander()
 ```
 
