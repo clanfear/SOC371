@@ -1,9 +1,13 @@
 ---
-output: 
-  md_document:
-    variant: markdown_github
-layout: default
+output:
+  github_document:
+    html_preview: false
 ---
+
+```{r, include=FALSE}
+library(tidyverse)
+library(pander)
+```
 
 # SOC 371
 ## Criminology
@@ -18,6 +22,22 @@ layout: default
 
 ## Helpful resources:
 
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+course_outline <- readxl::read_excel("./ignore/course_workbook.xlsx", sheet=1) %>% filter(Ignore!=1)
+course_readings <- readxl::read_excel("./ignore/course_workbook.xlsx", sheet=2) %>% filter(Ignore!=1) %>%
+  select(Lecture, Citation)
+course_outline %>%
+  select(Week, Lecture, Date, Topic) %>%
+  filter(!is.na(Lecture)) %>%
+  left_join(course_readings, by = "Lecture") %>%
+  select(-Lecture, Readings = Citation) %>%
+  arrange(Date) %>%
+  mutate(Date = format(Date, "%b %e")) %>%
+  group_by(Date) %>%
+  summarize(Topic = first(Topic), Readings = paste(Readings, collapse = "<br>")) %>%
+  mutate_all(~ ifelse(is.na(.), "", .)) %>%
+  pander()
+```
 
 ## Course Material
 

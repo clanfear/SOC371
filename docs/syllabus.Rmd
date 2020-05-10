@@ -79,11 +79,8 @@ You are encouraged to contact my via email with questions or concerns. Note, it 
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 course_outline <- readxl::read_excel("../ignore/course_workbook.xlsx", sheet=1) %>% filter(Ignore!=1)
-course_readings <- readxl::read_excel("../ignore/course_workbook.xlsx", sheet=2) %>% filter(Ignore!=1) %>%
-  select(Lecture, Citation)
 course_outline %>%
   select(-Week, -Ignore, -Readings) %>%
-  left_join(course_readings, by = "Lecture") %>%
   arrange(Date) %>%
   mutate(Date = format(Date, "%b %e")) %>%
   mutate_all(~ ifelse(is.na(.), "", .)) %>%
