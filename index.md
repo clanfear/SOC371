@@ -9,10 +9,11 @@
 
   - [Canvas Page (enrolled students only)](null)
   - [Syllabus](docs/syllabus.html)
-  - [Homework Instructions](docs/homework.html) and grading rubric.
+  - [Discussion Question Instructions](null)
+  - [Essay Instructions](docs/essay.html) and grading rubric.
   - [Class Mailing List](null)
 
-## Helpful resources:
+## Course Material
 
 |  Date  |                              Topic                               |                                                                                                                                                                                                                                                                                                                Readings                                                                                                                                                                                                                                                                                                                 |
 | :----: | :--------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -34,19 +35,3 @@
 | Aug 12 | Peers / Subcultures: Differential Association and Code of Street |                                                                                                                                                                                                                                                  Hagan, John, and Wenona Rymond-Richmond. 2009. Darfur and the Crime of Genocide. Cambridge, UK: Cambridge University Press, pp. 1-103                                                                                                                                                                                                                                                  |
 | Aug 17 |                       Collective Violence                        |                                                                                                                                                                                                                                                         Matsueda, “Differential Social Organization, Collective Action, and Crime.” Crime, Law, and Social Change 46(1-2):3-33                                                                                                                                                                                                                                                          |
 | Aug 19 |                       Collective Violence                        |                                                                                                                                                                                                                                                 Hagan, John, and Wenona Rymond-Richmond. 2009. Darfur and the Crime of Genocide. Cambridge, UK: Cambridge University Press, pp. 103-218                                                                                                                                                                                                                                                 |
-
-## Course Material
-
-### Introduction
-
-#### Week 1
-
-#### Week 2
-
-#### Week 3
-
-#### Week 4
-
-#### Week 5
-
-#### Week 6

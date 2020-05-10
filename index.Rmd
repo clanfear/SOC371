@@ -17,10 +17,11 @@ library(pander)
 
 * [Canvas Page (enrolled students only)](null)
 * [Syllabus](docs/syllabus.html)
-* [Homework Instructions](docs/homework.html) and grading rubric.
+* [Discussion Question Instructions](null)
+* [Essay Instructions](docs/essay.html) and grading rubric.
 * [Class Mailing List](null)
 
-## Helpful resources:
+## Course Material
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 course_outline <- readxl::read_excel("./ignore/course_workbook.xlsx", sheet=1) %>% filter(Ignore!=1)
@@ -40,22 +41,3 @@ course_outline %>%
   pander()
 ```
 
-## Course Material
-
-### Introduction
-
-#### Week 1
-
-#### Week 2
-
-
-#### Week 3
-
-
-#### Week 4
-
-
-#### Week 5
-
-
-#### Week 6
