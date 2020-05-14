@@ -1,7 +1,7 @@
 ---
 output:
   github_document:
-    html_preview: false
+    html_preview: true
 ---
 
 ```{r, include=FALSE}
@@ -9,9 +9,9 @@ library(tidyverse)
 library(pander)
 ```
 
-# SOC 371
-## Criminology
-### University of Washington
+# SOC 371: Criminology
+
+### Summer 2020
 
 Instructor: [Charles Lanfear](mailto:clanfear@uw.edu)
 Office: 255 Savery Hall
@@ -24,7 +24,7 @@ Office: 255 Savery Hall
 
 ## Overview
 
-This course provides an introduction to sociological criminology. We begin by defining crime and law, then surveying criminology's classical foundations. The majority of the course will then be spent studying modern sociological theories of crime. This course emphasizes the underlying causal models of these theories, corresponding assumptions, and levels of explanation--structural, neighborhood, group, and individual. We will study these theories with primary source material--the words of their originators and key contributors. We will also relate these theories to real-world social problems and policies, such as policing, mass incarceration, gun violence, genocide, and segregation.
+This course provides an introduction to sociological criminology. We begin by defining crime and law, then surveying criminology's classical foundations. The majority of the course will then be spent studying modern sociological theories of crime. This course emphasizes the underlying causal models of these theories, corresponding assumptions, and levels of explanation--structural, neighborhood, group, and individual. We will study these theories mainly with primary source material--the words of the original theorists and later contributors. We will also relate these theories to real-world social problems and policies, such as policing, mass incarceration, gun violence, genocide, and segregation.
 
 ### Course Objectives
 
@@ -32,18 +32,18 @@ This course provides an introduction to sociological criminology. We begin by de
 
 * Show you how criminological theories apply to real-world phenomena.
 
-* Make you a critical consumer of media reports and politicians’ claims about crime and crime policies.
+* Make you a critical consumer of claims about crime and crime policies in the news, social media, and political campaigning.
 
 * Develop your critical and analytical skills through discussion and written assignments.
 
 ### [Course Website](https://clanfear.github.io/SOC371/)
 [clanfear.github.io/SOC371/](https://clanfear.github.io/SOC371/)
 
-The course website is accessible without a UWnetID and features all of the slides, links to readings, and assignments. Note many readings are pay-walled and require a UWnetID to access. [See this page for instructions for adding a UW Library proxy to your browser for off-campus access to articles.](https://www.lib.washington.edu/help/connect/tools)
+The course website is accessible without a UWnetID and features all of the slides, links to readings, and assignments. Note many readings are, however, pay-walled and require a UWnetID to access. [See this page for instructions for adding a UW Library proxy to your browser for off-campus access to articles.](https://www.lib.washington.edu/help/connect/tools)
 
 ### [Course Canvas](https://canvas.uw.edu/courses/1382874)
 
-The course Canvas will be used to access some readings, post discussion questions, and submit assignments. Do not use Canvas messages for communication with the instructor--it will not be monitored for messages.
+The course Canvas will be used to access some readings, post discussion questions, and submit assignments. Do not use Canvas messages for communication with the instructor--it will not be monitored.
 
 ## Course Requirements
 
@@ -51,28 +51,35 @@ Grades will be assessed with the following breakdown:
 
 | Item                   | Number | Percent of Grade |
 |:----------------------:|:------:|:----------------:|
+| Course Participation   | 18     |     10           |
 | Discussion Questions   | 16     |     20           |
 | Midterm Exams          |  2     |     40           |
-| Final Exam             |  1     |     40           |
+| Final Exam             |  1     |     30           |
 
 A score of at least 95% will guarantee a 4.0 in the course. Every 2.5 percentage points below 95 
 will correspond to a .1 difference in the final grade (e.g. 90/100 is a 3.8).
 
+#### Participation
+
+Students are expected to complete readings and engage in discussion. Given the disruption presented by COVID-19, alternate evaluation (e.g. a 1-page reading and discussion response) is possible for students unable to attend a given synchronous lecture. Students must contact the instructor prior to absences to be considered for alternate evaluation.
+
 #### Discussion Questions
 
-Students will be required to submit two discussion questions via Canvas prior to each lecture meeting. These questions will be used to facilitate post-lecture discussion. Questions should be open-ended and reflect engagement with the material--that is, they delve deeper into ideas presented in the reading or raise critical questions. Questions are due by 6 PM the day before (i.e. 6 PM Sunday for Monday lecture's readings). If there are multiple readings, each question should address a different reading. 
+Students will be required to submit at least two discussion questions via Canvas prior to each lecture meeting. These questions will be used to facilitate post-lecture discussion. Questions should be open-ended and reflect engagement with the material--that is, they delve deeper into ideas presented in the reading or raise critical questions. Questions are due by 6 PM the day before (i.e. 6 PM Sunday for Monday lecture's readings). If there are multiple readings, each question should address a different reading. 
 
 #### Exams
 
-There will be two midterm and one final exam. Exams will focus on application of concepts rather than regurgitation of knowledge. Consequently, they are open book and you will have at least a day to work on them. The format will consist of a number of short answer and small essay questions. Students are expected to reference course readings with clear citations, e.g. "Shaw & McKay (1942) proposed delinquent subcultures as a mechanism for stability in neighborhood crime rates." Students may refer to other materials, but should do so sparingly and not the exclusion of relevant course material.
+There will be two midterm and one final exam. Exams will focus on application of concepts rather than regurgitation of knowledge. Consequently, they are open book and you will have at least a day to work on them. The format will consist of a number of short answer and essay questions. Students are expected to reference course readings with clear citations, e.g. "Shaw & McKay (1942) proposed delinquent subcultures as a mechanism for stability in neighborhood crime rates." Students may refer to other materials, but should do so sparingly and not the exclusion of relevant course material. If material from outside the course is cited, you must add a *Works Cited* section at the end of the exam with a full, properly formatted (e.g. ASA format) citation for the work.
 
-## Course Texts
+## Course Texts and Readings
 
-There is no textbook for this course. Rather, there are two required books documenting important studies in criminology. Both of books are freely available as eBooks through the UW library and affordable in print.
+There is no textbook for this course. Rather, there are two required books documenting important studies in criminology--books you are likely to find on the shelf of a respectable criminologist. Both books are freely available as eBooks through the UW library and affordable in print.
 
 * [Divergent Social Worlds (2010) Ruth D. Peterson & Lauren J. Krivo](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71175976510001451)
 
 * [Darfur and the Crime of Genocide (2009) John Hagan & Wenona Rymond-Richmond](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71240618630001451) 
+
+Other readings will be available via files posted on Canvas and links on the course website. These readings will primarily be academic journal articles. Note that journal articles are targeted at academic audiences. It is likely you will find them challenging to read and may not understand everything discussed--this is fine! Allot yourself more time for article reading than you would for a textbook chapter of comparable length. At the end of each lecture you will also receive a brief overview of what to expect and look for in the readings for the next lecture. If you find an article--or section of an article--particularly challenging or unclear, please contact the instructor, come to office hours to chat, or bring it up in discussion. 
 
 ## Content Warning
 
@@ -86,6 +93,11 @@ You are encouraged to contact my via email with questions or concerns. Note, it 
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 course_outline <- readxl::read_excel("../ignore/course_workbook.xlsx", sheet=1) %>% filter(Ignore!=1)
+course_readings <- readxl::read_excel("../ignore/course_workbook.xlsx", sheet=2) %>% filter(Ignore!=1) %>%
+  select(Lecture, Citation)
+```
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, eval=FALSE}
 course_outline %>%
   select(-Week, -Ignore, -Readings) %>%
   arrange(Date) %>%
@@ -94,7 +106,31 @@ course_outline %>%
   pander()
 ```
 
-
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+course_outline %>%
+  select(Week, Lecture, Date, Topic) %>%
+  filter(!is.na(Lecture)) %>%
+  left_join(course_readings, by = "Lecture") %>%
+  select(-Lecture, Readings = Citation) %>%
+  group_by(Date) %>%
+  mutate(reading_number = as.character(row_number())) %>%
+  mutate(reading_number = ifelse(!is.na(lead(reading_number)) | !is.na(lag(reading_number)), paste0("(",reading_number,") "), "")) %>%
+  summarize(Topic = first(Topic), Readings = paste(paste0(reading_number, Readings), collapse = "<br><br>")) %>%
+  mutate(Readings = ifelse(str_detect(Readings, "NA"), "No assigned reading", Readings)) %>%
+  mutate_at(vars(-Date), ~ ifelse(is.na(.), "", .)) %>%
+  mutate(Topic = case_when(
+    is.na(lag(Topic)) ~ Topic,
+    lag(Topic) == Topic ~ paste0(Topic, " 2"),
+    lead(Topic) == Topic ~ paste0(Topic, " 1"),
+    TRUE ~ Topic
+  )) %>%
+  arrange(Date) %>%
+  mutate(weekday = lubridate::wday(Date, label=TRUE)) %>%
+  mutate(Date = paste0(weekday, ", ", format(Date, "%b %e"))) %>%
+  mutate(`Topic and Readings` = paste0("**",Topic,"**", "<br>", Readings)) %>%
+  select(Date, `Topic and Readings`) %>%
+  pander()
+```
 
 ## Late Work Policy
 

@@ -57,7 +57,7 @@ course_outline %>%
   mutate(Readings = ifelse(str_detect(Readings, "NA"), "No assigned reading", Readings)) %>%
   mutate_at(vars(-Date), ~ ifelse(is.na(.), "", .)) %>%
   mutate(Topic = case_when(
-    is.na(lag(Topic)) | is.na(lead(Topic)) ~ Topic,
+    is.na(lag(Topic)) ~ Topic,
     lag(Topic) == Topic ~ paste0(Topic, " 2"),
     lead(Topic) == Topic ~ paste0(Topic, " 1"),
     TRUE ~ Topic
