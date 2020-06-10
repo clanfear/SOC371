@@ -18,11 +18,11 @@ output:
 
 Sutherland: "The study of making of laws, the breaking of laws, and reacting to the breaking of laws."
 
-Making Laws: Sociology of Law
-Breaking Laws: Criminology
-Reacting to Law Breaking: Sociology of Criminal Justice
+* Making Laws: *Sociology of Law*
 
----
+* Breaking Laws: *Criminology*
+
+* Reacting to Law Breaking: *Sociology of Criminal Justice*
 
 ???
 
@@ -42,8 +42,8 @@ Chuck Lanfear
 Research:
 
 * Neighborhood Social Control 
-* Racial Bias in Policing
 * Broken Windows and Criminal Opportunity
+* Racial Bias in Policing
 
 ---
 
@@ -109,57 +109,6 @@ course_outline %>%
   gt::gt()
 ```
 ]
-
----
-# The Approach
-
-1. Context
-
-2. Theoretical Assumptions
-
-3. Policy Implications
-
-4. Evidence
-
----
-# Causal Models
-
-All theories either imply or explicitly state a causal model.
-
-Theories consist of:
-
-1. Assumptions: Taken for granted statements
-   + *The foundations of theories*
-2. Propositions: Testable hypotheses or predictions 
-   + *These emerge from assumptions*
-
-In criminology, the key assumptions are about human nature.
-
-+ e.g. *Humans are rational utility maximizers* (Homo economicus)
-
-Assumptions are fiercely contested and frequently untestable.
-
----
-# Causal Graphs
-
-Scientists often use **graphs** to depict models.
-
-.image-75[
-![](img/x_causes_y.svg)
-]
-
-"X causes Y"
-
-"X causes Z, which causes Y"
-
----
-# It Gets Complicated
-
-![](img/ce_system.svg)
----
-# Deriving a Graph
-
-When you someone makes a claim
 
 ---
 class: inverse
@@ -231,6 +180,106 @@ Structure:
    + Both available as eBooks through the UW library but affordable in print.
 
 ---
+class: inverse
+# Some Metatheory
+
+---
+# The Approach
+
+1. Context
+
+2. Theoretical Assumptions
+
+3. Policy Implications
+
+4. Evidence
+
+---
+# Causal Models
+
+All theories either imply or explicitly state a causal model.
+
+Theories consist of:
+
+1. Assumptions: Taken for granted statements
+   + *The foundations of theories*
+2. Propositions: Testable hypotheses or predictions 
+   + *These emerge from assumptions*
+
+In criminology, the key assumptions are often about human nature.
+
++ e.g. *Humans are rational utility maximizers* (Homo economicus)
+
+Assumptions are fiercely contested and frequently untestable.
+
+---
+# Causal Graphs
+
+Scientists often use **causal graphs** to depict models.
+
+.image-75[
+![](img/x_causes_y.svg)
+]
+
+"X causes Y"
+
+"X causes Z, which causes Y"
+
+
+---
+# Key concepts
+
+* Spuriousness
+
+* Mediation
+
+---
+# Ice *Crime*
+
+.image-75[
+![](img/ice_cream_crime.svg)
+]
+
+---
+# Spuriousness
+
+.image-75[
+![](img/hot_weather_crime.svg)
+]
+
+---
+# Mediation
+
+.image-75[
+![](img/people_outside.svg)
+]
+
+---
+# It Gets Complicated
+
+![](img/ce_system.svg)
+
+
+---
+# Using Graphs
+
+Many of the theories in this course will be depicted with causal graphs.
+
+All claims (propositions) about the world imply a theory.
+
+When you encounter new claims, it can be clarifying to sketch the implied causal graph.
+
+If the causal relationships don't make sense, it may reveal a flawed theory:
+
+* Outcomes which happen before their causes
+
+* Obvious causes left out (spuriousness)
+
+* Unclear or nonsensical mechanisms
+
+*Be critical consumers of theories*
+
+---
 # Discussion
 
 ---
@@ -246,4 +295,4 @@ Things to pay attention to:
 
 (2) The assumptions of the classical school--human nature, the role of government.
 
-(3) The 
+(3) The implied causes of crime.
