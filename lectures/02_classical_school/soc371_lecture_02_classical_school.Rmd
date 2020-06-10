@@ -1,0 +1,75 @@
+---
+title: "Classical Criminology"
+subtitle: "SOC371, Summer 2020"
+author: "Chuck Lanfear"
+date: "Jun 24, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ../style/xaringan-themer.css
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["center","top"]
+---
+
+# Overview
+
+  Objectives
+    Understand context and objectives of classical theorists
+    Understand their assumptions
+  Historical Background
+    18th century Europe was unjust, brutal, trampling on individual rights
+    Enlightenment: Reason and rationality
+    Reform system to protect rights
+    Beccaria, Bentham
+  Theoretical Assumptions
+    Free will, hedonism, rationality
+    Consensus in society: protect individual rights and property rights
+    Social contract: exchange some freedom for protection of rights
+    Punishment by state
+  Principles of Justice
+    Punishment
+      Curtal severity
+      Proportional severity
+      Retribution and deterrence, not reform as goal
+    Criminal Law
+      Terms of social contract
+      Minimization of law
+        "To prohibit an action unnecessarily increases rather than decreases crime." (Radnowitz 9)
+    Administration
+      No ex-post facto legislation
+      Minimal discretion
+      Protection of rights: Notice of charges, lawyers, presumption of innocence
+    Crime Prevention
+      Moral education [non-structural assumption]
+      Punishment is last resort
+  Criticisms
+    Marxist critique
+      Reforms achieve justice only in egalitarian society
+      Capitalist mode of production is unequal
+      Law is part of capitalist superstructure
+        Protects and legitimizes system, serves wealthy; white collar crime not punished
+    Feminist
+      Patriarchy
+        Control by men
+        Has lessened in US but inequities in wages, politics, family
+      Law reproduces patriarchy
+        Domestic violence is private affair, not treated seriously
+        Common law ruled out spousal rape
+        Law maintains status quo
+        Equal rights amendement
+      Equality
+    Critical Race Theory
+      Civil rights
+        Ended over discrimination buit didn't change historical legacy or social structure; institutional discrimination survives
+      Law reproduces status quo
+        Hard to address institutional discrimination
+        Some areas of law racially biased
+      Equality
+    [All critical angles have an equality, structural problem component]
+
+---
+# For Next Time
+

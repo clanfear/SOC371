@@ -1,0 +1,58 @@
+---
+title: "Trends in Crime, Violence, and Incarceration"
+subtitle: "SOC371, Summer 2020"
+author: "Chuck Lanfear"
+date: "Jul 1, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ../style/xaringan-themer.css
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["center","top"]
+---
+
+L4: Trends in Crime and Incarceration
+  Objectives
+    Understand age distribution of crime and the decline in crime tates
+    Understand factors that may have affected crime decline.
+    Understand crime by race and immigration status
+    Understand trends in incarceration, particularly by race and drug offenses
+    Understand trends in gun possession
+    Understand public opinion about gun control
+  Crime Trends
+    Age Distribution
+      Us birth rates--population booms, lagged crime changes
+    Property and violent crime UCR trends
+    Victimization Trends (NCVS)
+    Decline from 1996 to 2014
+      Age: Fewer 15-25
+      Economic growth: Lower joblessness, higher wages
+      Crack market decline
+      Roe v Wade: Fewer crime prone after 1974, fewer 20-25
+      Police and incarceration (deterrence) [incapacitation?]
+      [Sharkey here?]
+    Homicide rates long term (1885-2010)
+    Black-white differences in offending and victimization
+  Incarceration Trends
+    Incarceration rising despite crime rates falling; trends over time; international comparison
+    Race / ethnicity comparison in rates
+    Drug use by race; disparities in arrests by race
+    Incarceration rates by foreign-born vs domestic; self-reported violence by immigrant generation
+  Guns
+    Second amendment
+    Gun homicides in US cities compared to comparable nations
+    Gun ownership across nations
+    Homicides by weapon in US
+    Deaths by assault in US vs. OECD
+    Assaalt Deaths by Region of US
+    US gun ownership 1959-2010 (Gallup, GSS)
+    Mass shootings in US, legal vs illegal weapon
+    Attitudes toward control before and after shootings
+    Gun control opinions over time
+    Support for specific policies
+    
+---
+# For Next Time

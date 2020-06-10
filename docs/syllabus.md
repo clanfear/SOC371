@@ -34,7 +34,7 @@ and segregation.
   - Show you how criminological theories apply to real-world phenomena.
 
   - Make you a critical consumer of claims about crime and crime
-    policies in the news, social media, and political campaigning.
+    policies in the news, social media, and political campaigns.
 
   - Develop your critical and analytical skills through discussion and
     written assignments.
@@ -100,7 +100,10 @@ essay questions. Students are expected to reference course readings with
 clear citations, e.g. “Shaw & McKay (1942) proposed delinquent
 subcultures as a mechanism for stability in neighborhood crime rates.”
 Students may refer to other materials, but should do so sparingly and
-not the exclusion of relevant course material.
+not the exclusion of relevant course material. If material from outside
+the course is cited, you must add a *Works Cited* section at the end of
+the exam with a full, properly formatted (e.g. ASA format) citation for
+the work.
 
 ## Course Texts and Readings
 
@@ -165,6 +168,38 @@ Note, it may take up to 48 weekday hours to respond to your email.
 | Mon, Aug 17 |                                                                                                                                                                                                                                                                             **Collective Violence 1**<br>Matsueda, “Differential Social Organization, Collective Action, and Crime.” Crime, Law, and Social Change 46(1-2):3-33                                                                                                                                                                                                                                                                              |
 | Wed, Aug 19 |                                                                                                                                                                                                                                                                     **Collective Violence 2**<br>Hagan, John, and Wenona Rymond-Richmond. 2009. Darfur and the Crime of Genocide. Cambridge, UK: Cambridge University Press, pp. 103-218                                                                                                                                                                                                                                                                     |
 
+## Accommodation Policy
+
+Your experience in this class is important to me. The policies below
+cover accommodations for disability or religious activities. If you have
+other concerns related to participating in this class–such as difficulty
+with course materials or the pace of the course– please contact me. I
+want this course to be maximally useful and accessible to all students.
+
+### Religious Activities
+
+Washington state law requires that UW develop a policy for accommodation
+of student absences or significant hardship due to reasons of faith or
+conscience, or for organized religious activities. Accommodations must
+be requested within the first two weeks of this course using the
+Religious Accommodations Request form available at:
+<https://registrar.washington.edu/students/religious-accommodations-request/>
+
+### Disability Access
+
+It is the policy and practice of the University of Washington to create
+inclusive and accessible learning environments consistent with federal
+and state law. If you experience barriers based on disability, [please
+seek a meeting with DRS to discuss and address
+them](http://depts.washington.edu/uwdrs/). If you have already
+established accommodations with DRS, please communicate your approved
+accommodations to me at your earliest convenience so we can discuss your
+needs in this course. Disability Resources for Students (DRS) offers
+resources and coordinates reasonable accommodations for students with
+disabilities. Reasonable accommodations are established through an
+interactive process between you, your instructor (me) and DRS. DRS
+information can be found at: <http://depts.washington.edu/uwdrs/>
+
 ## Late Work Policy
 
 Late assignments will be penalized by 25% per day without official
@@ -173,18 +208,7 @@ complete the assigngment on time. Valid unavoidable causes are limited
 to those described in [Student Governance Policies Chapter 112,
 Subsection 1.B](http://www.washington.edu/admin/rules/policies/SGP/ScholRegCH112.html).
 
-## Accomodation
-
-Your experience in this class is important to me. If you have already
-established accommodations with Disability Resources for Students (DRS),
-please communicate your approved accommodations to me at your earliest
-convenience so we can discuss your needs in this course. If you have
-non-disability related concerns for participating in this class–such as
-difficulty with course materials or the pace of the course– please
-contact me. I want this course to be maximally useful and accessible to
-all students.
-
-## Academic Misconduct
+## Academic Misconduct Policy
 
 As a University of Washington student, you are bound by the university’s
 [student conduct

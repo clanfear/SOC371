@@ -44,7 +44,7 @@ course_outline %>%
   pander()
 ```
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 course_outline %>%
   select(Week, Lecture, Date, Topic) %>%
   filter(!is.na(Lecture)) %>%
