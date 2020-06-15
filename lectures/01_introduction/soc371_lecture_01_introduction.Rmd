@@ -18,6 +18,8 @@ output:
 
 Sutherland: "The study of making of laws, the breaking of laws, and reacting to the breaking of laws."
 
+--
+
 * Making Laws: *Sociology of Law*
 
 * Breaking Laws: *Criminology*
@@ -51,9 +53,15 @@ Research:
 
 * Provide you with an understanding of basic theories, concepts, and methods used by criminologists.
 
+--
+
 * Show you how criminological theories apply to real-world phenomena and current events.
 
+--
+
 * Make you a critical consumer of claims about crime and crime policies in the news, social media, and political campaigns.
+
+--
 
 * Develop your critical and analytical skills through discussion and written exams.
 
@@ -125,25 +133,33 @@ class: inverse
 | Final Exam             |  1     |     30           |
 
 * 95% or higher is a 4.0  
-* Each 2.5% corresponds to a .1 difference 
+
+* Each 2.5% corresponds to a .1 final grade difference 
+
    + e.g. 90/100 is a 3.8
-   + Rounded down: 92/100 is also 3.8
-* 
+
+   + This is rounded down<sup>1</sup>: 92/100 is also 3.8
+
+.footnote[[1] I'll bump you up if you're *real close*.]
 
 ---
 # Participation
 
 Components:
 
-* Reading
-* Discussion
+* Active participation in class
+   + Attendance $\neq$ Participation
 
-These are evaluated based on your participation in-class.
+* Demonstration of having read the material
 
-If unable to attend, you can arrange for and submit a 1-page reading and discussion responses *prior to scheduled discussion*.
+If unable to attend, you can submit a 1-page reading and discussion responses *prior to scheduled discussion*.
+
+* This option must be preapproved by me via email
+
+* Responses which are not preapproved will not be accepted
 
 ---
-### Discussion Questions
+# Discussion Questions
 
 2 (or more) discussion questions
    + Submit via Canvas
@@ -155,29 +171,48 @@ Example: !!!
 ---
 # Exams
 
-* 2 Midterms
-* 1 Final
+**2 Midterms**
+
+**1 Final**
 
 Structure:
 * Open-book, at least one day to work.
-* Multiple short answers
-* One or more short essay
-* Citations expected
+* Only short-answer and essay questions
+* Citations expected:
    + ex: "Shaw & McKay (1942) proposed delinquent subcultures as a mechanism for stability in neighborhood crime rates."
-   + Material from *outside* course must have an entry in **Works Cited** section
+   + Material from *outside* course must have an entry in **Works Cited**
    + Assigned class material can just be author(s) and date
-   + Any major format (e.g. ASA, APA, Harvard) acceptable but be consistent
+   + Any major format (e.g. ASA) acceptable but be consistent
 
 *Emphases of exams is demonstrating understanding, critical thinking, and application of concepts, not regurgitation of facts, names, and dates.*
 
 ---
 ## Course Texts and Readings
 
-* No Textbook
-* Two--short but important--books:
-   + [Divergent Social Worlds (2010) Ruth D. Peterson & Lauren J. Krivo](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71175976510001451)
-   + [Darfur and the Crime of Genocide (2009) John Hagan & Wenona Rymond-Richmond](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71240618630001451) 
-   + Both available as eBooks through the UW library but affordable in print.
+Two books:
+
+* *Short* and *accessible* yet *major contributions* to criminology
+* Available as eBooks through the UW library but affordable in print
+
+--
+
+[Divergent Social Worlds (2010) Ruth D. Peterson & Lauren J. Krivo](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71175976510001451)
+  
+   + An analysis of urban neighborhood crime from a structural theory of racial-spatial inequality.
+
+--
+
+[Darfur and the Crime of Genocide (2009) John Hagan & Wenona Rymond-Richmond](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71240618630001451) 
+   
+   + An analysis of the Darfur genocide from a differential social organization theory of collective racial violence.
+
+--
+
+If you need a supplementary reference text:
+
+1. Kubrin, Stucky, & Krohn. *Researching Theories of Crime and Deviance.*
+
+2. Crutchfield, Kubrin, Bridges & Weis. *Crime: Readings*
 
 ---
 class: inverse
@@ -199,49 +234,89 @@ class: inverse
 
 All theories either imply or explicitly state a causal model.
 
+--
+
 Theories consist of:
 
 1. Assumptions: Taken for granted statements
-   + *The foundations of theories*
-2. Propositions: Testable hypotheses or predictions 
-   + *These emerge from assumptions*
 
-In criminology, the key assumptions are often about human nature.
+   + *The foundations of theories*
+   
+--
+
+2. Propositions: Testable hypotheses or predictions of interest
+
+   + *These typically emerge from assumptions*
+
+--
+
+In criminology, the key assumptions are often about human nature...
 
 + e.g. *Humans are rational utility maximizers* (Homo economicus)
 
-Assumptions are fiercely contested and frequently untestable.
+--
+
+...or mechanisms...
+
++ e.g. *Disorder signals that a neighborhood is out of control.*
+
+Assumptions are often fiercely contested and sometimes untestable.
 
 ---
 # Causal Graphs
 
 Scientists often use **causal graphs** to depict models.
 
+<br>
+
 .image-75[
 ![](img/x_causes_y.svg)
 ]
 
-"X causes Y"
-
-"X causes Z, which causes Y"
-
-
 ---
-# Key concepts
+# Key Issues
+
+
+* Reverse Causality
+
+   + $Y$ may cause $X$ instead
+   + We typically rely on *assumptions* about directionality
+
+--
 
 * Spuriousness
 
+   + $X$ falsely appears to cause $Y$
+   + Instead $X$ and $Y$ are both caused by another factor (e.g. $Z$)
+
+--
+
 * Mediation
+
+  + Complete mediation means $X$ *only* effects $Y$ through $Z$.
+  + Partial mediation means $X$ effects $Y$ directly *and* through $Z$.
+  
+--
+
+* Moderation
+
+  + $X$ causes $Y$, but it depends on $Z$.
 
 ---
 # Ice *Crime*
+
+<br>
 
 .image-75[
 ![](img/ice_cream_crime.svg)
 ]
 
+
+
 ---
 # Spuriousness
+
+<br>
 
 .image-75[
 ![](img/hot_weather_crime.svg)
@@ -250,12 +325,24 @@ Scientists often use **causal graphs** to depict models.
 ---
 # Mediation
 
+<br>
+
 .image-75[
 ![](img/people_outside.svg)
 ]
 
 ---
+# Moderation
+
+<br>
+
+.image-75[
+![](img/pandemic.svg)
+]
+---
 # It Gets Complicated
+
+<br>
 
 ![](img/ce_system.svg)
 
@@ -265,34 +352,43 @@ Scientists often use **causal graphs** to depict models.
 
 Many of the theories in this course will be depicted with causal graphs.
 
-All claims (propositions) about the world imply a theory.
+--
+
+All claims (propositions) about the world imply a theory (with assumptions).
+
+--
 
 When you encounter new claims, it can be clarifying to sketch the implied causal graph.
 
 If the causal relationships don't make sense, it may reveal a flawed theory:
 
-* Outcomes which happen before their causes
+* Outcomes which happen before their causes (reverse causality)
 
 * Obvious causes left out (spuriousness)
 
-* Unclear or nonsensical mechanisms
+* Ambiguous or nonsensical mechanisms
+
+* Unwarranted assumptions
 
 *Be critical consumers of theories*
 
 ---
+class:inverse
 # Discussion
 
 ---
 # For Next Time
 
+### Readings: 
+
 * Trevino (1996) "Cesare Beccaria: Legal Reformer" in *The Sociology of Law*
 
 * Radnowitz (1966) "The Liberal Position" in *Ideology and Crime*
 
-Things to pay attention to:
+### Things to pay attention to:
 
-(1) The context the classical school emerged from.
+1. The context the classical school emerged from
 
-(2) The assumptions of the classical school--human nature, the role of government.
-
-(3) The implied causes of crime.
+2. The assumptions of the classical school--human nature, the role of government
+   + The assumed causes of crime
+   + The proposed ideal responses which emerge from those assumptions
