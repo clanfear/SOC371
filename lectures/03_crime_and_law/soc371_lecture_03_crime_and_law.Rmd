@@ -14,40 +14,128 @@ output:
       titleSlideClass: ["center","top"]
 ---
 
-L3: Definition of Crime and Law
-  Legalistic Definition of Crime
-    Crime is any culpable action or inaction prohibited by law and punishable by the state as a misdemeanor or felony.
-    Inactions
-    Felony vs misdemeanor
-    Culpability: Intent + no acceptable defense
-      Intent (mens rea):
-        Deliberate act of law violation
-        Constructive intent: Unintentional act of negligence leading to harm
-          Reasonable person test
-        Transferred Intent
-        Exception: Strict liability (public welfare offenses)
-    Legally accepted defenses:
-      Self defense, defense of others
-      Consent
-      Duress
-      Necessity
-      Entrapment
-      Double jeopardy (not relevant to culpability)
-      Insanity
-        M'Naghten Rule (1843): Not culpable due to disease of mind, (1) did not know nature and quality of act, or (2) did not know it was wrong.
+# Overview
+
+1. Definitions of Crime
+
+2. Legally Accepted Defenses
+
+3. Definition of Criminal Law
+
+---
+class: inverse
+# Definitions of Crime
+
+---
+# Legalistic
+  
+Crime is any **culpable** action *or inaction* prohibited by law and punishable by the state as a misdemeanor or felony.
+
+* Action (actus reus)
+
+* Culpability is intent *and absence of defense*
+
+* Intent (mens rea)
+
+* Inactions
+   + Gross negligence
+   + Duty to provide care
+   + Command responsibility
+
+
+
+---
+# Criminal Act (actus reus)
+
+---
+# Intent (mens rea)
+
+    Deliberate act of law violation
+    Constructive intent: Unintentional act of negligence leading to harm
+      Reasonable person test
+    Transferred Intent
+    Exception: Strict liability (public welfare offenses)
+
+
+    
+---
+# Legally accepted defenses:
+     
+* Self defense, defense of others
+* Consent
+* Duress
+* Necessity
+* Entrapment
+* Double jeopardy (not relevant to culpability)
+* Insanity
+      
+---
+# Insanity
+
+  M'Naghten Rule (1843): Not culpable due to disease of mind, (1) did not know nature and quality of act, or (2) did not know it was wrong.
         Durham Rule (1954): Not responsible if act product of mental disease or defect (outdate): Psychiatric definition of mental disease, shifted burden to prosecution to demonstrate sanity.
         Insanity Defense Act of 1984: Not culpable if "as result of a severe mental disease of defect, was unable to appreciate the nature and quality or the wrongfulness of his acts."
           Defendant must prove insanity by "clear and convincing evidence"
-  Definition of Criminal Law
-    Format: "Whosoever engages in X shall be punished with Y."
-    Criminal Law: A list of specific forms of human conduct, which ahve been outlawed by a political authority, apply uniformly to all, and is punishable by the state.
-    Ideal Characteristics:
-      Politicality
-      Specificity
-      Uniformity
-      Penal Sanction
-    State vs. Federal Law; Civil vs. Criminal; Statutory vs. Common Law
-  Summary
+
+---
+# Alternate Definitions
+
+Humanistic
+
+* Identifiable Harm
+   + Critique: Harm is subjective 
+   + ex: Harcourt's *Illusion of Order*; J.S. Mill
+
+Constructionist
+
+* Crime is a status not a behavior
+
+Moralistic
+
+Political
+
+
+---
+# Definition of Criminal Law
+  
+Format: "Whosoever engages in X shall be punished with Y."
+
+Criminal Law: A list of specific forms of human conduct, which have been outlawed by a political authority, apply uniformly to all, and is punishable by the state.
+
+--- 
+#    Ideal Characteristics
+
+* Politicality
+* Specificity
+* Uniformity
+* Penal Sanction
+    
+---
+# Levels of Law
+
+* State vs. Federal Law
+
+* Civil vs. Criminal
+
+* Statutory vs. Common Law
+
+---
+# Origins of Law
+
+---
+# Law as Consensus
+
+---
+# Law as Conflict
+
+
+---
+# Private Morality and Public Interest
+
+[Broken windows]
+
+---    
+# Summary
     According to legalistic definition, crime is behavior in violation of criminal law; must be culpable
     Criminal Law: Specific acts outlawed and punishable by the state.
 
