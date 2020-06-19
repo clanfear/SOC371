@@ -29,7 +29,6 @@ course_readings <- readxl::read_excel("./ignore/course_workbook.xlsx", sheet=2) 
 ```
 
 
-
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 course_outline %>%
   select(Week, Lecture, Date, Topic, Link) %>%
