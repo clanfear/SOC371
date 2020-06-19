@@ -383,7 +383,7 @@ class:inverse
 
 * Trevino (1996) "Cesare Beccaria: Legal Reformer" in *The Sociology of Law*
 
-* Radnowitz (1966) "The Liberal Position" in *Ideology and Crime*
+* Radzinowicz (1966) "The Liberal Position" in *Ideology and Crime*
 
 ### Things to pay attention to:
 
