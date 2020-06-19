@@ -49,8 +49,8 @@ the slides, links to readings, and assignments. Note many readings are,
 however, pay-walled and require a UWnetID to access. [See this page for
 instructions for adding a UW Library proxy to your browser for
 off-campus access to
-articles.](https://www.lib.washington.edu/help/connect/tools) Slides
-will be posted with lecture videos *after lecture*, but within 24 hours.
+articles.](https://www.lib.washington.edu/help/connect/tools) Lecture
+videos will be posted within 36 hours of recording.
 
 ### [Course Canvas](https://canvas.uw.edu/courses/1382874)
 
