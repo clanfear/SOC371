@@ -54,5 +54,5 @@ course_outline %>%
   mutate(Date = format(Date, "%b %e")) %>%
   mutate(`Topic and Readings` = paste0("**",Topic,"**", "<br>", Readings)) %>%
   select(Date, `Topic and Readings`) %>%
-  pander()
+  pander(split.tables=Inf)
 ```
