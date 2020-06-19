@@ -15,11 +15,10 @@ library(pander)
 
 ## Important links
 
-* [Canvas Page (enrolled students only)](null)
+* [Lecture Zoom](https://washington.zoom.us/j/97380045367)
+* [Canvas Page](https://canvas.uw.edu/courses/1382874)
 * [Syllabus](docs/syllabus.html)
-* [Discussion Question Instructions](null)
-* [Essay Instructions](docs/essay.html) and grading rubric.
-* [Class Mailing List](null)
+* [Class Mailing List](soc371a_su20@uw.edu)
 
 ## Course Material
 

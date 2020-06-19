@@ -8,9 +8,11 @@ Hall
 
 ## Class Meetings
 
-**Lecture Zoom**: Monday / Wednesday 9:40-11:50
+[**Lecture Zoom**: Monday / Wednesday
+9:40-11:50](https://washington.zoom.us/j/97380045367)
 
-**Office Hours**: Tuesday: 12:00 - 1:30
+[**Office Hours**: Tuesday: 12:00 -
+1:30](https://washington.zoom.us/j/2979554878)
 
 ## Overview
 
@@ -48,7 +50,8 @@ the slides, links to readings, and assignments. Note many readings are,
 however, pay-walled and require a UWnetID to access. [See this page for
 instructions for adding a UW Library proxy to your browser for
 off-campus access to
-articles.](https://www.lib.washington.edu/help/connect/tools)
+articles.](https://www.lib.washington.edu/help/connect/tools) Slides
+will be posted with lecture videos *after lecture*, but within 24 hours.
 
 ### [Course Canvas](https://canvas.uw.edu/courses/1382874)
 
@@ -76,7 +79,7 @@ final grade (e.g. 90/100 is a 3.8).
 Students are expected to complete readings and engage in discussion.
 Given the disruption presented by COVID-19, alternate evaluation (e.g. a
 1-page reading and discussion response) is possible for students unable
-to attend a given synchronous lecture. Students must contact the
+to attend one or more synchronous lectures. Students must contact the
 instructor prior to absences to be considered for alternate evaluation.
 
 #### Discussion Questions
@@ -86,7 +89,7 @@ via Canvas prior to each lecture meeting. These questions will be used
 to facilitate post-lecture discussion. Questions should be open-ended
 and reflect engagement with the material–that is, they delve deeper into
 ideas presented in the reading or raise critical questions. Questions
-are due by 6 PM the day before (i.e. 6 PM Sunday for Monday lecture’s
+are due by 5 PM the day before (i.e. 5 PM Sunday for Monday lecture’s
 readings). If there are multiple readings, each question should address
 a different reading.
 
@@ -104,6 +107,14 @@ not the exclusion of relevant course material. If material from outside
 the course is cited, you must add a *Works Cited* section at the end of
 the exam with a full, properly formatted (e.g. ASA format) citation for
 the work.
+
+Exams must be submitted to Canvas as a raw text (e.g. .txt) or common
+word processing document (e.g. .docx). Files that are “corrupt” or
+cannot be opened will be treated as handed in at the time a readable
+file is received. You may send the instructor a test file to open if you
+are unsure about file format compatibility. There are no minimum length
+requirements and maximums will be by word count, so don’t waste your
+time playing with fonts, formatting, or margins.
 
 ## Course Texts and Readings
 
@@ -204,9 +215,12 @@ information can be found at: <http://depts.washington.edu/uwdrs/>
 
 Late assignments will be penalized by 25% per day without official
 documentation of an unavoidable cause for absence or inability to
-complete the assigngment on time. Valid unavoidable causes are limited
-to those described in [Student Governance Policies Chapter 112,
+complete the assignment on time. Valid unavoidable causes are limited to
+those described in [Student Governance Policies Chapter 112,
 Subsection 1.B](http://www.washington.edu/admin/rules/policies/SGP/ScholRegCH112.html).
+Discussion questions are not eligible for late turn-in (without
+documentation of unavoidable cause) and will receive a zero if submitted
+after the due time.
 
 ## Academic Misconduct Policy
 
