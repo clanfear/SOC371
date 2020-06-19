@@ -3,8 +3,7 @@
 
 ### Summer 2020
 
-Instructor: [Charles Lanfear](mailto:clanfear@uw.edu) Office: 255 Savery
-Hall
+Instructor: [Charles Lanfear](mailto:clanfear@uw.edu)
 
 ## Class Meetings
 
