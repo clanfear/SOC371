@@ -108,7 +108,7 @@ course_outline %>%
   mutate(reading_number = as.character(row_number())) %>%
   mutate(reading_number = ifelse(!is.na(lead(reading_number)) | !is.na(lag(reading_number)), paste0("(",reading_number,") "), "")) %>%
   mutate(Link = ifelse(is.na(Link), "", Link)) %>%
-  mutate(Topic = paste0("[", Topic, "](", Link, ")")) %>%
+  mutate(Topic = paste0("[", Topic, "](../", Link, ")")) %>%
   summarize(Topic = first(Topic), Readings = paste(paste0(reading_number, Readings), collapse = "<br><br>")) %>%
   mutate(Readings = ifelse(str_detect(Readings, "NA"), "No assigned reading", Readings)) %>%
   mutate_at(vars(-Date), ~ ifelse(is.na(.), "", .)) %>%
