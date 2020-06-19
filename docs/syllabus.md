@@ -66,7 +66,7 @@ Grades will be assessed with the following breakdown:
 |         Item         | Number | Percent of Grade |
 | :------------------: | :----: | :--------------: |
 | Course Participation |   18   |        10        |
-| Discussion Questions |   16   |        20        |
+| Discussion Questions |   17   |        20        |
 |    Midterm Exams     |   2    |        40        |
 |      Final Exam      |   1    |        30        |
 
