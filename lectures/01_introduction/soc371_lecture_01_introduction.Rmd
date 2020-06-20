@@ -67,11 +67,13 @@ Research:
 
 ???
 
-Maybe one slide for each?
+Theories usually underlie policies
 
----
+Immediately relevant topics today: how do we control crime? How do we control abuse by police?
 
-# Marketable Skills?
+
+
+
 
 ---
 class: inverse
@@ -86,6 +88,10 @@ Two parts:
 1. Lecture
 
 2. Discussion
+
+???
+
+Should virtually always end early.
 
 ---
 # Content
@@ -128,7 +134,7 @@ class: inverse
 | Item                   | Number | Percent of Grade |
 |:----------------------:|:------:|:----------------:|
 | Course Participation   | 18     |     10           |
-| Discussion Questions   | 16     |     20           |
+| Discussion Questions   | 17     |     20           |
 | Midterm Exams          |  2     |     40           |
 | Final Exam             |  1     |     30           |
 
@@ -158,6 +164,10 @@ If unable to attend, you can submit a 1-page reading and discussion responses *p
 
 * Responses which are not preapproved will not be accepted
 
+???
+
+Contact me if you will always or usually be unable to attend lectures
+
 ---
 # Discussion Questions
 
@@ -166,7 +176,17 @@ If unable to attend, you can submit a 1-page reading and discussion responses *p
    + Due 6 PM the day prior to lecture
    + Questions address different readings unless there is only one
    
-Example: !!!
+Example: 
+
+"Harcourt suggests that broken windows policing is based on extending the concept of harm to include disorderly conduct in public spaces. How does this relate to controlling language or writing that is perceived as harmful or violent?"
+
+???
+
+Questions should be open ended
+
+Extensions or new applications for the material
+
+Comparisons to other readings
 
 ---
 # Exams
@@ -196,13 +216,13 @@ Two books:
 
 --
 
-[Divergent Social Worlds (2010) Ruth D. Peterson & Lauren J. Krivo](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71175976510001451)
+[Ruth D. Peterson & Lauren J. Krivo (2010) *Divergent Social Worlds*](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71175976510001451)
   
    + An analysis of urban neighborhood crime from a structural theory of racial-spatial inequality.
 
 --
 
-[Darfur and the Crime of Genocide (2009) John Hagan & Wenona Rymond-Richmond](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71240618630001451) 
+[John Hagan & Wenona Rymond-Richmond (2009) *Darfur and the Crime of Genocide* ](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71240618630001451) 
    
    + An analysis of the Darfur genocide from a differential social organization theory of collective racial violence.
 
@@ -210,24 +230,42 @@ Two books:
 
 If you need a supplementary reference text:
 
-1. Kubrin, Stucky, & Krohn. *Researching Theories of Crime and Deviance.*
+1. Kubrin, Stucky, & Krohn. (2009) *Researching Theories of Crime and Deviance.*
 
-2. Crutchfield, Kubrin, Bridges & Weis. *Crime: Readings*
+2. Crutchfield, Kubrin, Bridges & Weis. (2008) *Crime: Readings*
 
----
-class: inverse
-# Some Metatheory
 
 ---
 # The Approach
 
 1. Context
 
+   * Conditions of life
+   * Responses and critiques
+
+--
+
 2. Theoretical Assumptions
+
+   * Basis for theory
+   * "If this is the case, then..."
+
+--
 
 3. Policy Implications
 
+   * Causes imply interventions
+
+--
+
 4. Evidence
+
+   * Quantitative
+   * Qualitative
+
+---
+class: inverse
+# Some Metatheory
 
 ---
 # Causal Models
