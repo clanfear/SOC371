@@ -49,6 +49,7 @@ Research:
 * Neighborhood Social Control 
 * Broken Windows and Criminal Opportunity
 * Racial Bias in Policing
+* Social Control of Homelessness
 
 ---
 
@@ -151,6 +152,10 @@ class: inverse
 
 .footnote[[1] I'll bump you up if you're *real close*.]
 
+???
+
+If distribution is looking low, will bump everyone up (not curve)
+
 ---
 # Participation
 
@@ -234,7 +239,6 @@ Two books:
 If you need a supplementary reference text:
 
 1. Kubrin, Stucky, & Krohn. (2009) *Researching Theories of Crime and Deviance.*
-
 2. Crutchfield, Kubrin, Bridges & Weis. (2008) *Crime: Readings*
 
 
