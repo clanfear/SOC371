@@ -29,7 +29,10 @@ Sutherland: "The study of making of laws, the breaking of laws, and reacting to 
 ???
 
 * These are interrelated: laws determine what counts as crime and also the response
+
 * Assumptions about causes of crime shape reactions to breaking the law and legality of things in first place
+
+* Courses in LSJ and Sociology deal with (1) and (3)
 
 ---
 
@@ -53,9 +56,14 @@ Research:
 
 * Provide you with an understanding of basic theories, concepts, and methods used by criminologists.
 
+   + Theories underlie policies
+
 --
 
 * Show you how criminological theories apply to real-world phenomena and current events.
+
+   + How do we control crime?
+   + How do we control police misconduct?
 
 --
 
@@ -64,13 +72,6 @@ Research:
 --
 
 * Develop your critical and analytical skills through discussion and written exams.
-
-???
-
-Theories usually underlie policies
-
-Immediately relevant topics today: how do we control crime? How do we control abuse by police?
-
 
 
 
@@ -88,6 +89,8 @@ Two parts:
 1. Lecture
 
 2. Discussion
+
+   + You provide (most) questions
 
 ???
 
@@ -186,7 +189,7 @@ Questions should be open ended
 
 Extensions or new applications for the material
 
-Comparisons to other readings
+Comparisons to other readings; e.g. X says this, but Y says this.
 
 ---
 # Exams
@@ -196,7 +199,7 @@ Comparisons to other readings
 **1 Final**
 
 Structure:
-* Open-book, at least one day to work.
+* Open-book with a few days to work
 * Only short-answer and essay questions
 * Citations expected:
    + ex: "Shaw & McKay (1942) proposed delinquent subcultures as a mechanism for stability in neighborhood crime rates."
@@ -262,6 +265,16 @@ If you need a supplementary reference text:
 
    * Quantitative
    * Qualitative
+
+???
+
+Reciprocal relationship between quant and qual
+
+Qual often generates theories and questions
+
+Quant tests them and looks at generalizability
+
+Qual examines mechanisms and assumptions
 
 ---
 class: inverse
