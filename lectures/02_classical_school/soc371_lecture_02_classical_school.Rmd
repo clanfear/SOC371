@@ -36,36 +36,83 @@ A "successful despotism", characterized by:
 
 * Arbitrary power of aristocracy and church
 
+--
+
 * Laws against criticism of state and religion.
+
+--
 
 * Militarized police with extensive spying
 
+--
+
 * Torture widespread for compelling testimony or doling punishment
+
+--
 
 * Secret accusations and presumption of guilt
 
+???
+
+Interestingly presumption of innocence dates back to at least the Code of Hammurabi almost 4000 years ago
+
+But hammurabi also codified class stratification
+
+--
+
 * Widespread corruption
+
 
 ---
 # The Enlightenment
 
 A philosophical and scientific response to the social context of continental Europe.
 
-Grounding: Reason and empiricism
+&zwj;Grounding: Reason and empiricism
 
-Values: Liberty, progress, and religious tolerance
+* Emergence of social sciences--"a science of man"
+* Theories of governance: natural laws as basis of order
 
-Goals: Reform system to protect individual rights
 
-Results: Undermined authority of monarchy and church
+???
 
-* Not necessarily democratic
-* Plato's "philosopher king"
+For many, envisioned a return to an idealized Greece of Plato
+
+Be wary of beautiful visions of the past written by the wealthy and powerful or those they support.
+
+--
+
+&zwj;Values: Liberty, progress, and religious tolerance
+
+* People should be free to do as they wish without harming others.
+* Response to religious conflict--Thirty Years' War
+
+???
+
+1618 to 1648; Killed > 8 million including 20% of Germany.
+
+Defenestration of Prague when Bohemian protestants threw Holy Roman Emperor Ferdinand's reps out a window then elected a king.
+
+--
+
+&zwj;Goals: Reform system to protect individual rights
+
+--
+
+&zwj;Results: Undermined authority of monarchy and church--French revolution
+
+* Not necessarily democratic: Plato's "philosopher king"
+
+???
+
+The thinkers were a new form of aristocracy, apart from feudal system
+
+Naturally, the best people to rule the land looked a lot like them.
 
 ---
 # Beccaria
 
-*On Crimes and Punishments* was a reformist manifesto and indictment of European justice system.
+*On Crimes and Punishments* (1764) was a reformist manifesto and indictment of European justice system.
 
 --
 
@@ -81,6 +128,10 @@ In turn, widely influential:
 * Jeremy Bentham, most directly
 * US "Founding Fathers"
 
+???
+
+Elements can be found in US constitution
+
 --
 
 Like most academic work we will study, it begins with a series of strong assumptions.
@@ -94,7 +145,7 @@ class: inverse
 ---
 # Human Behavior (Micro)
 
-Individuals are rational maximizers:
+Individuals are rationally self-interested:
 
 --
 
@@ -124,34 +175,70 @@ Individuals are rational maximizers:
 
 Bentham: "it is the greatest happiness of the greatest number that is the measure of right and wrong."
 
+
 --
 
 If individuals know best how to satisfy their needs and wants...
 
-... to maximize the utility of all, we should restrict people minimally.
+???
+
+What is the implication for policy?
+
+--
+
+... to maximize the utility of all, we should avoid restricting them.
+
+???
+
+What is the problem with this?
 
 --
 
 This breaks down if individuals maximize utility at the expense of others.
 
+
+*This necessitates a deal between individuals and society*
+
+???
+
+What if different people derive different utility from the same (disposable) object?
+
+Redistribution is a key element of later conceptions of utilitarianism--but people quite wary of government in this period.
+
+Bentham and later John Stuart Mill built considerably on this logic--obvious flaws are likely to have been addressed (e.g. moral *rules*, tendencies vs certainties)
+
+Dostoevsky's Brothers Karamazov--sacrifice a child for the happiness of all
+
 ---
 # Social Contract
 
-Consensus in society: Protect individual rights and property rights
+&zwj;Consensus: Protect individual rights and property rights
 
-+ Maximize individual utility
+* Maximize individual utility
 
-Social contract: exchange some freedom for protection of rights
+--
 
-+ Restrict behavior 
+The Contract: Exchange freedom to harm for protection of own rights
 
-Punishment is *only* justified by social contract.
+* Punishment is *only* justified by social contract.
+* Montesquieu: "every punishment which does not arise from absolute necessity is tyrannical"
+
+--
 
 No basis to restrict behavior which does not infringe on others' wellbeing.
 
 * Beccaria: Legalize suicide; abolish death penalty
-
 * Bentham: Legalize homosexual sex; grant women's suffrage
+
+???
+
+All behavior is utility maximizing--including perceived harm to self!
+
+It gets fuzzy when insanity enters the mix--this is irrationality
+
+Also gets fuzzy when definitions of harm are widened
+
+J.S. Mill: We cannot accept offense or disagreement as forms of harm.
 
 ---
 class: inverse
@@ -162,60 +249,134 @@ class: inverse
 
 Curtail severity
 
+* Severe punishments reduce utility needlessly
+
+--
+
 Proportional severity
   
-  * Crimes against property punished by fines
-  * Imprisonment when the crime deprives others of freedom
+* Crimes against property punished by fines
+* Imprisonment when the crime deprives others of freedom
+
+???
+
+Issues with this?
+
+What about fining those who cannot pay--debtors prisons.
+
+How do you determine what is proportional?
+
+--
 
 *Deterrence* not reform as goal
 
-  * Just sufficiently severe to prevent crime
-  * Make world a better place, not exact vengeance]
+* Just sufficiently severe to prevent crime
+* Make world a better place, not exact vengeance
   
-Goal: *Make crime the illogical choice.*
+???
+
+Issues with this?
+
+How do we calibrate severity?
+  
+--
+
+&zwj;Goal: *Make crime the irrational choice.*
 
 ---
 # Criminal Law
 
-Terms of social contract
+Terms of Social Contract
 
 * Clear delineation of expectations
+* Written in common language
 
-Minimization of law
+???
 
-* 
+No one should be ignorant of their social obligations
 
-"To prohibit an action unnecessarily increases rather than decreases crime." (Radnowitz 9)
+--
+
+Minimization of Law
+
+* "To prohibit an action unnecessarily increases rather than decreases crime." (Radnowitz 9)
+
+???
+
+It is unreasonable to have a criminal code which is arcane 
 
 ---
 # Administration
 
-No ex-post facto legislation
+No Ex-Post Facto Legislation
 
-Minimal discretion
+???
+
+You cannot change a contract after it is signed
+
+--
+
+Minimal Discretion
 
 * Fully described laws and punishments
 * Judges only determine if a law was broken
 * Punishments uniform regardless of circumstances of offender
 
-Protection of rights
+???
+
+Judges cannot punish for uncodified behavior
+
+All crimes have specific punishments attached to them
+
+No mitigating circumstances
+
+No difference between first and repeat offenders
+
+
+--
+
+Protection of Rights
 
 * Notice of charges
-* Guaranteed Counsel
+* Guaranteed counsel
 * Presumption of innocence
+
+???
+
+Built largely off the English system
+
+Large deviation from original presumption of guilt--an accusation was sufficient for torture.
 
 ---
 # Crime Prevention
 
 Moral education
 
+???
+
+Individuals should desire and prefer higher pleasures
+
+--
+
 Reward good behavior
+
+???
+
+Bolster this by rewarding seeking higher pleasures
+
+--
 
 Punishment is last resort
 
 * Certainty, not severity, critical element for prevention
 
-[non-structural assumption]
+--
+
+Little consideration for structural causes of crime
+
+???
+
+A starving person stealing bread; Bentham says we can justify the first-order evil (theft) but not the second (deprivation of bread from owner)
 
 ---
 class: inverse
@@ -226,13 +387,34 @@ class: inverse
 
 Reforms achieve justice only in egalitarian society
 
+--
+
 Capitalist mode of production is unequal
+
+* Bonger: Capitalism *precipitates* crime by creating unequal access to life necessities
+* Capitalism *creates* selfish individualism by encouraging accumulation
+* Most crime will disappear under equal distribution
+
+--
 
 Law is part of capitalist superstructure
 
 * Protects and legitimizes system
-* Serves wealthy
+* Serves the wealthy
    + White collar crime not punished
+   + Poverty is criminalized
+   + Working is enforced
+   + Organization is legally suppressed
+   
+???
+
+Consider that in the late 1800s through early 1900s strikes were put down by military or hired guns
+
+Slavery persisted deep into the 1800s in the US--facilitated capitalist gains
+
+--
+
+*Should strive for equality*
 
 ---
 # Feminist
@@ -240,18 +422,27 @@ Law is part of capitalist superstructure
 Patriarchy
 
 * Government and law controlled by men
-
 * Has lessened in US but inequities in wages, politics, family persist
+
+--
 
 Law reproduces patriarchy
 
 * Domestic violence is private affair, not treated seriously
-
 * Common law ruled out spousal rape
-
 * Law maintains status quo
+* Equal rights amendment prohibited unequal treatment
+   + ... but was never ratified
+   + 25 state-level ERAs
+   + Race still has stricter protections than sex
 
-* Equal rights amendment
+???
+
+Only ratified by 35 of needed 38
+
+Idaho, Kentucky, Nebraska, Tennessee and South Dakote *revoked* their ratifications
+
+--
 
 *Should strive for equality*
     
@@ -263,11 +454,28 @@ Civil rights
 * Suppressed overt discrimination
 * Did not change historical legacy or social structure
 * Institutional discrimination survives
-  
+
+???
+
+For all talk of liberty and equality, slavery lasted 100 years longer in US
+
+--
+
 Law reproduces status quo
 
 * Hard to address institutional discrimination
 * Some areas of law racially biased
+* Agents of law enforce racial hierarchy
+
+???
+
+Jim Crow appeared after slavery abolished
+
+Many laws--such as zoning laws--are still tools for segregation and exclusion
+
+Drug laws and stop and frisk mainly enforced on minorities
+
+--
 
 *Should strive for equality*
       
@@ -281,12 +489,18 @@ Main critical viewpoints share a logic:
    + Source and form of problems differs
    + e.g. capitalism; patriarchy; colonialism or white supremacy
 
+--
+
 2. Law protects existing structure
+
+--
 
 3. Equality should be goal
 
    + Vision of equality different under each critique
-   
+
+--
+
 4. Equality can be achieved only through dismantling existing structure
 
 ---
