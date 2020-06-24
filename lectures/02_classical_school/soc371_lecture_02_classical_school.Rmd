@@ -175,6 +175,11 @@ Individuals are rationally self-interested:
 
 Bentham: "it is the greatest happiness of the greatest number that is the measure of right and wrong."
 
+???
+
+Key idea: The morality of an act can be determined solely by the pleasure and plain produced by it. That which produces pain is evil.
+
+Judge people and government only by consequences.
 
 --
 
@@ -506,6 +511,60 @@ Main critical viewpoints share a logic:
 ---
 class: inverse
 # Discussion
+
+---
+# Some Questions
+
+* "Trevino mentioned all four classical thinkers concerns with social and legal change. Keeping social change in mind, should legal systems focus on becoming more fluid and adaptive to better protect the current, rapidly changing societies?"
+
+--
+
+* "Trevino's piece runs through both Beccaria's philosophies on punishment as well as requests for legal reform while mentioning that Beccaria had immense influence over Europe and America. How do you and how do you not see these requests playing out in modern day?"
+
+--
+
+* "Beccaria’s radical and revolutionary ideas heavily rely on three assumptions regarding human nature: hedonism, free will, and rationality. To what extent are these assumptions valid? Should other assumptions be considered?"
+
+---
+# Some Clarifications
+
+* What is swiftness and how is it related to crime today, given our courts?
+
+???
+
+We'll talk in deterrence. Our courts ARE terribly slow. Sociological work on misdemeanor justice and procedural hassle shows being slow is a *tool* of justice now.
+
+--
+
+* Measurement: How do we make sure punishment just outweighs pleasure?
+
+???
+
+This is an eternal problem. Particularly problematic if pleasure from an act differs for everyone. Bentham believed it was quantifiable--the felicific or hedonic calculus. Betham was also a bit of a weird guy. His clothed skeleton and wax head are on display at University College, London.
+
+--
+
+* Assumptions: Wouldn't a rehabilitative model be better?
+
+???
+
+What do the assumptions say about this? Rehabilitation doesn't make sense because compulsion deprives one of freedom and the pleasures and pains are immutable.
+
+--
+
+* How does certainty compel obediance to contract? How can law restore freedom?
+
+--
+
+* How did decreased severity relate to crime rates?
+
+--
+
+* What leads to similar people differing in criminality?
+
+--
+
+* Why was European aristocracy willing to consider reforms?
 
 ---
 # For Next Time
