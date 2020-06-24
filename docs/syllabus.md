@@ -76,10 +76,21 @@ final grade (e.g. 90/100 is a 3.8).
 #### Participation
 
 Students are expected to complete readings and engage in discussion.
-Given the disruption presented by COVID-19, alternate evaluation (e.g. a
-1-page reading and discussion response) is possible for students unable
-to attend one or more synchronous lectures. Students must contact the
-instructor prior to absences to be considered for alternate evaluation.
+Given the disruption presented by COVID-19, alternate evaluation is
+possible for students unable to attend one or more synchronous lectures.
+Students must contact the instructor prior to absences to be considered
+for alternate evaluation below. Alternate evaluation *must not exceed
+one page total* (but you will likely need 350+ words) and should contain
+*for each reading*:
+
+1.  A basic summary of the reading
+2.  And one or more of:
+    1.  A personal reaction to the reading. That is, do you think the
+        theory, its assumptions, and/or policy implications make sense
+        or are missing important elements?
+    2.  A comparison and contrast with earlier readings and lecture
+        content. You should make a statement about which you find more
+        plausible and why.
 
 #### Discussion Questions
 
