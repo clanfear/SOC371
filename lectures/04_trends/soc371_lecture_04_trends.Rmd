@@ -39,13 +39,45 @@ class: inverse
 
 ---
 # Age Distribution
-      
-Us birth rates--population booms, lagged crime changes
-[New evidence on changing crime curve: Juvenile Arrests, OJJDP]
+
+Involvement in crime follows an age-crime curve
+
+IMAGE
+
+---
+
+Because age is related to crime, changes in age distribution impact crime:
+
+* Population Booms
+* Large Scale Mortality Events
+* Fertility Declines
+
+These can cause massive changes in crime rates many years after they occur.
+
+---
+
+There is evidence the curve itself is changing too.
+
+![](img/ojjdp_age_crime.PNG)
 
 ---
 # Property and violent crime UCR trends
+
+---
+
+![](img/ucr_1980_2010.PNG)
+
+---
+
+![](img/ncvs_1980_2010.PNG)
+
+---
+
+
     Victimization Trends (NCVS)
+
+
+
     Decline from 1996 to 2014
       Age: Fewer 15-25
       Economic growth: Lower joblessness, higher wages
@@ -80,19 +112,42 @@ class: inverse
 # Second amendment
 
 ---
+
 Gun homicides in US cities compared to comparable nations
+[Maybe that piece done a while back on this?]
 
 Gun ownership across nations
-Homicides by weapon in US
-Deaths by assault in US vs. OECD
-Assaalt Deaths by Region of US
+
+---
+
 US gun ownership 1959-2010 (Gallup, GSS)
+
+---
+Homicides by weapon in US
+
+---
+
+Deaths by assault in US vs. OECD
+
+---
+
+Assault Deaths by Region of US
+
+---
+
 Mass shootings in US, legal vs illegal weapon
 
 ---
 Attitudes toward control before and after shootings
+
+---
+
 Gun control opinions over time
+
+---
+
 Support for specific policies
     
 ---
 # For Next Time
+
