@@ -56,6 +56,11 @@ Us birth rates--population booms, lagged crime changes
     Homicide rates long term (1885-2010)
     Black-white differences in offending and victimization
 
+[Law of crime concentration]
+[Uneasy Peace; Sharkey on Orgs]
+[Reduction in risky behaviors: Coddling]
+[Multilevel model plot! Left is overall trend, right is deviation from average trend]
+
 ---
 class: inverse
 # Incarceration Trends
