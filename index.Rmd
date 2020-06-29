@@ -31,7 +31,7 @@ course_readings <- readxl::read_excel("./ignore/course_workbook.xlsx", sheet=2) 
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 course_outline %>%
-  select(Week, Lecture, Date, Topic, Link) %>%
+  select(Week, Lecture, Date, Topic, Link, Video) %>%
   filter(!is.na(Lecture)) %>%
   left_join(course_readings, by = "Lecture") %>%
   select(-Lecture, Readings = Citation) %>%
@@ -39,8 +39,9 @@ course_outline %>%
   mutate(reading_number = as.character(row_number())) %>%
   mutate(reading_number = ifelse(!is.na(lead(reading_number)) | !is.na(lag(reading_number)), paste0("(",reading_number,") "), "")) %>%
   mutate(Link = ifelse(is.na(Link), "", Link)) %>%
-  mutate(Topic = paste0("[", Topic, "](", Link, ")")) %>%
-  summarize(Topic = first(Topic), Readings = paste(paste0(reading_number, Readings), collapse = "<br><br>")) %>%
+  mutate(Topic = paste0("[", Topic, "](../", Link, ")")) %>%
+  mutate(Video = ifelse(!is.na(Video), paste0("[(Zoom Recording)](../", Video, ")"), "(No Recording Yet)")) %>%
+  summarize(Topic = first(Topic), Readings = paste(paste0(reading_number, Readings), collapse = "<br><br>"), Video = first(Video)) %>%
   mutate(Readings = ifelse(str_detect(Readings, "NA"), "No assigned reading", Readings)) %>%
   mutate_at(vars(-Date), ~ ifelse(is.na(.), "", .)) %>%
   mutate(Topic = case_when(
@@ -51,7 +52,7 @@ course_outline %>%
   )) %>%
   arrange(Date) %>%
   mutate(Date = format(Date, "%b %e")) %>%
-  mutate(`Topic and Readings` = paste0("**",Topic,"**", "<br>", Readings)) %>%
+  mutate(`Topic and Readings` = paste0("**",Topic,"**", "<br>", Video, "<br>", Readings)) %>%
   select(Date, `Topic and Readings`) %>%
   pander(split.tables=Inf)
 ```
