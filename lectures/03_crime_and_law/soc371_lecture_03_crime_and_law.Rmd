@@ -164,6 +164,8 @@ Limited to proportional response to present, unlawful, and unprovoked attack
 
 Usually duty to retreat, can only sometimes defend property
 
+WA has true man doctrine; "true man" is one without fauly
+
 --
 
 * Consent
@@ -455,6 +457,60 @@ Absent laws, norms often solve problems in groups--much larger lit out there on 
    + Consensus and conflict perspectives 
 
 ---
+class: inverse
+# Discussion
+
+---
+# Some Questions
+
+Kauzlarich & Friedrichs reading: These authors describe the political definition of crime as occurring almost exclusively in totalitarian or authoritarian regimes targeting political opponents and "enemies of the state". Could you argue the US has created political crimes as well? Have they been couched in more vague and politically-correct terms, or have they not happened at all?
+
+--
+
+Considering whether or not Law is a product of consensus versus a product of conflict, which ideal do you believe more heavily influences the current state of legislation in America?
+
+--
+
+Hemmes reading: What are the merits to the "retreat doctrine" versus the "true man doctrine" versus the "castle doctrine"? Should each of these always, sometimes, or never apply?
+
+---
+# Some Clarifications
+
+* "How do the legal systems that identify behaviors like homosexuality as mental illness reconcile this as a vast majority of the time they also have strict laws listing it as a crime?"
+
+???
+
+Laws need not be logically compatible. People can put whatever they want on the books to accomplish a goal. Labeling it mental illness might enable commitment. May also make it mental illness but not allow it to reduce culpability.
+
+--
+
+"According to the passage, there are many ways to define crime, but how does one's interpretation of crime affect his/her behavior? "
+
+???
+
+This is one of the reasons for the humanistic side--trying to get people to think of things like deprivation as criminal, and abhorrent, so we intervene.
+
+--
+
+"In the article, a quote states "Today an agent of the state, such as police officer or soldier, is permitted to use reasonable force in the lawful execution of his or her duties". To what degree is considered as "reasonable force" under a normal circumstance?" and "...how is it that civilians cannot protect themselves unless they are being attacked and are not able to flee, but officers of the law may kill someone if they believe them to be of harm to themselves or others?"
+
+???
+
+Police aren't civilians, that's why!
+
+Police typically don't suffer from harsh judgments over use of force. But departments have internal policies in most cases.
+
+Police are charged with the legal capability to dole out lethal force and to do so in a broad range of situations cirvilians cannot.
+
+--
+
+"Can you further explain why “intent” should not be confused with “premeditation”?"
+
+???
+
+Premeditation means one plans to do the act prior to doing it. Intent just means the action was done voluntarily and purposefully--but they could have decided to do it right then and there.
+
+---
 # For Next Time
 
 ### Readings: 
@@ -466,12 +522,8 @@ Absent laws, norms often solve problems in groups--much larger lit out there on 
 ### Things to pay attention to:
 
 1. Trends at different levels versus deviation from trends
-
 2. Lack of certainty about causes of changing crime trends
-
    * Compare to certainty politicians and media attach to policies
-
 3. Disparate impacts of incarceration
-
    * Contrast impacts on inequality with impacts on crime
         
