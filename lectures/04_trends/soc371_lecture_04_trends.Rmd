@@ -790,10 +790,71 @@ class: inverse
 # Discussion
 
 ---
-# Some Questions
+# Questions 1
+
+* "I feel that this reading showed how skewed local and national views on crime rates can be opposed to actual statistics based on where an individual lives as well as the story we tell ourselves as Americas, usually through media and anecdotal stories. Based on perception alone, do you view the neighborhood you live in as safe or dangerous? High crime or low crime? Why? What are the indicators that you use to assess this?"
+
+--
+
+* "Baumer and Wolff respectfully argue that NYC's great crime decline was not only local and that many of the reasons it did disproportionally decline may have had something with policing. Considering the current movement, how do you see this playing a role in a counter argument to defunding the police? What do you think Baumer and Wolff's opinions are regarding defunding the police?"
+
+???
+
+Most crim folks believe we're both over and under policing. General belief in necessity of police but role is far, far too broad.
+
+---
+# Questions 2
+
+* "Beyond Crime and Punishment: Prisons and Inequalities was published almost 20 years ago and we still see the same trend of black men making the majority of the prison population today. Additionally, we see the same association between criminal behavior and economic disadvantage. Even though this is a systematic problem, what are some things we could do so that we don't see the same trend another 20 years later?"
+
+--
+
+* "The article Evaluating Contemporary Crime Drop(s) in America, New York City, and Many Other Places mentioned that one possible explanation for crime drop is an increase of video gaming. This seems to be contrasting to what I grew up with. How do you think the trend in crimes relates to cultural upbringing?"
+
+???
+
+Psych, Soc, Pub Health, and others have documented increase in anxiety, reduction in independence, increased time indoors, reduced unstructured time of youth, reductions in dating, sex, drug use, increases in suicide. Links to social media, internet, constraining parenting.
 
 ---
 # Some Clarifications
+
+* How can reported crimes be lower and the amount of people going to prison be tripled? [Are] police arresting people for crimes that are not being reported?
+
+???
+
+Some policing strategies implemented in the 90s and 2000s involved more proactive policing. But what is mostly going on is harsher penalties. We're incarcerating for things we didn't used to, and doing so for longer.
+
+--
+
+* Balancing "target hardening" against crime with avoiding incarcerating more people--opportunity reduction and displacement.
+
+???
+
+We'll get into criminal opportunity later, but a consistent finding is that removing criminal opportunities prevents crimes from being committed without displacing them elsewhere. This would reduce incarceration and crime at the same time.
+
+--
+
+* I wonder if there are any other statistics that are masked by the prison population and possibly used for political agenda?
+
+???
+
+A big one is population counts. People in prison typically cannot vote, but they get counted for allocating representation. Having a large prison in your area can give you a big boost in political power. This results in a shift of political power from urban black areas to rural white areas. There's movements to get that pop reallocated to the pre-incarceration districts of prisoners.
+
+--
+
+* "Why do you think that crimes have gone down but the number of incarcerated prisoners has gone up? With that is there a noticeable trend with race and accused crime, is this based on a systematic flaw in the police force or a trend of systematic racism in the people making the calls?"
+
+???
+
+Most policing is reactive and there's good evidence people are more likely to call the police on black and Hispanic people, particularly in white neighborhoods. C&C paper. Police are also disproportionately deployed to minority areas. You don't need any individual officer bias to generate outcomes.
+
+--
+
+* How is education related to race, crime, and incarceration?
+
+???
+
+Poor, black, urban neighborhoods have bad schools, few conventional opportunities for success. Staying in school makes less sense when it doesn't seem like it gets you anywhere--and maybe you aren't learning anything anyway.
 
 ---
 # For Next Time
@@ -802,8 +863,10 @@ class: inverse
 
 * Ehrenberg, Rachel. 2012.”Reliance on Raw Statistics Makes City Crime Rankings Misleading.” *Science News* 181(12):9
 
+* [Knox, Dean, Will Lowe, and Jonathon Mummolo. 2020. "Administrative Records Mask Racially Biased Policing". Cambridge Core Blog.](https://www.cambridge.org/core/blog/2020/06/23/administrative-records-mask-racially-biased-policing/)
+
 ### Things to pay attention to:
 
-1.
-
-2.
+Police data should not be taken at face value!
+* Official crime rates are combination of actual victimization and willingness to call police.
+* Racial bias is hard to measure with police data
