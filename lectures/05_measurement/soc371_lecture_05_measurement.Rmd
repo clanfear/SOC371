@@ -1,0 +1,48 @@
+---
+title: "Measuring Crime and Policing"
+subtitle: "SOC371, Summer 2020"
+author: "Chuck Lanfear"
+date: "Jul 6, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ../style/xaringan-themer.css
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["center","top"]
+---
+
+```{r setup, include = FALSE}
+library(tidyverse)
+```
+
+# Overview
+
+
+1. Data Source in Criminology
+
+2. Measuring Crime
+
+3. Measuring Bias in Policing
+
+---
+
+---
+# For Next Time
+
+* Marshall, Chris E. 2002. “Deterrence Theory.” Pp. 512-515 in *Encyclopedia of Crime and Punishment*. Edited by D. Levinson. Beverly Hills: Sage
+
+* Levitt, Steven D. 2002. “Deterrence.” Pp. 435-450 in *Crime: Public Policies for Crime Control*. Edited by J.Q. Wilson and J. Petersilia. Oakland, CA: ICS press
+
+
+
+### Things to pay attention to:
+
+
+* Connection to classical school
+
+* Theoretical assumptions
+
+* Policy implications of deterrence

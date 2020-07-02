@@ -159,4 +159,4 @@ As a University of Washington student, you are bound by the university's [studen
 
 ## Acknowledgements
 
-This course is based, with permission, on Dr. Ross Matsueda's University of Washington SOC371 Criminology lecture.
+This course is based, with permission, on Dr. Ross Matsueda's University of Washington SOC371 Criminology lecture. It is also draws on material from Kate O'Neill's version of the same course and Ross Matsueda's SOC571 Deviance and Social control seminar.
