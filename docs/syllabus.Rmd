@@ -95,7 +95,7 @@ The content in this course engages with many emotionally and intellectually chal
 
 ## Contacting the Instructor
 
-You are encouraged to contact my via email with questions or concerns. Note, it may take up to 48 weekday hours to respond to your email.
+You are encouraged to contact me via email with questions or concerns. Note, it may take up to 48 weekday hours to respond to your email.
 
 ## Course Outline
 
@@ -120,12 +120,6 @@ course_outline %>%
   summarize(Topic = first(Topic), Readings = paste(paste0(reading_number, Readings), collapse = "<br><br>"), Video = first(Video)) %>%
   mutate(Readings = ifelse(str_detect(Readings, "NA"), "No assigned reading", Readings)) %>%
   mutate_at(vars(-Date), ~ ifelse(is.na(.), "", .)) %>%
-  mutate(Topic = case_when(
-    is.na(lag(Topic)) ~ Topic,
-    lag(Topic) == Topic ~ paste0(Topic, " 2"),
-    lead(Topic) == Topic ~ paste0(Topic, " 1"),
-    TRUE ~ Topic
-  )) %>%
   arrange(Date) %>%
   mutate(Date = format(Date, "%b %e")) %>%
   mutate(`Topic and Readings` = paste0("**",Topic,"**", "<br>", Video, "<br>", Readings)) %>%
@@ -159,4 +153,4 @@ As a University of Washington student, you are bound by the university's [studen
 
 ## Acknowledgements
 
-This course is based, with permission, on Dr. Ross Matsueda's University of Washington SOC371 Criminology lecture. It is also draws on material from Kate O'Neill's version of the same course and Ross Matsueda's SOC571 Deviance and Social control seminar.
+This course is based, with permission, on Dr. Ross Matsueda's University of Washington SOC371 Criminology lecture. It is also draws on material from Kate O'Neill's version of this same course and Ross Matsueda's SOC517 Deviance and Social control seminar.

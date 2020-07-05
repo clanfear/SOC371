@@ -1,22 +1,25 @@
----
-title: "Measuring Crime and Policing"
-subtitle: "SOC371, Summer 2020"
-author: "Chuck Lanfear"
-date: "Jul 6, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
-output:
-  xaringan::moon_reader:
-    lib_dir: libs
-    css: ../style/xaringan-themer.css
-    nature:
-      highlightStyle: tomorrow-night-bright
-      highlightLines: true
-      countIncrementalSlides: false
-      titleSlideClass: ["center","top"]
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Measuring Crime and Policing</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Chuck Lanfear" />
+    <script src="libs/header-attrs-2.2/header-attrs.js"></script>
+    <link rel="stylesheet" href="..\style\xaringan-themer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, top, title-slide
+
+# Measuring Crime and Policing
+## SOC371, Summer 2020
+### Chuck Lanfear
+### Jul 6, 2020<br>Updated: Jul 3, 2020
+
 ---
 
-```{r setup, include = FALSE}
-library(tidyverse)
-```
+
+
 
 # Overview
 
@@ -56,7 +59,7 @@ To get a foundation in these topics, I recommend you...
    + SOC403: Applied Research 
 
 * Take a course in *research methods*
-   + SOC/STAT/CS&SS221: Statistical Concepts and Methods
+   + SOC/STAT/CS&amp;SS221: Statistical Concepts and Methods
    + SOC321: Data Science and Statistics
 
 ---
@@ -241,13 +244,13 @@ Differential treatment may produce bias not seen in actual commission of crimes
 ---
 # An Example
 
-*Observed Crime Rate* $=$ *Actual Rate* $*$ *Probability of Reporting*
+*Observed Crime Rate* `\(=\)` *Actual Rate* `\(*\)` *Probability of Reporting*
 
-<br>
+&lt;br&gt;
 
 --
 
-> According to the U.C.R., the incidence of rape nearly doubled from 1973 to 1990. The N.C.V.S., by contrast, shows that it declined by around forty per cent during the same period. Researchers... found that the upward trend in the U.C.R. data correlated with upticks in the number of female police officers, and with the advent of rape crisis centers and reformed investigative styles. It could be, in short, that a modernized approach to the policing of rape drastically increased the frequency with which it was reported while reducing its incidence.
+&gt; According to the U.C.R., the incidence of rape nearly doubled from 1973 to 1990. The N.C.V.S., by contrast, shows that it declined by around forty per cent during the same period. Researchers... found that the upward trend in the U.C.R. data correlated with upticks in the number of female police officers, and with the advent of rape crisis centers and reformed investigative styles. It could be, in short, that a modernized approach to the policing of rape drastically increased the frequency with which it was reported while reducing its incidence.
 
 [Matthew Hutson (2020) "The Trouble with Crime Statistics" *The New Yorker*](https://www.newyorker.com/culture/annals-of-inquiry/the-trouble-with-crime-statistics)
 
@@ -341,10 +344,10 @@ class: inverse
 ---
 # Types of Measures
 
-&zwj;Observables: Objective, externally measurable variables
+&amp;zwj;Observables: Objective, externally measurable variables
 
    * Individual height, occupation, stated opinions
-   * Neighborhood population, size, crime rate<sup>1</sup>
+   * Neighborhood population, size, crime rate&lt;sup&gt;1&lt;/sup&gt;
 
 .footnote[[1] Hard to measure doesn't mean unobservable!]
 
@@ -375,7 +378,7 @@ These are ideal types. Some theoretically observable things must be treated as u
 ---
 # Measurement Concepts
 
-&zwj;Conceptualization: *What is X?*
+&amp;zwj;Conceptualization: *What is X?*
 
 * Define what a measure constitutes
 * Define relations to other concepts
@@ -389,12 +392,12 @@ What does social class mean?
 
 --
 
-&zwj;Operationalization: *How do I measure X?*
+&amp;zwj;Operationalization: *How do I measure X?*
 
 * Define observable(s)--**indicators**--that are related to the concept
 * If single indicator, it is a **proxy** for the concept
    + e.g. *Years of School* is a proxy for *Education*
-* If multiple indicators, they can be combined into *composite* measure<sup>1</sup>
+* If multiple indicators, they can be combined into *composite* measure&lt;sup&gt;1&lt;/sup&gt;
 
 When reading articles, pay attention to how things are measured!
 
@@ -415,11 +418,11 @@ If income + education, they're looking at some average of those two. Are those s
 
 #### Self-Control
 
-&zwj;Concept: The ability to delay gratification, tolerate frustration, and carefully consider before acting.
+&amp;zwj;Concept: The ability to delay gratification, tolerate frustration, and carefully consider before acting.
 
 --
 
-&zwj;Measures: *Would you strongly agree, somewhat agree, or disagree that you...*
+&amp;zwj;Measures: *Would you strongly agree, somewhat agree, or disagree that you...*
 
    * "Get upset when you have to wait for something?"
    * "Act without stopping to think?"
@@ -429,14 +432,14 @@ If income + education, they're looking at some average of those two. Are those s
    
 --
 
-&zwj;Assumption: *Shared variation in the measures represents underlying self-control.*
+&amp;zwj;Assumption: *Shared variation in the measures represents underlying self-control.*
 
 ---
 # Neighborhood Example
 
 #### Expectations for Child-Centered Informal Control
 
-&zwj;Concept: The shared neighborhood norms and expectations for intervening against child misbehavior.
+&amp;zwj;Concept: The shared neighborhood norms and expectations for intervening against child misbehavior.
 
 ???
 
@@ -448,7 +451,7 @@ Isn't about what respondent would do--is about what people around would do
 
 --
 
-&zwj;Measures: *How likely<sup>1</sup> is it that people in your neighborhood would stop it if...*
+&amp;zwj;Measures: *How likely&lt;sup&gt;1&lt;/sup&gt; is it that people in your neighborhood would stop it if...*
 
    * "a group of neighborhood children were skipping school and hanging out on a street corner."
    * "some children were spray-painting graffiti on a local building."
@@ -494,7 +497,7 @@ To measure an effect, you need to determine the difference in an outcome (Y) due
 ---
 # Establishing Causation
 
-&zwj;Problem: We only observe *one outcome* per unit--if a person takes a pill, we don't see what happens when they don't take it.
+&amp;zwj;Problem: We only observe *one outcome* per unit--if a person takes a pill, we don't see what happens when they don't take it.
 
 ???
 
@@ -502,7 +505,7 @@ Fundamental problem of causal inference
 
 --
 
-&zwj;Solution: Randomized Treatment
+&amp;zwj;Solution: Randomized Treatment
 * On average, randomly selected groups differ only by treatment.
 * Average outcome difference between groups is treatment effect.
 
@@ -519,7 +522,7 @@ Randomization is incredibly powerful, overcoming almost any inferential obstacle
 ---
 # Establishing Causation
 
-&zwj;*Hard Problem*: Most things we're interested in can't be randomly assigned.
+&amp;zwj;*Hard Problem*: Most things we're interested in can't be randomly assigned.
 * We can't assign rough childhoods neighborhood incomes.
 * Other things related to our outcome (crime) are also related to treatment.
 
@@ -537,7 +540,7 @@ Can't manipulate race... but can manipulate *perception* of race
 
 --
 
-&zwj;*Hard Solution*: Measure everything else related and adjust for it.
+&amp;zwj;*Hard Solution*: Measure everything else related and adjust for it.
 * Hard to measure or even *know* everything related
 
 ???
@@ -549,13 +552,13 @@ In qualitative work it can be easier to establish cause--but much harder to gene
 ---
 # Measuring Bias in Policing
 
-### An example from Knox, Lowe, & Mummolo. 2020. "Administrative Records Mask Racially Biased Policing"
+### An example from Knox, Lowe, &amp; Mummolo. 2020. "Administrative Records Mask Racially Biased Policing"
 
 ---
 # Use of Force
 
 
-&zwj;Question: Do police use more force against black civilians?
+&amp;zwj;Question: Do police use more force against black civilians?
 
 ???
 
@@ -572,7 +575,7 @@ Imagine you have sample of police encounters identical except for race.
 --
 
 Then, discard data on anyone police observed but *did not stop*.
-+ You are now comparing use of force against white people committing serious crime to black ones committing no crime
++ You are now comparing white people committing serious crime to black ones committing no crime
 + If use of force were the same, *we'd have a serious problem*
 
 --
@@ -589,7 +592,7 @@ Then, discard data on anyone police observed but *did not stop*.
 ![](img/bias_1.svg)
 ]
 
-&zwj;Question: How does race impact use of force?
+&amp;zwj;Question: How does race impact use of force?
 
 ---
 # The Problem
@@ -624,25 +627,7 @@ Some novel papers have gotten at these before.
 
 One example is comparing drivers stopped when sun is up to when sun is down--when police can't see race.
 
----
-# Consequences
 
-* Detecting bias in the decision to stop is difficult
-
-* If any stop bias exists, it is difficult to measure bias in...
-
-   + Arrests
-   + Use of force
-   + Frisks
-   + Shootings
-
-* Raw numbers can easily show *opposite patterns* from underlying reality.
-
-* Studies showing no bias--or anti-white bias--get *lots* of media, social media, and political traction.
-
-???
-
-This is an issue many if not most researchers working in this area don't fully grasp
 
 ---
 # Summary
@@ -676,3 +661,126 @@ This is an issue many if not most researchers working in this area don't fully g
 * Theoretical assumptions
 
 * Policy implications of deterrence
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "tomorrow-night-bright",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

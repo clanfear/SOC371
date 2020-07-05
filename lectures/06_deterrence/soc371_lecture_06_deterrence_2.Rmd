@@ -1,0 +1,84 @@
+---
+title: "Rational Choice and Deterrence"
+subtitle: "SOC371, Summer 2020"
+author: "Chuck Lanfear"
+date: "Jun 22, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ../style/xaringan-themer.css
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["center","top"]
+---
+
+# Overview
+
+1. Sherman & Berk (1984)
+
+2. Routine Activities
+
+3. Extensions to Rational Choice
+
+   * Behavioral Economics
+   * Informal Sanctions
+
+---
+
+  Minneapolis Domestic Assault Experiment (Sherman & Berk ASR 1984)
+    Randomized experiment (officer pad color)
+      Separate, advise, or arrest
+    Criteria:
+      Misdemeanor assaults, victim and offender present, probable cause of assault
+    Follow up offenders (re-arrest and self report)
+    Compare arrested with non-arrested
+    Specific deterrence vs. labeling
+    Problem: Departures from randomization
+    Results:
+      Small but significant deterrence effect over 24 month follow up
+      Arrest had specific deterrent effect
+      Caveats:
+        Problem with randomization, need for replication
+      New legislation ignored caveats: mandtory arrest
+      NIJ funded replications
+        Omaha, Milwaukee, Dade County, Colorado Springs
+        Randomization by dispatcher
+        No consistent deterrence, slight labeling in some studies
+          Conditional: Arrest deterred married and employed; arrest increased for single and unemployed.
+          More to lose if married and working
+
+---
+# Routine Activities Theory (Rational Choice)
+    
+---
+# 
+    Crime results from opportunities
+      Motivated offenders, suitable targets, capable guardians
+
+Rational choice is situation; routine activities is macro-level
+
+Crime goes up given more targets or fewer guardians
+   + i.e. without change in motivation or number of offenders
+   
+---
+Explaining trends
+
+
+    Hot Spots Policing (Police as Guardians)
+      Identify high crime areas, send police there
+      Reduces crime but questions of displacement
+
+---
+class: inverse
+# Extension to Rational Choice
+
+---
+# Contributions from Behavioral Econ
+
+---
+# Informal Control Deterrence
+      
+---
+# For Next Time
