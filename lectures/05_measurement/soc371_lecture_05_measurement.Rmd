@@ -38,7 +38,7 @@ library(tidyverse)
    
 4. Measuring Relationships
  
-   * Types of Effects and Methods
+   * Types of Effects
 
    * Measuring Bias in Policing
 
@@ -48,6 +48,8 @@ library(tidyverse)
 Today is a brief overview of Sociological methods.
 
 These topics are too much to cover in one term let alone a day.
+
+--
 
 To get a foundation in these topics, I recommend you...
 
@@ -59,11 +61,30 @@ To get a foundation in these topics, I recommend you...
    + SOC/STAT/CS&SS221: Statistical Concepts and Methods
    + SOC321: Data Science and Statistics
 
+???
+
+Many of the advanced methods you see in modern papers aren't seen in any undergraduate classes; sometimes not even in grad classes.
+
 ---
 class: inverse
 # Research Approaches 
 
+### Qualitative and quantitative
+
+.pull-left[
+.image-75[
+![](img/suttles.jpg)
+]
+]
+
+.pull-right[
+.image-75[
+![](img/sampson.jpg)
+]
+]
+
 ---
+
 # Qualitative
 
 *Contextual, categorical, interpretive, inductive*
@@ -74,6 +95,8 @@ Data
 * Observation (Overt/Covert)
 * Participation (Overt/Covert)
 
+--
+
 .pull-left[
 Strengths
 
@@ -82,6 +105,24 @@ Strengths
 * Observe mechanisms
 * Easier to Communicate
 ]
+
+???
+
+
+Qual work often inductive: looks at specific cases and extrapolates to general theory; the specific to the general
+
+Qualitative work can get at lived experiences
+
+Qualitative work often only way to get offender perspectives
+
+Pops you want to reach can be risky or difficult to access
+
+But can ask and answer questions from perspective of agents involved
+
+Can capture whole processes including motivations and feelings of actors involved
+
+--
+
 .pull-right[
 Challenges
 
@@ -94,17 +135,14 @@ Challenges
 
 ???
 
-Qual work often inductive: looks at specific cases and extrapolates to general theory; the specific to the general
-
-Qualitative work often only way to get offender perspectives
-
-Pops you want to reach can be risky or difficult to access
-
-But can ask and answer questions from perspective of agents involved
-
 Qual work typically huge time commitment
 
 Must address subjectivity--different researchers will interpret situations differently
+
+Possible to get swept into ethical issues: Alice Goffman's *On The Run*
+
+   + Most charitable interpretation is being uncritical of informant claims, getting swept up in their lives
+   + Less charitable (but possibly true) is substantial fabrication and unethical behavior
 
 ---
 # Quantitative
@@ -114,8 +152,17 @@ Must address subjectivity--different researchers will interpret situations diffe
 Data
 
 * Surveys
-* Administrative data
 * Secondary data
+   + Police Data
+   + Government Data
+
+???
+
+Quant work often deductive: Begins with general rules, tests hypotheses and applies to cases; the general to the specific
+
+Might also use novel things like sensors or social media data
+
+--
 
 .pull-left[
 Strengths
@@ -125,6 +172,17 @@ Strengths
 * Measuring effects
 * Scales well
 ]
+
+???
+
+Quant research can typically be reproduced computationally, replicated statistically, and more easily generalized to new contexts
+
+Can get precise, actionable numeric estimates for policy
+
+Can use gross amounts of data that are impossible to handle qualitatively
+
+--
+
 .pull-right[
 Challenges
 
@@ -137,11 +195,7 @@ Challenges
 
 ???
 
-Quant work often deductive: Begins with general rules, tests hypotheses and applies to cases; the general to the specific
-
 Learning to do quant research well is an enormous undertaking--and even the best make major mistakes
-
-Quant research can typically be reproduced computationally, replicated statistically, and more easily generalized to new contexts
 
 Can easily miss important heterogeneity; can also miss important mechanisms that would be obvious from qualitative research
 
@@ -197,7 +251,7 @@ Agency Data
 
 Police data is administrative data--a form of secondary data collected by agencies for their own uses.
 
-It isn't generated for research purposes, so there is little concern for things researchers care about like representation
+It isn't generated for research purposes, so there is little concern for things researchers care about like sample representation
 
 ---
 # The Dark Figure of Crime
@@ -230,7 +284,7 @@ It isn't generated for research purposes, so there is little concern for things 
 
 ???
 
-The Wire: Police are often under pressure to reduce the crime rate; easiest way to do that is avoid charging people
+The Wire: Police are often under pressure to reduce the crime rate; easiest way to do that is avoid charging people; juking stats
 
 If police believe DA won't pursue, they won't either
 
@@ -249,7 +303,7 @@ Differential treatment may produce bias not seen in actual commission of crimes
 
 > According to the U.C.R., the incidence of rape nearly doubled from 1973 to 1990. The N.C.V.S., by contrast, shows that it declined by around forty per cent during the same period. Researchers... found that the upward trend in the U.C.R. data correlated with upticks in the number of female police officers, and with the advent of rape crisis centers and reformed investigative styles. It could be, in short, that a modernized approach to the policing of rape drastically increased the frequency with which it was reported while reducing its incidence.
 
-[Matthew Hutson (2020) "The Trouble with Crime Statistics" *The New Yorker*](https://www.newyorker.com/culture/annals-of-inquiry/the-trouble-with-crime-statistics)
+[Matthew Hutson. 2020. "The Trouble with Crime Statistics." *The New Yorker*](https://www.newyorker.com/culture/annals-of-inquiry/the-trouble-with-crime-statistics)
 
 ???
 
@@ -270,6 +324,9 @@ Advantages
 * Captures unreported crime
 * Can get at exposure
 ]
+
+--
+
 .pull-right[
 Challenges
 
@@ -280,14 +337,6 @@ Challenges
 * Doesn't capture crime without victim
 ]
 
-Examples:
-
-National Crime Victimization Survey
-
-Seattle Neighborhoods and Crime Survey
-
-Durfee (2011) "I’m Not a Victim, She's an Abuser": Masculinity, Victimization, and Protection Orders
-
 ???
 
 If you survey a person, you get their victimization; hard to track over time, or many people
@@ -295,6 +344,18 @@ If you survey a person, you get their victimization; hard to track over time, or
 Crime without victim includes consensuals but also homicide
 
 Missing and murdered indigenous women and girls
+
+--
+
+Examples:
+
+National Crime Victimization Survey
+
+Seattle Neighborhoods and Crime Survey
+
+Durfee. 2011. "'I’m Not a Victim, She's an Abuser'": Masculinity, Victimization, and Protection Orders."
+
+
 
 ---
 # Self-Report Data
@@ -306,6 +367,9 @@ Advantages
 * Captures crime without victim
 * Can get at motivation
 ]
+
+--
+
 .pull-right[
 Challenges
 
@@ -317,14 +381,6 @@ Challenges
 
 ]
 
-Examples:
-
-National Longitudinal Survey of Youth
-
-Add Health
-
-St. Jean (2007) *Pockets of Crime: Broken Windows, Collective Efficacy, and the Criminal Point of View*
-
 ???
 
 Random sampling means basically impossible to reach enough for national, hard even in city
@@ -332,6 +388,17 @@ Random sampling means basically impossible to reach enough for national, hard ev
 Targeted samples have limitations
 
 Separation between incarcerated and free samples
+
+--
+
+Examples:
+
+National Longitudinal Survey of Youth
+
+Add Health
+
+St. Jean. 2007. *Pockets of Crime: Broken Windows, Collective Efficacy, and the Criminal Point of View*
+
 
 ---
 class: inverse
@@ -413,7 +480,7 @@ If income + education, they're looking at some average of those two. Are those s
 ---
 ## Individual Example
 
-#### Self-Control
+### Self-Control
 
 &zwj;Concept: The ability to delay gratification, tolerate frustration, and carefully consider before acting.
 
@@ -434,7 +501,7 @@ If income + education, they're looking at some average of those two. Are those s
 ---
 # Neighborhood Example
 
-#### Expectations for Child-Centered Informal Control
+### Expectations for Child-Centered Informal Control
 
 &zwj;Concept: The shared neighborhood norms and expectations for intervening against child misbehavior.
 
@@ -459,7 +526,7 @@ Isn't about what respondent would do--is about what people around would do
 
 --
 
-Assumption: *Shared variation in the measures represents underlying expectations for social control.*
+&zwj;Assumption: *Shared variation in the measures represents underlying expectations for social control.*
 
 ---
 class: inverse
@@ -468,9 +535,7 @@ class: inverse
 ---
 # Types of Relationships
 
-* Association
-
-   + X and Y tend to "go together"
+* &zwj;Association: *X and Y tend to "go together"*
    + Ex: Ice cream sales and violent crime rise at same time
    + *May* imply common causes, e.g. temperature
    + *Does not* imply banning ice cream will reduce crime or vice versa
@@ -478,9 +543,7 @@ class: inverse
 
 --
 
-* Effect
-
-   + X causes Y
+* &zwj;Effect: *X causes Y*
    + Ex: Clearing a vacant lot reduces nearby violence 
    + Implies direction and cause:
       + Clearing more lots will reduce violence there
@@ -489,7 +552,7 @@ class: inverse
 
 --
 
-To measure an effect, you need to determine the difference in an outcome (Y) due solely to the cause of interest (X)
+To measure an *effect*, you need to determine the difference in an outcome (Y) due solely to the cause of interest (X)
 
 ---
 # Establishing Causation
@@ -515,6 +578,10 @@ Randomization is incredibly powerful, overcoming almost any inferential obstacle
 .image-threequarterwidth[
 ![](img/rct.svg)
 ]
+
+???
+
+People may differ in any number of ways, but as long as those differences don't impact the likelihood of receiving treatment, you can get an accurate measure.
 
 ---
 # Establishing Causation
@@ -620,7 +687,7 @@ More problems
 
 ???
 
-Some novel papers have gotten at these before.
+Some novel papers have gotten at these before, but it is incredibly challenging.
 
 One example is comparing drivers stopped when sun is up to when sun is down--when police can't see race.
 
@@ -629,6 +696,20 @@ One example is comparing drivers stopped when sun is up to when sun is down--whe
 
 * Detecting bias in the decision to stop is difficult
 
+   + Hit rate tests
+
+???
+
+Hit rate tests estimate differences between likelihood of, for example, a frisk resulting in a found gun by race of suspect
+
+If guns found less often on black suspects, indicates bias
+
+Not perfect because need to adjust for fact that black folks live in different places and police strategies differ
+
+One important thing is using more objective outcome: arrests might be biased, finding a weapon can't be biased unless they planting.
+
+--
+
 * If any stop bias exists, it is difficult to measure bias in...
 
    + Arrests
@@ -636,28 +717,125 @@ One example is comparing drivers stopped when sun is up to when sun is down--whe
    + Frisks
    + Shootings
 
+???
+
+This is an issue many if not most researchers working in this area don't fully grasp
+
+Vast majority of work in area does not account properly for this
+
+--
+
 * Raw numbers can easily show *opposite patterns* from underlying reality.
 
 * Studies showing no bias--or anti-white bias--get *lots* of media, social media, and political traction.
 
 ???
 
-This is an issue many if not most researchers working in this area don't fully grasp
+Fryer paper making the rounds
+
 
 ---
 # Summary
 
 * Numbers *don't* speak for themselves
 
+???
+
+Administrative data are particularly problematic
+
+They hide bias and can also be manipulated
+
+--
+
 * Methods should match the question
 
+???
+
+If you want to measure an effect or estimate the extent of something, it is probably quantitative
+
+If you want to observe a mechanism, understand the meaning of things or motivations of people, it is probably quantitative
+
+Most questions benefit from both--a common good practice is using quant methods but then doing qual work to examine cases that don't fit the model
+
+--
+
 * Methodological Things to Pay Attention to
+
    + Make sure concepts and operationalizations match up
    + Consider omitted variables
    + Consider missing data
 
+???
+
+Measures are important--bad measure invalidates everything after
+
+--
+
 * Interesting questions are hard
 
+???
+
+The most important questions in sociology, criminology, and public policy are either difficult or impossible to answer with an experiment.
+
+Sometimes they're difficult or impossible to answer with observational data either.
+
+---
+class: inverse
+# Discussion
+
+---
+# Some Questions
+
+1. "Do you think reevaluating the way we understand crime statistics in the way Bronner suggests would be more effective in creating change? Would they be drastic enough to shock people into action? Or are statistics not that persuasive in getting people to dismantle structures that benefit them?"
+
+2. "From the Reliance on Raw Statistics makes City Crime Rankings Misleading reading, it discusses a major factor affecting these numbers is its perception and relation to the law. How does this explain the situation of, mainly white people, escalating a situation by calling the police such as when black people barbecue or sell lemonade? How do we explain the police's response? Should there be a punishment from the caller?"
+
+---
+
+3. "From the Use of Official Records to Measure Crime & Delinquency reading, it discusses several ways to access official records. How much information should be open for use for the safety of society while also considering the privacy of the individual? Should the offense matter in how much information should be released? Would that affect their rehabilitation?"
+
+4. "'We need to think about this as this complex system. There are biases layered on biases… it just compounds way down the line,' political scientist Knox tells Laura Bronner. Systemic bias plagues our institutions so deeply, that even the methods we use to study its prevalence are systemically biased. What does this say about how we should confront structural inequality? Is it possible for our system to be reformed?"
+
+---
+# Some Clarifications
+
+1. If trust in police is related to reporting crime, what does it mean for crime rates in minority neighborhoods? What characteristics are related to trust in police? And why how do we rely on these stats given underreporting?
+
+???
+
+Relationship between police trust and reporting varies. Black folks often report viewing police more in terms of hassle than distrust--they don't distrust them, but think they'll cause them more trouble. Not worth reporting minor stuff to deal with that.
+
+Rates of less serious crime a lot higher in some minority neighborhoods than stats say. Probably pretty accurate for homicide.
+
+Unerreporting is just a reality and these stats are all we have. Politicians, media, and voters probably rather have a biased measure than no measure. The numbers serve many purposes other than analytics.
+
+--
+
+2. If official statistics are inherently biased and misleading, and the organizations involved realize this, why are they still used? Is it to delude the public? Why are these all we have to work with and how can we change the system to be more accurate and reliable?
+
+???
+
+The official statistics do what the local agencies want them to do. As a service agency, the stats tell them how many citizen requests they get and how they're responding to them. They also provide actionable metrics that are politically useful.
+
+We probably don't want to charge police with collecting better data--they have different incentives than us. Better to realize the reality of it and work with it. I can't imagine how we could get the police to report on everyone not stopped.
+
+In ideal world we'd have much more substantial survey and registry systems like some of the Scandinavian and European countries.
+
+--
+
+3. "Ehrenberg says ranking cities as safe or dangerous can be misleading, but still influences tourism and tax spending. Could this be a self-perpetuating cycle? Can tourists use their spending intentionally to make a difference in "high-crime" cities and neighborhoods?"
+
+???
+
+If you think about it, gentrification can represent something of this sort. Reinvestment in poor neighborhoods is good, but also need to be careful of second order consequences. It is a mixed bag.
+
+--
+
+4. "What are the fundamental characteristics of a good measure of crime? (Besides having every single data point possible)"
+
+???
+
+In an ideal world you'd have a measure that captures every *attempted* crime, whether it was *successful*, discovered, informally sanctioned, reported to police, and consequences.
 
 ---
 # For Next Time
@@ -673,6 +851,8 @@ This is an issue many if not most researchers working in this area don't fully g
 
 * Connection to classical school
 
-* Theoretical assumptions
+* Theoretical assumptions of deterrence
+
+* Challenges for measuring deterrence
 
 * Policy implications of deterrence
