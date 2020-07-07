@@ -386,17 +386,25 @@ Research Questions:
 
 --
 
-Data: Denver Youth Survey
+&zwj;Data: Denver Youth Survey
 
 * Annual panel survey of high-risk youth
 * Self-reported delinquency and crime
 * Perceived risk of arrest
 * Perceived rewards of crime
+* Wide range of crimes
+   + Focus here is violence and theft
+
+???
+
+1526 youth surveyed over 10 waves--only first five have rat choice questions
+
+Very detailed questions on involvement in crime, perceptions of it, background
 
 ---
-# Theory
+# Perceived Risk Theory
 
-Deterrence: Perceptions should be rooted in reality
+&zwj;Deterrence: Perceptions should be rooted in reality
 
 * Experiential Learning
     + Baseline estimate of perceived risk is overestimated (Tittle 1980)
@@ -408,7 +416,7 @@ Perceived risks come from real experiences
 
 Those who have never committed a crime think they're likely to be caught
 
-When they get away with it, they update perceptions--this is a Bayesian updating model
+When they get away with it (or get punished), they update perceptions--this is a Bayesian updating model
 
 --
       
@@ -430,28 +438,135 @@ Also know crimes of their peers--we assume peers getting away with it (or being 
     
 .image-full[
 ![](img/matsueda_risk.svg)
-]   
+]
+
+???
+
+Baseline risk is perceived risk of arrest at last survey
+
+New info is unsanctioned offenses, arrests, and delinquency of peers *since last survey*.
+
+Updated risk is current survey.
+
+The model is somewhat more complicated: Preceding neighborhood and individual characteristics also predict all three.
 
 ---
-IMAGE    Perceived risk by experienced certainty
----
-IMAGE Rat Choice and deterrence
+# Perceived Risk of Arrest
+
+
+.image-full[
+![](img/matsueda_risk_theft.png)
+]
+
+???
+
+Find support for shell of illusion: High risk perceived by those not comitting
+
+Then risk increases with experienced certainty. Looks basically same for violence.
 
 ---
-  Rewards: Excitement, seen as cool
-      Cost: Arrest
-      Certainty: Chance of getting X for theft (violence)?
-      Severity: How good or bad is this?
-    Graphical mode: Perceived risk of arrest on crime
-    Conclusion:
-      Small deterrent effect: 10% risk equals 3% theft and 5% violence reduction
-      10% seen as cool reduces theft by 6, violence by 7
-      Already have high arrest and imprisonment rate--bad idea to boost it
-      Some level of arrest and incarceration probably essential
-      Deterrence not a panacea for crime problem.
-      
-      
+# Rational Choice Theory
 
+
+* Rewards 
+
+    + Excitement
+    + Being seen as cool
+
+???
+
+Focus here on psychic gains, both direct (excitement) and from status (being seen as cool)
+
+
+
+--
+  
+* Cost
+
+    + Arrest
+
+???
+
+Main analyzed cost here is arrest but they also investigated trouble with parents, risk of ending up in jail or reform school
+
+Similar but weaker effects compared to arrest
+
+--
+
+* Certainty (Probability)
+
+    + "What are the chances of getting (excitement/coolness/arrested) for (theft/violence)?"
+    
+???
+
+Measured as a percentage in 10 point increments
+
+--
+
+* Severity (Value)
+
+    + "How good or bad is this?"
+
+???
+
+5 point scale
+
+The cost or benefit ends up as a variable equal to the certainty times the value.
+ 
+--
+
+* Opportunity
+
+???
+
+Also address reality that crime can't be committed without the opportunity to do so
+    
+---
+# Rational Choice and Crime
+
+
+.image-full[
+![](img/matsueda_crime.svg)
+]
+
+---
+# Summary
+
+* Small deterrent effect
+
+   + 10% risk increase -> 3% theft, 5% violence reduction
+   + 10% reduction in coolness -> 6% theft, 7% violence reduction
+
+???
+
+Evidence for modest deterrent effect, but relationship much stronger with rewards
+
+
+--
+
+* US already has high arrest and imprisonment rates
+
+   + Would be draconian to increase substantially
+
+???
+
+Not practical to increase risk sufficiently to deter these crimes
+
+--
+
+* Some level of arrest and incarceration essential
+
+???
+
+Complete removal of threat likely to increase crime substantially
+
+--
+
+* Deterrence not a panacea for crime problem
+
+???
+
+Can't punish our way out of this. Better to address, in particular, psychic gains of crime.
 
 ---
 class: inverse
@@ -467,11 +582,9 @@ class: inverse
 ---
 # For Next Time
 
-* Marshall, Chris E. 2002. “Deterrence Theory.” Pp. 512-515 in *Encyclopedia of Crime and Punishment*. Edited by D. Levinson. Beverly Hills: Sage
+* Sherman, Lawrence W., and Richard A. Berk. 1984. "The Deterrent Effect of Arrest for Domestic Assault." Pp. 357-361 in *Classics of Criminology*. Edited by J. E. Jacoby. Prospect Heights: Waveland
 
-* Levitt, Steven D. 2002. “Deterrence.” Pp. 435-450 in *Crime: Public Policies for Crime Control*. Edited by J.Q. Wilson and J. Petersilia. Oakland, CA: ICS press
-
-
+* Cohen, Lawrence and Marcus Felson. 1979. "Social Change and Crime Rate Trends: A Routine Activity Approach." *American Sociological Review* 44(4): 588-608
 
 ### Things to pay attention to:
 
