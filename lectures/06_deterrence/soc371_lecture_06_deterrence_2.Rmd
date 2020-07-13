@@ -23,7 +23,7 @@ output:
 3. Extensions
 
    * Behavioral Economics
-   * Situational Opprtunity
+   * Situational Opportunity
 
 ---
 class: inverse

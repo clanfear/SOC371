@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Criminology"
+title: "Criminal Careers and Incapacitation"
 subtitle: "SOC371, Summer 2020"
 author: "Chuck Lanfear"
 date: "Jul 15, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
