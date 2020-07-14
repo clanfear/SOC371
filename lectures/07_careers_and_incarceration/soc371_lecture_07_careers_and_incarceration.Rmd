@@ -123,11 +123,13 @@ First question is how effective would it actually be to target chronic offenders
 
 * Problem is prediction
 
+   + Actuarial Models
+
 ???
 
 Second question is how do we determine who will be chronic offender
 
-Need to be able to predict who will commit crimes in the future
+Need to be able to predict who will commit crimes in the future--this is an actuarial problem: risk analysis
 
 Crimes in past, no matter how numerous, don't necessarily guarantee many in the future
 
@@ -138,11 +140,16 @@ class: inverse
 ---
 # Delinquency in a Birth Cohort
 
-Tracking criminal behavior over life course
+Tracking criminal careers
 
 ???
 
-We'll get back to life course studies later! For now, focusing on criminal careers and relevance to incapacitation.
+
+Criminal careers describe the criminal involvement of individuals during the period between their first crime (known crime, or arrest) and last.
+
+Focus is only on criminal involvement--not other elements of life course.
+
+We'll get to life course studies later! For now, focusing on criminal careers and relevance to incapacitation.
 
 --
 
@@ -254,6 +261,7 @@ But frequency of crime looks basically identical across race
 
 Greenwood & Abrahamse (1982) *Selective Incapacitation*. Rand Corporation.
 
+
 * Survey of 2100 male prison and jail inmates
 * Inmate reports before incarceration
    + Robbery
@@ -264,21 +272,12 @@ Greenwood & Abrahamse (1982) *Selective Incapacitation*. Rand Corporation.
       * 10% of burglars >195 per year
 ???
 
-Rand study to evaluate benefits of selective incapacitation; interviewed inmates about crime frequency prior to prison
+Rand study to evaluate benefits of selective incapacitation; interviewed inmates about crime frequency prior to prison; ask rather than infer rates
 
 We'll visit their conclusions later
 
 Found high concentration of offenses in small population
 
---
-
-In general, career lengths are short
-
-   + Average less than 6 years for serious offenses
-
-???
-
-Most do not stay involved in serious crime for long
 
 ---
 # Key Points
@@ -338,6 +337,7 @@ Adolescence-Limited Offenders age into crime, approach persistent offenders, the
 # Life-Course Persistent Offenders
 
 * Serious underlying problems
+
    + Cognitive deficits
    + Attention Deficit Hyperactivity Disorder
    + Psychopathy
@@ -376,7 +376,7 @@ Cognitive and emotional issues often result of accumulated disadvantage: abuse, 
 Angry outbursts and problem behavior compromise all aspects of their life
 
 ---
-# Adolescence-Limited OFfenders
+# Adolescence-Limited Offenders
 
 * "Normal" adolescents
 
@@ -394,7 +394,7 @@ Angry outbursts and problem behavior compromise all aspects of their life
    + Reflects unmeaningful statistical variation
    + Offenders differ by frequency only--same age patterns
    + Cannot identify career criminal before fact
-   + Identify career criminal by 5+ offenses, but by then cease to be career criminal due to age
+   + Identify career criminal by 5+ offenses, but by then ceases to be career criminal due to age
 
 ???
 
@@ -411,53 +411,158 @@ Different careers appear to be mainly variations around general crime curve
 
    + Don't focus on career criminals 
    + Invest in children
-   
+
+???
+
+So-called career criminals are only result of earlier failures
+
+Easiest, cheapest, most effective is to invest in children; note 
+
 --
 
 * Question: Can we predict the chronic offender?
 
 ---
-# Predicting the High Rate Offender
+## Predicting High Rate Offenders
 
 Greenwood & Abrahamse (1982)
 
-* Use self-reports of crime and background data to predict high-risk offenders
+* 1970s Context
 
-* 7-point prediction scale
-   + Incarceration >2 year period
-   + Prior conviction for robbery and burglary
-   + Juvenile conviction before age 16
-   + Commitment to juvenile institution
-   + Heroin or barbiturate use as a juvenile
-   + Heroin or barbiturate use within 2 years of arrest
-   + Employed less than half time within 2 years of arrest
+    * Rehabilitation failures
+    * No evidence for specific deterrence
+    * Only certainty appears to deter (and it is *low*)
+    * Prisons overcrowded
 
----
-# Sentencing Rule and Simulations (Greenwood)
+???
 
-* Sentencing rule: High rate offender gets 8 years in prison, all others 1 year
+Use self-reports of crime and background data to predict high-risk offenders
 
-   + Result: Reduce robbery by 15%, imprisoned robbers by 5%
-   + False positive rate of 60%, problem of false negatives
+Study began in late 1970s; current vein of policy had been tailoring sentences to match offender needs
+
+Did not appear to be helping with crime--question is whether they were doing any real rehabilitation in prisons
+
+Regardless, public and politicians were abandoning and wanted alternate approaches
+
+Their study found prob of arrest and conviction is about 3% per crime.
 
 --
 
-* RAND study
+* Prediction Scale (Binary Measures; 4+ predicts "High-Rate")
+
+    + Incarcerated >50% of 2 years before recent arrest
+    + Prior conviction for crime in question
+    + Juvenile conviction before age 16
+    + Commitment to juvenile institution
+    + Heroin or barbiturate use as a juvenile
+    + Heroin or barbiturate use within 2 years of recent arrest
+    + Employed <50% of 2 years before recent arrest
+
+???
+
+These rules only applied to robbery and burglary, and scale is calculated separately for each
+
+Less crimes they felt were not appropriate for prison and more serious crimes, particularly homicide, are rarely done more than once by any one offender
+
+---
+## Sentencing Rule and Simulations
+
+* Sentencing rule: High rate offender gets 8 years in prison, all others 1 year
+
+   * California (Texas) simulation results: 
+   
+      + Robbery -15% (-10%), imprisoned robbers -5% (+30%)
+         + Equivalent robbery reduction to non-specific 25% increase
+      + Burglary -15% (-10%), imprisoned burglars  +7% (+15%)
+      + Poor classification accuracy
+         * 55% false positives on high-rate (25% low, 30% medium)
+         * 24% false negatives on low-rate (16% medium, 8% high)
+
+
+???
+
+CA has much higher number of chronic offenders; Texas has lower frequencies, so selective incap less effective
+
+False positives are low-rate offenders placed in higher category; 14% of true low-rate offenders ranked as high
+
+False negatives are high-rate offenders placed in lower category; 11% of true high-rate offenders ranked as low
+
+These look pretty bad, but the existing discretionary system--in which many similar factors are idosyncratically considered--does worse with about 80% more false positives and negatives and about 42% classification accuracy.
+
+--
+
+* Reanalysis
    
    + After 24 months, prediction scale does 5-10% better than chance; not significant
    + May effectively identify low-risk offenders (Auerhahn 1999)
-   
+   + Legal correlation versus causation issues
+
+???
+
+Follow-up analyses have found it actually has pretty bad accuracy
+
+There are suggestions the scale may actually identify low-risk offenders well, just doesn't distinguish high-rate
+
+That is, most people with high number of scale items don't commit a lot of crime, but some do.
+
+Nearly no one with few or no scale items commit lot of crimes
+
+Maybe better to selective not incapacitate low risk
+
+Lastly, some have raised issue that use of purely correlation, not causal, factors linked to future crime may violate due process
+
+
 ---
-# Potential Problems
+# Actuarial Prediction Problems
 
 * Changes sentencing from doing justice to crime control
 
+???
+
+No longer about punishing individuals or reforming them, but rather inferring future behavior and hoping locking up likely candidates reduces future crime
+
+Regardless of what either public or politicians often want, stated goals of legal system are justice not crime control
+
+--
+
 * Used unemployment as predictor--victim blaming
 
-* Assumes individual will behave like average member of classification group (high rate offender)
+???
 
-* Ignores agency and reform
+They acknowledge controversial but don't really address it; basically say could drop or replace it with something else
 
+--
+
+* Ignores agency, reform, and regression to mean
+
+???
+
+Once classified, folks are assumed to behave accordingly in future. Gives no opportunity for reform.
+
+Imagine considering not incapacitating but directing resources at potential high rate
+
+Very high rate offenders caught may be those in middle of spike in behavior--in general large increases in anything (not power distributed) tend to be followed by reductions, crime included. Might be incapacitating folks after they've already gotten past high rate.
+
+--
+
+* Builds in racial bias
+
+???
+
+If structural racism impacts any of the predictors in an actuarial model, it builds that bias into system.
+
+This is a substantial problem with modern sentencing models using machine learning and other techniques.
+
+--
+
+* Career lengths are usually short
+
+   + Average less than 6 years for serious offenses
+
+???
+
+Even if you successfully predict, chances are that person ages out before much incapacitation
+ 
 ---
 class:inverse
 # Discussion
@@ -477,3 +582,11 @@ class:inverse
 
 Things to pay attention to:
 
+* Control Theory
+
+   + Negative position: Not about why we break law, but why we obey it
+   + Basic assumption: Some motivation for delinquency is universal
+
+* Contrast between theories of stability and change in crime
+
+   + Note context of debate between sides
