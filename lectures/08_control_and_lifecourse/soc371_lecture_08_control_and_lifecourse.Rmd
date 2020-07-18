@@ -1,8 +1,8 @@
 ---
-title: "Introduction to Criminology"
+title: "Control Theory and the Life Course"
 subtitle: "SOC371, Summer 2020"
 author: "Chuck Lanfear"
-date: "Jun 22, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Jul 20, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -14,170 +14,151 @@ output:
       titleSlideClass: ["center","top"]
 ---
 
-# What is Criminology?
+# Overview
 
-Sutherland: "The study of making of laws, the breaking of laws, and reacting to the breaking of laws."
+Social Control Theory
 
-Making Laws: Sociology of Law
-Breaking Laws: Criminology
-Reacting to Law Breaking: Sociology of Criminal Justice
-
----
-
-???
-
-* These are interrelated: laws determine what counts as crime and also the response
-* Assumptions about causes of crime shape reactions to breaking the law and legality of things in first place
-
----
-
-# Who am I?
-
-Chuck Lanfear
-
-* Instructor (not professor)
-
-* 6th Year Sociology PhD student
-
-Research:
-
-* Neighborhood Social Control 
-* Racial Bias in Policing
-* Broken Windows and Criminal Opportunity
-
----
-
-# Objectives of Course
-
-* Provide you with an understanding of basic theories, concepts, and methods used by criminologists.
-
-* Show you how criminological theories apply to real-world phenomena and current events.
-
-* Make you a critical consumer of claims about crime and crime policies in the news, social media, and political campaigns.
-
-* Develop your critical and analytical skills through discussion and written exams.
-
-???
-
-Maybe one slide for each?
-
----
-
-# Marketable Skills?
+Life Course Criminology
 
 ---
 class: inverse
-# Course Structure
+# Social Control Theory
+
+---
+# Context
+
+* Durkheim as intellectual predecessor
+
+   + Anomie and egoism as weak bonds (Hirschi 1969)
+   + Strain (anomie) theories claim this too
+
+--
+
+* Also Hobbes
+
+   + Given our natural tendency to pursue our short term private interests, how is society possible?
+
+--
+
+* Dominance of highly socialized theories of deviance
+
+   + Strain theory
+   
+      + Delinquents share conventional cultural goals and norms
+      + Deviance emerges from inability to attain these goals 
+
+   + Cultural deviance
+   
+      + Delinquents do not share conventional goals and norms
+      + Deviance emerges from different (learned) goals and norms
+
+   + Shared assumptions: Crime does not come naturally and cause of crime is located in social life.
+   
+--
+
+* Neglect of key elements
+
+   + Family
+   + Agency
+   + Conformity
 
 
 ---
-# Daily Schedule
+# Interrogating Assumptions
 
-Two parts:
+* Strain Theory
 
-1. Lecture
+   + Most delinquent acts are minor and delinquents mostly conform
+   + Social class is unrelated to self-reported delinquency
+   + Higher aspirations don't predict delinquency
 
-2. Discussion
+> Strain theory represents the horrors, the nightmares, of middle class people who imagine what it would be like to be shut out of the process of accumulation. (LAUGHTER) It's a terrible thing, but it has nothing to do with crime. (LAUGHTER)
+
+- Hirschi, in Laub (2002)
+
+--
+
+* Cultural Deviance
+
+   + Ambiguous assumptions
+   + No evidence for deviant subcultures teaching pro-criminal norms (Costello & Laub 2020)
+   + Criminals largely acknowledge conventional norms
 
 ---
-# Content
+# Hirschi's Offender
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE}
-library(tidyverse)
-course_outline <- readxl::read_excel("../../ignore/course_workbook.xlsx", sheet=1) %>% filter(Ignore!=1)
-course_readings <- readxl::read_excel("../../ignore/course_workbook.xlsx", sheet=2) %>% filter(Ignore!=1) %>%
-  select(Lecture, Citation)
-```
+* Not integrated into family, school, or community
 
-.small[
-```{r, echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE}
-course_outline %>%
-  select(Week, Lecture, Date, Topic) %>%
-  filter(!is.na(Lecture)) %>%
-  select(-Lecture) %>%
-  group_by(Date) %>%
-  summarize(Topic = first(Topic)) %>%
-  mutate_at(vars(-Date), ~ ifelse(is.na(.), "", .)) %>%
-  arrange(Date) %>%
-  mutate(date_orig = Date, Date = format(Date, "%b %e")) %>%
-  mutate(Date = ifelse(lead(Topic) == Topic, paste0(Date,"-", str_extract(lead(Date), "[0-9]+")), Date)) %>%
-  group_by(Topic) %>%
-  slice(1L) %>%
-  ungroup() %>%
-  arrange(date_orig) %>%
-  select(-date_orig) %>%
-  gt::gt()
-```
+* Little interest in education, work, conventional success
+
+   + But no alternative value or reward system
+   
+* Unencumbered by restraints on deviant behavior
+
+* No complex motivations
+  
+   + Deviance is easiest path to many ends
+
+> The more weakened the groups to which the individual belongs, the less he depends on them, the more he consequently depends only on himself and recognizes no other rules of conduct than what are founded on his private interests.
+
+- Durkheim (1897) *Suicide*
+
+---
+# Control Theory
+
+* Deviance is restrained by bonds to conventional society
+
+* Elements of bonds
+
+   + Attachment
+   + Commitment
+   + Involvement
+   + Belief
+
+---
+# Causes of Delinquency
+
+Clear conceptualizations
+
+Clear operationalizations
+
+Critical tests against competing theories
+
+Survey measures
+
+Hirschi was here at UW when published; was his dissertation
+
+---
+Hirschi on Strain Theory:
+
+
+   
+---
+# Life Course Criminology
+
+---
+# Sampson & Laub
+
+.pull-left[
+.image-full[
+![](img/crime_in_the_making.jpg)
+]
+]
+
+.pull-right[
+.image-full[
+![](img/shared_beginnings.jpg)
+]
 ]
 
 ---
-class: inverse
-## Course Requirements
+# Follow-Up
+
 
 ---
-# Grading
+#
 
-| Item                   | Number | Percent of Grade |
-|:----------------------:|:------:|:----------------:|
-| Course Participation   | 18     |     10           |
-| Discussion Questions   | 16     |     20           |
-| Midterm Exams          |  2     |     40           |
-| Final Exam             |  1     |     30           |
-
-* 95% or higher is a 4.0  
-* Each 2.5% corresponds to a .1 difference 
-   + e.g. 90/100 is a 3.8
-   + Rounded down: 92/100 is also 3.8
-* 
-
----
-# Participation
-
-Components:
-
-* Reading
-* Discussion
-
-These are evaluated based on your participation in-class.
-
-If unable to attend, you can arrange for and submit a 1-page reading and discussion responses *prior to scheduled discussion*.
-
----
-### Discussion Questions
-
-2 (or more) discussion questions
-   + Submit via Canvas
-   + Due 6 PM the day prior to lecture
-   + Questions address different readings unless there is only one
-   
-Example: !!!
-
----
-# Exams
-
-* 2 Midterms
-* 1 Final
-
-Structure:
-* Open-book, at least one day to work.
-* Multiple short answers
-* One or more short essay
-* Citations expected
-   + ex: "Shaw & McKay (1942) proposed delinquent subcultures as a mechanism for stability in neighborhood crime rates."
-   + Material from *outside* course must have an entry in **Works Cited** section
-   + Assigned class material can just be author(s) and date
-   + Any major format (e.g. ASA, APA, Harvard) acceptable but be consistent
-
-*Emphases of exams is demonstrating understanding, critical thinking, and application of concepts, not regurgitation of facts, names, and dates.*
-
----
-## Course Texts and Readings
-
-* No Textbook
-* Two--short but important--books:
-   + [Divergent Social Worlds (2010) Ruth D. Peterson & Lauren J. Krivo](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71175976510001451)
-   + [Darfur and the Crime of Genocide (2009) John Hagan & Wenona Rymond-Richmond](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71240618630001451) 
-   + Both available as eBooks through the UW library but affordable in print.
+Life-Course approaches are compatible with other theories of crime
 
 
 
