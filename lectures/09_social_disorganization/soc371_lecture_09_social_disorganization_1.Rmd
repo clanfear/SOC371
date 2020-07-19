@@ -197,19 +197,40 @@ When groups moved out of zone in transition and into periphery, crime rate went 
 Considered this strong evidence it had nothing to do with the people and everything to do with the place.
 
 ---
+## Social Disorganization Theory
 
-[IMAGE] Social disorg -> loss of control -> gangs -> delinquent traditon -> delinquent activity
+#### Shaw & McKay (1942)
+
+<br>
+
+.image-100[
+![](img/shaw_mckay.svg)
+]
 
 ---
 # Social Disorganization
 
 *Inability of a community to solve its problems collectively or achieve collective values*
 
-* Weak and unlinked institutions; no sense of community
+???
 
-   + Family stucture
+Later this would come to be known as informal social control: the ability of a group to regulate itself according consensual norms
+
+--
+
+* Weak and unlinked institutions with no sense of community
+
+   + Family structure
    + Schools
    + Community groups
+
+???
+
+Poverty, heterogeneity, and turnover reduce direct controls of family, weaken controls of school, deprive community of effective local groups, and cause all of those to fail to coordinate.
+
+Essentially, there is little sense of community and instead isolated undersupported pockets trying to independently regulate behavior
+
+--
 
 * Measures used by Shaw & McKay
 
@@ -219,13 +240,24 @@ Considered this strong evidence it had nothing to do with the people and everyth
    * Physical deterioration
    * Percentage nonwhite
 
+???
+
+Used many ecological measures, but no clear separation between cause and consequence and no direct measures of the social structures--disorganization itself
+
+The data just weren't there--but remember, they derived much of this from qualitative research; not absence of evidence
+
+--
+
 * Tautology problem: Causes and consequences social disorganization inseparable
 
+???
 
----
-Social Disorg and Cultural Transmission
+While they envisioned social disorganization as a institutional problem, they evaluated it using characteristic symptoms
 
-[image]
+So physical deterioration, say, is evidence of disorganization--but it is also a symptom of disorganization
+
+This apparent tautology was problematic for many researchers--but it was resolved by later conceptions directly measuring disorganization, and also Kornhauser's reformation we'll talk about next time
+
 
 ---
 # Loss of Control Over Youth
@@ -235,9 +267,19 @@ Social Disorg and Cultural Transmission
     + Parental supervision
     + Community controls
 
+???
+
+Parents not able to effectively supervise, community not regulating behavior
+
+--
+
 * Spontaneous, unsupervised play groups of children
 
     + Becomes vehicle for delinquency
+
+???
+
+Unmonitored children can join and form gangs, participate in delinquency; long had robust evidence for this.
 
 ---
 # Cultural Transmission
@@ -293,24 +335,56 @@ AT least 80% of official records indicate delinquency done in group--even more i
 Also evidence of value competition where delinquent groups compete with family over the youth: i.e. pressuring youth to steal from family
 
 ---
-Image again
-
----
-# Policy Implications: Chicago Area Projects
+## Policy Implications: Chicago Area Project
 
 * Help inner city residents prevent delinquency
+
+???
+
+Founded by Clifford Shaw in 1930s--talk about public Sociology
+
+Idea here was not an outside intervention but rather try to build community capacity to solve issues
+
+--
 
 * Develop sense of community
 
     * Increase community participation
-    * Strengthen institutions (families, schools, churches, community groups)
-    * Foster ties between institutions
+    * Strengthen and connect institutions 
     * Increase controls over children
-    * Principle: Community empowerment using natural leaders
+    * Involve natural leaders--also gangs and delinquents
 
-* Target: Develop recreation programs
+???
+
+Idea is to get directly involved in community, elevating leaders, building institutions, and networking them; get people involved, talking, and supported.
+
+Realizing power of gangs in communities, involved them in process; included ex-convicts in prevention programs; reached out to parolees
+
+--
+
+* Interventions
+
+   * Youth recreation
+   * Physical disorder remediation
+   * Guidance sessions, parole supervision, and school interventions
+   
+???
+
+Had multipronged interventions. Built youth recreation to give alternative things for them to do
+
+Cleaned up neighborhood physically
+
+Had informal guidance sessions for delinquent youth--including with ex-convicts, involved community in youth parole supervision, community interventions for kids having trouble in school
+
+--
 
 * Evaluation: Not definitive--but prescient
+
+???
+
+Effects on crime remain somewhat uncertain, but it certainly had positive effect on community organization; programs are still running today
+
+Many efforts look a lot like successful modern approaches. Incredibly prescient approach.
 
 ---
 class: inverse
