@@ -1,0 +1,155 @@
+---
+title: "Social Disorganization Theory I"
+subtitle: "SOC371, Summer 2020"
+author: "Chuck Lanfear"
+date: "Jun 22, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ../style/xaringan-themer.css
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["center","top"]
+---
+
+# Overview
+
+---
+# Human Ecology School
+
+Natural selection and natural areas
+
+Invasion, competition, succession
+
+Growth of cities
+Concentric Zones (Burgess)
+
+Social Ills
+
+---
+# Burgess's Concentric Zones
+
+[image]
+
+---
+# Shaw & McKay
+
+Life histories of delinquents
+
+Mapped spatial distribution of delinquency in Chicago
+
+Developed theory of social disorganization and cultural transmission
+
+Pioneered the Chicago Area Projects crime prevention program
+
+---
+# Spatial Distribution of Delinquency
+
+[image]
+
+---
+# Spatial Distribution in Seattle (Shaw & McKay)
+
+[image]
+
+---
+again
+
+[image]
+
+---
+# Spatial Distribution in the City
+
+High in zone in transition (interstitial areas)
+
+Drops in peripheral neighborhoods
+
+Remained high despite ethnic turnover
+
+Ethnic groups moving outward experienced low rates
+
+---
+
+Social disorg -> loss of control -> gangs -> delinquent traditon -> delinquent activity
+
+---
+# Social Disorganization
+
+Tautology problem
+
+Measures used by Shaw & McKay
+* Pop loss
+* Prop rentals vs. owners
+* Income
+* Physical deterioration
+* Percentage nonwhite
+
+Social disorg: Inability of a community to solve its problem collectively (or achieve collective values)
+* Weak and unlinked institutions; no sense of community
+* Family stucture, schools, community groups
+
+---
+Social Disorg and Cultural Transmission
+
+[image]
+
+---
+# Loss of Control Over Youth
+
+Social disorg produces loss of informal social control
+
+Parental supervision, community controls
+
+Formation of spontaneous play groups of children
+
+Becomes vehicle for delinquency
+
+---
+# Cultural Transmission
+
+
+Delinquent tradition transmitted across generations of youth groups
+* Older gangs transmit delinquency to yougner play groups
+* Delinquent tradition: values, pressures, and sanctions
+* Transmission: Learning a culture
+Delinquent traditions produce persistently high delinquency rates in a community or neighborhood
+Explains four empirical findings (?)
+
+---
+Image again
+
+---
+# Policy Implications: Chicago Area Projects
+
+Help inner city residents prevent delinquency
+
+Develop sense of community
+
+* Increase community participation
+* Strengthen institutions (families, schools, churches, community groups)
+* Foster ties between institutions
+* Increase controls over children
+* Principle: Community empowerment using natural leaders
+
+Target: Develop recreation programs
+Evaluation: Not definitive
+
+---
+class: inverse
+# Discussion
+
+---
+# Some Questions 
+
+---
+# Some Clarifications
+
+---
+# For Next Time
+
+* Peterson, Ruth D., and Lauren J. Krivo. 2010. Divergent Social Worlds. Pp. 1-70
+
+Things to pay attention to:
+

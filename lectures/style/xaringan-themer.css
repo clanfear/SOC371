@@ -26,7 +26,7 @@ body {
   font-weight: normal;
   color: #272822;
 }
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-family: Quattrocento;
   font-weight: normal;
   color: #342c5c;
@@ -47,6 +47,9 @@ h1, h2, h3 {
 }
 .remark-slide-content h3 {
     font-size: 35px;
+}
+.remark-slide-content h4 {
+    font-size: 30px;
 }
 .remark-code, .remark-inline-code {
   font-family: Fira Mono, 'Lucida Console', Monaco, monospace;
@@ -85,10 +88,10 @@ a, a > code {
   color: #FFFFFF;
   
 }
-.inverse h1, .inverse h2, .inverse h3 {
+.inverse h1, .inverse h2, .inverse h3, .inverse h4 {
   color: #FFFFFF;
 }
-.title-slide, .title-slide h1, .title-slide h2, .title-slide h3 {
+.title-slide, .title-slide h1, .title-slide h2, .title-slide h3, .title-slide h4 {
   color: #FFFFFF;
 }
 .title-slide {
@@ -106,7 +109,7 @@ a, a > code {
   height: 92%;
   float: left;
 }
-.left-column h2, .left-column h3 {
+.left-column h2, .left-column h3, .left-column h4 {
   color: #342c5c99;
 }
 .left-column h2:last-of-type, .left-column h3:last-child {
@@ -214,7 +217,7 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
 sup {
   font-size: 14px;
 }
-h1, h2, h3 {
+h1, h2, h3, h4 {
   margin-top: .25em;
   margin-bottom: .25em;
 }
