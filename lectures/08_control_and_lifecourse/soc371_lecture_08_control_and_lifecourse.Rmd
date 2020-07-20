@@ -652,8 +652,76 @@ class: inverse
 ---
 # Some Questions 
 
+* "If job stability is a big factor in the adult crime rate, are criminal records setting us back on reducing crime? What can we do to change the stigma around this to increase employment among people with such records?"
+
+--
+
+* "Both theories of cultural deviance and the element of belief within the control theory contain an element of shared values/beliefs (or lack thereof) that holds society together. In today's globalized and multicultural world, does this singular belief system really still exist? Do we all share a core set of values and ideals that are considered delinquency when violated? How does culture and demographics like race, class, and religion affect this?"
+
+--
+
+* Control theory makes the assumption that motivation for deviance is constant and uniform across people. Is this a plausible assumption? Is deviant motivation the same in different time periods? Different countries and cultures?
+
+---
+# One More
+
+* "Most research that we've read or talked about was made up of examining the actions of men (and for good reason). But what might we expect to find if they had used the same control groups of delinquent and nondelinquent adolescents but replaced it entirely with girls and followed them through their lives?"
+
+???
+
+Fair amount of research shows social control theory doesn't show a lot of sex/gender differences. Form of some bonds may look different (such as children and marriage). Stronger desistent effects of motherhood than fatherhood in disadvantaged samples.
+
+
 ---
 # Some Clarifications
+
+* What was up with Hirschi's ramble about psychopathy and tautology?
+
+???
+
+Psychopathy is nowdays antisocial personality disorder, often preceded by conduct disorder. The tautology occurs because the diagnosis is made based on the presence of antisocial behavior. Then that diagnosis is used to explain antisocial behavior. These disorders, absent others with neurochemical bases, have little evidence for being separable from general criminal behavior and people tend to age out of them. Many psychologists and most sociologists studying in the area are quite skeptical. Foucault and medical sociologists have a lot to say about medicalization of deviance.
+
+--
+
+* "How can we define what a social bond is outside of the definition of what is the law and what is breaking the law? How do these social bonds extend outside of crime?"
+
+???
+
+Theory applies not just to crime but to minor deviance including legal forms, such as cheating on romantic partners. The thing about social bonds is that they are not in relation to the law specifically but the harm that an act does to the interpersonal (or internalized) bond. A bond to parents restrains only actions that the child believes the parents would disapprove of. You can easily imagine control theory being used to describe doing assigned homework and getting good grades. Conformity takes many forms.
+
+
+--
+
+* The more "social control" in a subject’s life (a stable marriage, family, work, etc.) are listed as indicators that prevent antisocial or criminal behavior later in life—is this due to the potential criminal feeling they have more to lose if they break the [social] contract or are people with these stable social aspects in their lives simply less likely to behave in that manner to begin with?
+
+???
+
+Hirschi would probably argue mainly the former--that motivation is uniform but restraints are not. But the plausibility of the assumption is a matter of argument.
+
+--
+
+* "I noticed that the publish date for this book is 1969, and there were three fundamental perspectives on delinquency and deviant behavior. I wonder do we have any new theories about delinquency that were coming out after the publication of this book? If we have, what are they?"
+
+???
+
+Yes! New things have emerged. We'll be covering some, mainly macro and ecological theories: modern social disorg, collective efficacy, broken windows. There's one we won't cover like institutional anomie theory. On individual level there are things like Wikstrom's situational action theory, Simons & Burt's Social Schematic Theory. These theories tend to incorporate components of control and learning theories (and occasionally strain). Much as these older crim theories contain elements of older philosophy and science, there's nothing truly new under the sun.
+
+---
+# Yet More Clarifications
+
+* "From the Causes of Delinquency reading, it defines control theory as a 'person is free to commit delinquent acts because his ties to the conventional order have somehow been broken.' How does this relate to migration and culture clashes? Which conventional order should they belong to?"
+
+???
+
+This is a good question. What's interesting here is that control theory would suggest many types of migrants would have few bonds. But migrant criminality is incredibly low--lower than basically every US born population. One might argue migration signals strong commitment to conventional success and belief in conforming ways--even illegal migration. Which is hard to explain by control theory, because the illegal migration is itself illegal--though it isn't impeded by bonds. 
+
+--
+
+* "[With regard to control theory] Can this be an interdisciplinary topic that incorporates psychology aspects such as attachment theories or neuroscience and how trauma can affect brain chemistry? Would this help this theory develop solutions such as therapy or institutional interventions?"
+
+???
+
+It might help but I'd suspect Hirschi would not be very interested in the expansion. Concepts from psychology are better incorporated into some newer theories, like social schematic theory (which I am not real familiar with). The typical sociology and criminology argument is the additions add complexity but not much predictive power with regard to crime. But the psych work does well thinking about individualized treatments like cognitive behavioral therapy. Soc usually focuses on non-individual interventions.
 
 ---
 # For Next Time
