@@ -258,6 +258,71 @@ So physical deterioration, say, is evidence of disorganization--but it is also a
 
 This apparent tautology was problematic for many researchers--but it was resolved by later conceptions directly measuring disorganization, and also Kornhauser's reformation we'll talk about next time
 
+---
+# Causes
+
+* Poor economic conditions (poverty)
+
+   + Reduced conventional opportunities
+   + Lack of resources to address problems
+   + Reliance on illegal or quasi-legal income
+
+???
+
+Most critical cause is economic: Youth see few opportunities for work or training, more opportunities in crime
+
+No money to invest in upkeep, security, training, and work long hours in hard jobs. Hard to monitor children.
+
+Lack of money may make families reliant on illicit income
+
+--
+
+
+* Residential Instability
+
+   + Constant disruption 
+   + Impermanence 
+
+???
+
+Hard to build relations with others or institutions when everything is constantly changing
+
+
+Future orientation toward other communities--focus on enduring conditions here to move somewhere better, not fix up where they are.
+
+--
+
+
+* Ethnic/Racial Heterogeneity
+
+   + Different norms and values (or at least perception of such)
+   + Communication barriers
+   + Shift to urban living
+
+???
+
+These hamper coordination between families and with other institutions
+
+Ethnic heterogeneity in this time period is also a proxy for transitions to urban living; the ethnic groups here are European immigrants and black Americans from rural south
+
+Urban living has very different issues for managing child social control
+
+---
+# Shaw & McKay (1942) on Race
+
+*Racial differences in delinquency are attributable primarily to location of residence.*
+
+> ... it cannot be said that [black delinquency rates] are higher than rates for white boys in comparable areas, since it is impossible to reproduce in white communities the circumstances under which Negro children live... it would not be possible to reproduce the effects of segregation and the barriers to upward mobility. (xxix)
+
+<br>
+
+> Clearly, one must beware of attaching social and economic significance to race or nativity. For, in the present social and economic system, it is the Negroes and the foreign born, or at least the newest immigrants, who have least access to the necessities of life and who are therefore least prepared for the competitive struggle. It is they who are forced to live in the worst slum areas and who are least able to organize against the effects of such living. (155)
+
+???
+
+Remarkably progressive and thoughtful consideration of race throughout the work.
+
+Remember the first quote when you get to reading Divergent Social Worlds. It is still true today.
 
 ---
 # Loss of Control Over Youth
