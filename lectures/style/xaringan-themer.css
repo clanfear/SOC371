@@ -263,6 +263,12 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+.image-62 img {
+  width: 62%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 .image-75 img {
   width: 75%;
   display: block;
