@@ -588,13 +588,119 @@ class: inverse
 ---
 # Some Questions 
 
+* Both readings indicate social disorganization is a problem causing crime (and other problems) in neighborhoods / communities, and it is caused by lots of things. How do we organize communities then?
+
+--
+
+* "Do you think... community studies [cause] stigmatization toward community groups?"
+
+--
+
+* "Sampson and Groves continually bring up the idea that... street-corner teenage peer groups increase the level of delinquency and crime in a community. As a society we have becoming more and more distant, from social media to the increasing size of the population, so how does this play a role into the prevalence of street-corner groups and their additional crime? "
+
+--
+
+* "Shaw and McKay assume that the wealthier communities have more similar values/morals/attitudes, thus leading to decreased rates of crime. Do you think this is a valid assumption?"
+
+???
+
+Shaw & McKay, to be fair, emphasize the public presentation of these values and attitudes. It is heavily about exposure of youth to these things.
+
 ---
 # Some Clarifications
+
+* "Given our past knowledge of the strengths and weaknesses of qualitative and quantitative research, where and how is this decision made by critics and other researchers as to where they draw such line of what research style validates longevity of findings or not, or qualifies a work as substantial, or not?" [Also with respect to use of police data]
+
+???
+
+There isn't a hard rule here at all. It is difficult to predict what becomes a classic. Convincing arguments play an important role. Sometimes data that aren't real strong can be used in a novel way to make a large contribution. Lot of great work has used flawed police data for instance. Many high impact studies have been done with qualitative work in limited environments. On quantitative side, burden is usually on authors to show that their findings are insensitive to forseeable issues with their data or models; e.g. even if there was gross differences in reporting, the findings would hold.
+
+--
+
+* "... delinquency is a group phenomenon. Crime doesn't happen unless there's an opportunity. Would places that allow teenagers to meet up count as a place of opportunity? [Wouldn't schools promote delinquency? As places to plan crimes?]"
+
+???
+
+Yes! Locations that facilitate unstructured peer groups--particularly ones that shield them from view--are opportunity spots. Schools provide some monitoring but also get peers linked together into deviant groups. Lot of violence and property crime happens at and near schools. Underfunded schools have fewer monitors as well.
+
+--
+
+* "[Does Shaw & McKay's work suggest] that disadvantaged neighborhoods will always have high crime/delinquency rate? If so, how can we fix it?"
+
+???
+
+Well, yes. Key here is that delinquency is part of a cluster of spatially-concentrated ills. To get rid of crime, you have to address the underlying structural issues that cause all the symptoms.
+
+--
+
+* "How applicable is the social disorganization model to eastern societies?  Are there differences in education systems that contribute to different crime rates?"
+
+???
+
+Some eastern countries do not have the level of poverty or proximal deprivation you see in US. In others, there's substantial concentrated disadvantage in urban areas. Work in social disorg vein has examined, to my knowledge, Japan, Vietnam, and China with general support, but much more limited than US and European work.
+
+---
+# More Clarifications
+
+* Does gentrification affect the crime rate? it creates high residential mobility, a lot of racial/ethnic heterogeneity, and mixed socioeconomic status that seems to increase crime rate, but gentrification also brings in money to the neighborhood.
+
+???
+
+Yes! Gentrification has an interesting relationship to crime. Some findings indicate gentrifiers enter neighborhoods and are more likely to report crime, raising crime rates, but over time they decline due to reinvestment and other changes. I have a C&C paper on the policing side of this. Good review out there by MacDonald and Stokes.
+
+--
+
+* "... I am curious to know how micro-level aspects such as family dynamics could impact crime rates in communities?"
+
+???
+
+Systemic model of social control, which is based on social disorganization, includes family level as key element of social control. Family social control is facilitated by community social control. Intergenerational closure for instance.
+
+--
+
+* "What do Sampson & Groves mean [by], 'system of friendship'? Are work/school acquaintances/'friends' and non-familial mentor figures included?" and "Why do [friend networks] develop less frequently in areas with more delinquency, and is this a circular process of crime creates less local friendship networks which creates more crime?"
+
+???
+
+Focus is on non-family friends living in neighborhood--idea is that the more people you know in neighborhood, more ties, more effective interpersonal control.
+
+Evidence actually indicates there are a lot of strong friend networks in disorganized communities--and they sometimes facilitate crime rather than protect. Later colelctive efficacy work will move beyond this.
+
+--
+
+* "What sort of implications might [social disorganization] have for individuals in the global context that involved become engaged in organized crime? For instance cosa nostra in Italy or similarly Eastern European syndicates, or various cartels that share family and community structures within the organization themselves?"
+
+???
+
+Differential social organization may speak more strongly to this than original social disorganization. Some of these may represent a extreme levels of disorganization giving way to alternate control systems--or systems organized around different goals and values.
+
+---
+# One More
+
+* "Juvenile Delinquency in Urban Areas mentioned that rich neighborhoods have the lowest rate of delinquents. However, could it be that they don't actually have the lowest rate but that they have the lowest rate caught by the police?"
+
+???
+
+Absolutely! Shaw & McKay worked with the absolute best data available to them, which was largely court data. They did also use ethnographic evidence but that can't speak to distributions. Later social disorganization work heavily uses self-report and victimization data to overcome this.
 
 ---
 # For Next Time
 
-* Peterson, Ruth D., and Lauren J. Krivo. 2010. Divergent Social Worlds. Pp. 1-70
+* Peterson, Ruth D., and Lauren J. Krivo. 2010. *Divergent Social Worlds.* Pp. 1-70
 
 Things to pay attention to:
+
+* Relationship between social disorganization and racial stratification
+
+* Incomparability of neighborhoods across ethno-racial categories
+
+* Depth and interrelated nature of structural causes
+
+???
+
+Key argument here is that system of ethno-racial stratification produced and is reproducing structural disadvantage
+
+Black and white neighborhoods are literally incomparable: Worst off white folks live in better places than average black person
+
+Issues are deep, structural, interrelated--they defy straightforward solutions
 
