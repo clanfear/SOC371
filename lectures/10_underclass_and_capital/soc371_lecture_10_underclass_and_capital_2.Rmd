@@ -1,0 +1,136 @@
+---
+title: "The Urban Underclass, Social Capital, and Collective Efficacy"
+subtitle: "SOC371, Summer 2020"
+author: "Chuck Lanfear"
+date: "Jul 29, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ../style/xaringan-themer.css
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["center","top"]
+---
+
+# Overview
+
+* Social capital theory
+   * Weak ties
+   * Closure
+   * Forms of capital
+
+* Collective efficacy and Community violence
+
+* Seattle Neighborhoods and Crime Project
+
+---
+class: inverse
+# Social Capital Theory
+
+---
+# Social Capital
+
+* Begin with utlity maximization theory
+   * Financial capital
+   * Human capital
+   * Social Capital
+   
+* Social Capital
+   * Inheres in social structure (network ties)
+      * Closure of social networks
+      * Example: Parents of other children
+   * Facilitates certain socail actions by actors
+
+---
+# Strength of Weak Ties
+
+[IMAGE OF WEAK TIES]
+
+The weak tie allows different kinds of information (e.g. job openings) to pass between Group A and Group B
+
+---
+# Closue of Social Networks
+
+[IMAGES]
+
+Closed Network Structure; Open Network Structure
+
+---
+# Social Capital: Types and Appropriation
+
+* Types
+   * Obligations, expectations, trust
+   * Information
+   * Norms and effective sanctions
+* Examples: Getting a job and neighborhood control
+* Social organization can be appropriated for other purposes
+   * South Korean study groups used by radical students to pass on revolutionary ideas
+   * Friendship networks used to deal drugs
+
+---
+# Collective Efficacy (Sampson)
+
+* Merge social disorganization with social capital theories
+
+* Colelctive efficacy: Capacity of neighborhood to intervene when a prioblem arises
+   * Based on working trsut among residents
+   * Shared expectations
+   * Collective counterpart to Bandura's social efficacy (individual agency)
+
+---
+# Social Capital & Collective Efficacy
+
+* Neighborhood social capital (collective efficacy)
+   * Intergenerational closure
+   * Reciprocated exchange
+   * Child-centered social control
+   * Also: Trust among neighbors, kinship/friendship ties, voluntary associatons, neighborhood activism
+   
+* Results (see diagrams)
+   * Social ties affect violence through child-centered social control
+   * Broken windows hypothesis
+
+---
+# Neighborhood Organization, Collective Efficacy, and Crimes Rates
+
+[IMAGE]
+
+* Social network ties in the neighborhood
+   * Formal ties to the neighborhood
+   * Informal social ties
+
+* collective efficacy
+   * Neighborhood ties represent structural resources for social capital
+   * Affect crime rates through collective efficacy
+   * Chicago and Seattle
+
+---
+# SNCS
+
+[IMAGE: Head map of informal social control in Seattle]
+
+---
+# SNCS
+
+[IMAGE: Same but with crime on it too]
+
+
+---
+class: inverse
+# Discussion
+
+---
+# Some Questions
+
+---
+# Some Clarifications
+
+---
+# For Next Time
+
+* Peterson, Ruth D., and Lauren J. Krivo. 2010. *Divergent Social Worlds*. Pp. 71-125
+
+Things to pay attention to:
+   

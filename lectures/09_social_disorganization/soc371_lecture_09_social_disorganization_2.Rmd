@@ -1,0 +1,601 @@
+---
+title: "Social Disorganization Theory II"
+subtitle: "SOC371, Summer 2020"
+author: "Chuck Lanfear"
+date: "Jul 27, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ../style/xaringan-themer.css
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["center","top"]
+---
+
+# Overview
+
+* Context
+
+* Social Control Model of Social Disorganization
+
+   * Kornhauser's (1978) Critique
+   * Sampson & Groves (1989)
+
+* Systemic Model of Social Disorganization
+
+   * Systemic Model
+   * Levels of Social Control
+   * Bursik & Grasmick (1993)
+
+* Peterson & Krivo (2010)
+
+???
+
+Going to talk about three areas of work that revise and extend the classic social disorganization model
+
+---
+# Context
+
+* Social disorganization out of favor
+
+    * Whyte's (1943) *Street Corner Society*
+
+???
+
+Generally out of favor through 60s and 70s due to issues with tautology, difficulty applying it, inability to explain crime in some contexts; critiques from those finding highly organized social systems in poor and crime ridden neighborhoods
+
+--
+
+* Individual models of crime
+
+???
+
+Subcultural and strain models; so-so to weak support but persistent to explain deficiencies in social disorg models while staying away from inherent criminality models
+
+--
+
+* Resistance to social control
+
+???
+
+Evidence against monolithic value systems; resistance to enforcement of conformity
+
+--
+
+* Resistance to natural / ecological model of development
+
+   * Logan & Molotch's (1987) *Urban Fortunes*
+
+???
+
+Layout and organization of cities is not natural, market-based, or product of residents but product of capitalist production and external political forces.
+
+Inequality persists because it profits the growth machine in collusion with public officials and businesses
+
+---
+class: inverse
+# The Social Control Model
+
+---
+# Kornhauser's Critique
+
+* No evidence for delinquent subcultures
+
+???
+
+Delinquents have conventional norms, just occupy disadvantaged position
+   
+Partly Hirschi's argument--delinquents and delinquent groups generally espouse conventional values but are weakly bound to them.
+
+Disadvantaged position makes costs for delinquent low and gains relatively high
+
+--
+
+* Delinquent subculture incompatible with social disorganization
+
+   * Delinquent subculture can't exist without disorganization
+   * Disorganization produces delinquency absent subculture
+   * Disorganization *does* produce cultural attenuation
+
+???
+
+Kornhauser basically says social disorganization's key idea is incompatible with deviant subculture. Delinquency can't be caused be an autonomous delinquent subculture if it is also caused by absence of controls. Control argument says if you removed everyone from community and replaced with new people, you'd have high delinquency due to institutions being gone. But subculture argument says you'd have no delinquency.
+
+Her argument: Disorganization precedes and causes any apparent subculture and it is not self-sustaining--it is a symptom of controls. This is essentially using Hirschi's argument about control vs subcultural theories.
+
+For Kornhauser, lack of controls makes delinquents and precedes any delinquent grouping.
+
+Kornhauser does permit that disorganization may produce cultural attenuation: Disconnection between values and practical reality
+
+--
+
+* Recast social disorganization as pure social control model
+
+   * Controls derived from stable, interconnected institutions
+
+--
+
+* Disorganization impedes internal and external controls
+
+   * Socialization into cultural values
+   * Supervision and surveillance
+   * Stakes in conformity
+   * Power of others to enforce role obligations
+
+???
+
+Enforcement of role obligations includes things like requirements of work, school, etc.
+
+Kornhauser's approach is linked closely to Hirschi. There is a dominant set of cultural values, socialization is part of social control.
+
+Social disorganization negatively impacts every element of bonds
+
+---
+## Kornhauser's Social Disorganization
+
+<br>
+
+.image-75[
+![](img/kornhauser.svg)
+]
+
+???
+
+This is a very simple looking model because it is just a macro control model. The control model is very simple! Social disorganization is just controls or bonds.
+
+
+
+---
+## Kornhauser's Multilevel Model
+
+<br>
+
+.image-75[
+![](img/kornhauser_2.svg)
+]
+
+???
+
+You can also make this a multilevel model.
+
+The manner in which social disorganization impacts crime goes through controls on individuals.
+
+---
+# Sampson & Groves (1989)
+
+* Problem: Shaw & McKay's *real* model never tested
+
+   * No measures of disorganization
+   * Survey data can get this
+
+--
+
+* Social disorganization as:
+
+   * Friendship networks
+   * Supervision of teen peer groups
+   * Participation in voluntary organizations
+
+???
+
+Based on Shaw & McKay--but also Kornhauser--focus is on controlling youth.
+
+Friends proxy for recognizing strangers and ability to engage in guardianship.
+
+Voluntary orgs are problem solving capacity and institutional capacity; we'll get to role of orgs in systemic model shortly
+
+--
+
+* Social disorganization caused by usual three factors
+
+???
+
+These have been mostly stable since Shaw & McKay
+
+--
+
+* No subcultural component--this is a control model
+
+   * So Shaw & McKay's complete model *still not tested*
+
+???
+
+They mention youth delinquency may link to adult criminal careers but aren't studying it
+
+This is fundamentally a version of Kornhauser's model
+
+So core Shaw & McKay model is tested here but it completely leaves out the rich delinquent tradition component
+
+I am not familiar with any modern social disorganization work which uses a delinquent tradition model at the lower level--might be out there
+
+---
+class: inverse
+
+# The Systemic Model
+
+???
+
+A parallel vein of research on social control was occurring at same time
+
+---
+# Kasarda & Janowitz (1974)
+
+* What makes people invested in their neighborhood?
+
+   * What matters is duration of residence--takes time to become embedded
+   * Local social ties produce identification and sentiment
+   * Behaviors to improve neighborhood come from investment
+
+???
+
+This is urban sociology work emerging from foundation in Chicago school, particularly Park & Burgess (of concentric zone fame)
+
+Interested in using survey data to adjudicate between different models of people's relationship to urban space
+
+Basically Wirth said population size and density makes people less attached to place, but Park and Burgess said that isn't it--it is time spent there and connections formed
+
+--
+
+* The systematic model:
+
+>  The local community is viewed as a complex system of friendship and kinship networks and formal and informal associational ties rooted in family life and on-going socialization process.
+
+???
+
+The idea is communities are an interlocking system. Because they're based on ties, communities functon best when ties are many and stable.
+
+--
+
+* Janowitz:
+
+   * Social control doesn't need universal norms
+   * Control is about preventing behavior that interferes with group goals
+
+???
+
+Related to this, Janowitz was revitalizing classic social control theory
+
+Gist is social control is not coercive--it is about groups regulating themselves to accomplish shared goals; imagine how mostly consensual rules of, say, classroom behavior facilitate learning.
+
+This means moral component not vital: Consider the group, consider its goals. There may be a moral investment in the idea of learning or classroom but the rules are pragmatic not moral in nature.
+
+Note tt is also *not* socialization in the common sense--social control is group and goal specific.
+
+---
+### Forms of Social Control (Hunter 1985)
+
+* Integration of systemic community model with social control
+
+???
+
+Hunter elaborated the connection between the system of ties in communities to social control.
+
+--
+
+* Three levels of networks for social control
+
+   * Private: Family and friends
+   
+      * Based on giving/withholding sentiment, support, and esteem
+
+???
+
+Sentimental relationships
+
+--
+
+   * Parochial: Stores, schools, churches, voluntary orgs.
+   
+      * Based on informal sanctions and status
+
+???
+
+Relationships among neighbors without sentimental attachment
+
+--
+
+   * Public: Outside agencies and organizations
+   
+     * Allocation of resources to indigenous orgs
+     * Relationship with police
+
+???
+
+Key element here is the ability to secure goods and services from outside agencies, such as getting the police to intervene or city to enforce something like zoning.
+
+--
+
+
+* High crime is caused by "disarticulation" between levels
+
+???
+
+Each level of social control deals with a different sphere of life and they have some overlap.
+
+Higher crime may be result of weakness in some level but more likely to be due to disconnect or failure to coordinate.
+
+For instance, community expects the government to regulate incivilities in public space but the government sees this as outside their bounds.
+
+Must negotiate a solution that addresses it.
+
+---
+### Systemic Model of Social Disorganization
+
+* Bursik & Grasmick (1993) *Neighborhoods and Crime*: Integrate systemic model with social disorganization.
+
+   * Hunter's (1985) three levels of control
+   * Kasarda & Janowitz's (1974) community attachment
+
+???
+
+In preceding articles and then the book, the authors wove together the threads into a cohesive model of systemic social disorganization
+
+   
+--
+
+* Internal and external network connections are key
+
+   * Networks among individuals and institutions
+   * Networks with external actors, institutions, and agencies
+      * Competition for resources (Logan & Molotch 1987)
+
+???
+
+Bursik & Grasmick say Shaw & McKay were too focused on immediate family socialization and social control to neglect of institutions and connections between them.
+
+Also, importantly, ability to coordinate efforts locally and pull resources from outside
+
+Neighborhoods may be in political competition for scarce resources; may be hierarchy on ability to make demands.
+
+--
+
+* Bursik assumption: Residents share goal of freedom from threat of crime.
+
+   * Social control is regulation of residents and visitors to attain this.
+
+???
+
+This is taking Janowitz's conception of social control
+
+Not about morality--about maintaining shared goal of basic safety
+
+--
+
+* Fear of crime may produce withdrawal--reducing social control
+
+   * May also reduce investment, business patronage
+   
+???
+
+This is a novel component: Acknowledgement of feedback effects. Crime may be result of social control, but crime may also reduce social control by making people afraid.
+
+We'll return to this when we talk about Broken Windows
+
+---
+## Systemic Social Disorganization
+
+<br>
+
+.image-100[
+![](img/bursik_grasmick.svg)
+]
+
+.footnote[From Bursik & Grasmick (1999:39)]
+
+---
+# Empirical Evidence
+
+* Support for the systemic model
+
+   * Socioeconomic structure predicts ties
+   * Various levels of ties predict crime
+   * Evidence for feedback processes
+
+???
+
+There is general support for the systemic model; social structures mediate effects of socioeconomic structure
+
+There's also good evidence for feedback processes: crime and fear of crime negatively impact social control and its antecedents
+
+--
+   
+* Lingering issues
+
+   * Dense ties exist in high crime areas
+   * Some low crime areas have few dense ties
+   * Low crime in absence of exercise of social control
+   * Challenging to operationalize
+ 
+
+???
+
+Systemic model can't explain certain categories of neighborhoods
+
+There are urban neighborhoods characterized by both high crime and pervasive dense networks and active organizations
+
+There are also urban neighborhoods with very few ties, few organizations, and basically no crime
+
+There are also neighborhoods with no evidence of exercised social control but little or no crime
+
+The full systemic model is also difficult to operationalize: It has three levels of networks to measure and capturing actual social control behavior is difficult. Hard to also capture socialization.
+
+---
+# Divergent Social Worlds
+
+* America's racial macro-context
+
+   * Pervasive segregation
+      * Massey & Denton (1993) *American Apartheid*
+   * Conditions of life are racially structured
+   * Race does not cause disadvantage--or crime
+
+???
+
+Only going to touch on this for a bit--still a lot to read.
+
+So far they've set up the context: America has pervasive segregation which results in racial structuring of living conditions.
+
+Key concept here is race doesn't cause these conditions--these conditions are a result of racialized policies and behaviors.
+
+A key idea in Massey & Denton's work is nothing will be able to address socioeconomic problems of minority groups in US without dealing directly with discrimination and prejudice in housing markets.
+
+
+--
+
+* Segregation as a defining structural variable
+
+   * Impedes competition for outside resources
+   * Structures opportunities
+   * Sustained by dynamic process of white flight
+
+???
+
+In their social disorganization model, one can imagine segregation as being a key factor which precedes the rest of the social disorganization model.
+
+Racial composition conditions all structural variables. It also conditions later ones as racial composition alters how, for instance, agents of social control respond (or don't)
+
+Peterson & Krivo do not have ability to measure the social structures with mediate the effect of segregation and socioeconomic factors on crime--one can imagine any of the forms of social disorganization model as working here.
+
+
+---
+class: inverse
+# Discussion
+
+---
+# Some Questions
+
+* "Does this book, its thesis, and its empirical research support or dispel the following theory?: 'Systemic racism means that even in the complete absence of individual racial bias and racially discriminatory acts, institutions such as the criminal justice system would still operate in a way that produces racially-biased affects.'"
+
+--
+
+* "Imagine you were a socially-liberal white homeowner and the city told you it was planning a public housing project in your neighborhood. You're all for integration, but at the next HOA meeting, you find out this project is going to decrease your home value in real dollars. What would your initial reaction be and why? How would you propose to address the issue?"
+
+---
+# Some More Questions
+
+* "It is mentioned within Divergent Social Worlds that the "crime-ridden ghetto" can be widely seen within our culture. Where do we see this? Is there any visual media that has a non-stereotypical representation of the "crime ridden ghetto"?" and "What role do the media (i.e. television, magazines, podcasts etc.) play in perpetuating racial stigmas/etiquette in the minds of the public? What are possible forms of combating this?"
+
+--
+
+* "With neighborhoods being structurally caused, do you think it'll be possible to break down white neighborhoods and make them all [or most] integrated neighborhoods?" or, alternatively, to produce equal conditions in racially segregated neighborhoods?
+
+---
+# Some Clarifications
+
+* Why is murder the leading cause of death for young African-American males? What is the direct cause?
+
+???
+
+Most directly it is involvement in crime and gangs; secondarily it is proximity to others' involvement in crime and gangs.
+
+--
+
+* What is up with female headed households as a disadvantage indicator?
+
+???
+
+This is a combination of path dependence on indicators and a lingering important reason. Single mothers face a wage penalty single fathers do not and single mothers are much more numerous than single fathers.
+
+--
+
+* "[A]re... homeless ever considered in the violence and neighborhood studies?"
+
+???
+
+Hard population to reach and very vulnerable. They're counted among victims because they're in vital statistics. They're rarely reached via surveys of victimization or perpetration. Lot of ethnographic work has reached them. Chris Herring for instance on police interactions with homeless. I'm doing some work in this area but I am not an expert.
+
+--
+
+* Why is it so difficult to study the race-class-violence nexus? And how does this generalize outside the US?
+
+???
+
+Issue in the US is class and race are so tightly intertwined that you can't get comparison groups. Think about lecture on methods. Need to be able to hold constant factor you're not interested in (class) and see variation in treatment (race). But when class always differs by race, can't separate effects. As far as generalization--probably not to most first world countries. More extreme segregation here than any other 1st world. Not sure about in developing places. Lot of places have strong racial and ethnic hierarchies but without as much segregation.
+
+--
+
+* What directly causes neighborhood segregation? Why is it so persistent?
+
+???
+
+Many small factors work together. Policies such as locating low income housing in black neighbs and local control of zoning, behavior of critical actors like banks and real estate, well-off residents avoiding black neighborhoods and leaving when folks move in. Active resistance in neighborhoods. Persistence is because it is fundamentally hard to address and there is little political will to do so. Segregation means the problems stay outside the seat of power.
+
+--
+
+* "How can you make recorded crime rates reflect crime in all neighborhoods to the same degree ? Cops are more likely to report black crime than white crime due to institutionalized racism, how can we counteract this?"
+
+???
+
+Honestly we probably don't. The reality is that race of offender or perceived offender influences calling police and police treat people differently based on race. Need to be aware that police data is not crime data. It is customer service records. It records how often customers ask for a service and how they respond to those customers. Hard to know the factors that drive reporting in first place.
+
+---
+# Some More Clarifications
+
+* "What is the difference between institutionalized racism and systemic racism?"
+
+???
+
+Most use these as synonyms. Some make a distinction but I don't think it is real firm since definitions of institutions and systems aren't firm.
+
+--
+
+* To what degree is the higher crime rate in African-American neighborhoods due to increasing policing and arrests?
+
+???
+
+For some crimes, a lot--like drug crimes. But for violence, rates of arrest for violent crimes in black neighborhoods are actually lower than in other neighborhoods. Victimization and self-report data show similar patterns to police data.
+
+--
+
+* What about the Code of the Street?
+
+???
+
+We'll get there! Not yet!
+
+--
+
+* "What is the difference between 'race-based differentials' and 'segregated "centers" of color' (page 5 middle of second to last paragraph)?"
+
+???
+
+The former is what appear to be race based differences in crime; the latter is different places which suffer under concentrated disadvantage. The crime differences in race are attributable to black folk being concentrated in incredibly disadvantage places.
+
+--
+
+* "... many "divergent social groups" are categorically segregated such as homogeneous immigrant-populated neighborhoods that still have a strong level of community investment. Wouldn't crime rates be lower in these areas as many of these individuals would have internal-cultural connection to one another, especially given their close proximity to the group?"
+
+???
+
+Crime rates do tend to be lower in many types of immigrant ethnic enclaves--Asian and Latin for instance. But these advantages decline rapidly with generations.
+
+--
+
+* "Are integrated neighborhoods mentioned the result of gentrification?"
+
+???
+
+Some probably are--likely why their income numbers are so much higher. Hard to know though. Gentrification not super easy to define and measure and they didn't look.
+
+---
+# For Next Time
+
+* Sampson, Robert J., and William J. Wilson. 1994. “Race, Crime and Urban Inequality.” In *Crime and Inequality*. Edited by J. Hagan and R. Peterson. Stanford: Stanford University Press
+
+* Sampson, Robert J. 2006. “Social Ecology and Collective Efficacy Theory.” Pp. 132-140 in *The Essential Criminology Reader*. Edited by S. Henry and M.M. Lanier. Boulder, CO: Westview.
+
+Things to pay attention to:
+
+* Sampson & Wilson (1994):
+   * Context: 1990s crime peak, looking back to 1970s
+   * Reincorporation of cultural elements of social disorganization
+   
+* Sampson (2006)
+   * Limitations of models based on dense social ties
+   * Social capital conception of networks--ties are resources
+
+
+???
+

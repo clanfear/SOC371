@@ -1,0 +1,106 @@
+---
+title: "The Urban Underclass, Social Capital, and Collective Efficacy"
+subtitle: "SOC371, Summer 2020"
+author: "Chuck Lanfear"
+date: "Jul 29, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ../style/xaringan-themer.css
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["center","top"]
+---
+
+# Overview
+
+* Urban underclass debate
+   * Wilson
+   * Massey
+   * Quillian
+
+* Urban Underclass and Social Disorganization
+
+
+---
+# Urban Underclass
+
+* War on poverty in 1960s
+   * Moynihan report: Race, poverty, crime, female-headed families (25%)
+   * Culture of poverty
+   * Liberals: Worried about victim blaming
+   
+* William Julius Wilson: Extreme disadvantage in inner cities
+   * Female-headed households
+   * Poverty
+   * Welfare
+   * Violence and drugs
+   
+---
+# Causes of Urban Underclass (Wilson)
+
+* Great migration of southern blacks to borthern industrial cities
+
+* Shift from manufacturing to service economy (loss of secondary sector jobs)
+
+* Historical legacy of racial discrimination
+
+* Upwardly mobile middle-class blacks move to affluent (white) suburbs: Role models exit
+
+---
+# Residential Segregation (Massey)
+
+* Extreme residential segregation contributes to concentrated disadvantage
+
+* Overt racial discrimination
+   * Audit studies (mortgage lending, real estate agents, rentals)
+   * RAcial preferences
+   * Crime used as code word for minority status
+   
+* Massey: Myth that middle class blacks moving to white neighborhoods
+
+---
+# Lincoln Quillian
+
+* Must look at residential patterns over time
+
+* Middle class blacks are moving to affluent neighborhoods
+
+* But whites  are moving out of thes eaffluent neighborhoods to other white neighborhoods
+
+* Result: Middle class blacks are in predominantly black neighborhoods
+
+* Consequence: New impoverished neighborhoods left behind, increasingly black
+
+---
+# Urban Underclass & Social Disorganization ( Wilson & Sampson)
+
+* Wilson's underclass thesis explains concentrated disadvantage in inner-cities
+
+* Undermines local communities (social disorganization)
+   * Residents are uanble toa chieve collective values
+   * Weak families (family structure impedes supervision)
+   * Indifference or tolerance of crime
+   
+* REsult: High rates of crime and violence
+
+
+---
+class: inverse
+# Discussion
+
+---
+# Some Questions
+
+---
+# Some Clarifications
+
+---
+# For Next Time
+
+* Peterson, Ruth D., and Lauren J. Krivo. 2010. *Divergent Social Worlds*. Pp. 71-125
+
+Things to pay attention to:
+   
