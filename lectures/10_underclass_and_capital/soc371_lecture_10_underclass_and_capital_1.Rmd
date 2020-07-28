@@ -25,54 +25,191 @@ output:
 
 
 ---
+class: inverse
 # Urban Underclass
 
-* War on poverty in 1960s
-   * Moynihan report: Race, poverty, crime, female-headed families (25%)
-   * Culture of poverty
-   * Liberals: Worried about victim blaming
-   
-* William Julius Wilson: Extreme disadvantage in inner cities
+---
+# War on Poverty
+
+* Moynihan report: "Tangle of pathology"
+
+> Three centuries of injustice have brought about deep-seated structural distortions in the life of the Negro American. At this point, the present tangle of pathology is capable of perpetuating itself without assistance from the white world. The cycle can be broken only if these distortions are set right.
+
+   * Unemployment dropping but welfare increasing
+   * Female-headed families
+      * 25% of births out of wedlock (1965)
+   * Focus: Nuclear family
+      * Thesis: Legacy of slavery and Jim Crow disrupting family structure
+      * Matriarchal structure out of line with mainstream
+   * *Civil rights alone will not produce racial equality*
+
+???
+
+Moynihan was labor secretary under LBJ--later served under other administrations and was professor at Harvard, New York Senator from 77 to 2001.
+
+Also argument that black culture had become matriarchal, weakening ability of black men to be authority figures; not inherently problematic, but rather a problem because America is patriarchal.
+
+A self-sustaining tangle of pathology created by centuries of subjugation--even if structural conditions producing it removed, it will self-perpetuate. Must intervene to rebuild the family.
+
+--
+
+* Culture of poverty argument
+
+   * Poverty-sustaining value systems
+
+???
+
+Critique here is this seems to suggest people could just stop being poor by changing their values. Technically Moynihan wasn't saying this. But conservative politicans latched on: only racial self-help can solve problem.
+
+--
+
+* Blaming the victim
+
+   * Diversion of responsibility from racism to culture
+
+???
+
+Obviously there was strong reaction to this--the actual origin of the popular use of "blaming the victim" was a response to Moynihan report
+
+From the left it was seen as a diversion away from racism--as well as structural issues
+
+
+---
+# William Julius Wilson
+
+.pull-left[
+* Extreme disadvantage in inner cities
+
    * Female-headed households
    * Poverty
    * Welfare
    * Violence and drugs
-   
----
-# Causes of Urban Underclass (Wilson)
 
-* Great migration of southern blacks to borthern industrial cities
+* It's the jobs!
+]
+
+.pull-right[
+.image-full[
+![](img/truly_disadvantaged.jpg)
+]
+]
+
+???
+
+Wilson is one of most esteemed living sociologists. Focus is macrohistorical study of urban black disadvantage.
+
+He acknowledges the existence of a black underclass in the inner city characterized by everything in Moynihan report.
+
+But question is how if racism is driving everything, did things decline so much more rapidly since 1970 than they did prior during Jim Crow.
+
+His thesis is macro structure of economy has changed depriving inner city of work
+
+Results in isolation from opportunity, irrelevance of conventional lines of behavior
+
+Reliance on welfare and illegal gains for income; no work means no marriageable partners for women
+
+---
+# Causes of Urban Underclass
+
+.pull-left[
+### Wilson
+
+* Great migration of southern blacks to northern industrial cities
 
 * Shift from manufacturing to service economy (loss of secondary sector jobs)
 
-* Historical legacy of racial discrimination
+   * Spatial mismatch
+   * Economic and social isolation
+   * Welfare and illicit economy
+   * No marriageable partners
+
+* Historical legacy of racial discrimination more relevant than current
 
 * Upwardly mobile middle-class blacks move to affluent (white) suburbs: Role models exit
 
----
-# Residential Segregation (Massey)
+   * Absence of norms and behavior patterns of steady work
+]
 
-* Extreme residential segregation contributes to concentrated disadvantage
+???
 
-* Overt racial discrimination
+
+Main thesis here is changes in the structure of the economy have created inner-city conditions
+
+Issue is not environmental but in economic organization
+
+Spatial mismatch: Low-income households are not where suitable jobs exist due to residential segregation and shift to suburban employment.
+
+Policies recommended are broad universal social welfare and employment--tight labor market, higher wages, and general economic growth
+
+--
+
+.pull-right[
+### Massey
+
+* Extreme residential segregation creates concentrated disadvantage
+
+* Current overt racial discrimination
+
    * Audit studies (mortgage lending, real estate agents, rentals)
-   * RAcial preferences
-   * Crime used as code word for minority status
+   * Racial preferences
+   * Crime as code word for minority
    
 * Massey: Myth that middle class blacks moving to white neighborhoods
+]
+
+
+???
+
+Massey's argument is that it is primarily environmental and driven by racial discrimination
+
+Black folk are concentrated in worst neighborhoods
+
+Audit studies show equivalent black people treated worse by all institutions handling residential process
+
+Racial preferences, particularly whites for homogenous communities, drive migration patterns
+
+Description of neighborhoods as dangerous or high crime is really code for black residents
+
+Policies recommended here are dealing with racial residential segregation
 
 ---
 # Lincoln Quillian
 
+
 * Must look at residential patterns over time
 
-* Middle class blacks are moving to affluent neighborhoods
+   * Middle class blacks moving to affluent neighborhoods
+   * Whites moving out to other white neighborhoods
 
-* But whites  are moving out of thes eaffluent neighborhoods to other white neighborhoods
+???
 
-* Result: Middle class blacks are in predominantly black neighborhoods
+Quillian's thesis is that both Wilson and Massey are right: middle class black folk are leaving but whites are fleeing the places those middle class black people go to.
 
-* Consequence: New impoverished neighborhoods left behind, increasingly black
+--
+
+* Results
+
+   * Middle class blacks are in predominantly black neighborhoods
+   * New impoverished neighborhoods left behind, increasingly black
+
+???
+
+This means middle class blacks end up in mainly black neighborhoods anyway; neighbs they leave behind are even more impoverished and increasingly black
+
+--
+
+* Later work: Three segregations
+
+   * Racial segregation
+   * Class segregation
+   * Cross-race poverty segregation
+
+> Policies that aim to provide broader housing choices may not deconcentrate poverty if blacks and Hispanics can only find places in the most disadvantaged desegregated neighborhoods.
+
+???
+
+Using demographic decompositions, Quillian shows three segregation processes going on. There's direct race segregation and segregation by class. But also, where minorities are not segregated--as is case for Latino pop--they are leaving near only poorest other-race neighbors. That is, where neighborhoods are integrated, it is mainly with poor whites.
+
 
 ---
 # Urban Underclass & Social Disorganization ( Wilson & Sampson)
@@ -80,11 +217,11 @@ output:
 * Wilson's underclass thesis explains concentrated disadvantage in inner-cities
 
 * Undermines local communities (social disorganization)
-   * Residents are uanble toa chieve collective values
+   * Residents are unable to achieve collective values
    * Weak families (family structure impedes supervision)
    * Indifference or tolerance of crime
    
-* REsult: High rates of crime and violence
+* Result: High rates of crime and violence
 
 
 ---
