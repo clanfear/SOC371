@@ -17,6 +17,7 @@ output:
 # Overview
 
 * Social capital theory
+
    * Weak ties
    * Closure
    * Forms of capital
@@ -30,14 +31,16 @@ class: inverse
 # Social Capital Theory
 
 ---
-# Social Capital
+# Capital
 
-* Begin with utlity maximization theory
+* Begin with utility maximization theory
+
    * Financial capital
    * Human capital
    * Social Capital
    
 * Social Capital
+
    * Inheres in social structure (network ties)
       * Closure of social networks
       * Example: Parents of other children
@@ -46,16 +49,21 @@ class: inverse
 ---
 # Strength of Weak Ties
 
-[IMAGE OF WEAK TIES]
+.image-short[
+![](img/weak_ties.svg)
+]
+
+???
+
 
 The weak tie allows different kinds of information (e.g. job openings) to pass between Group A and Group B
 
 ---
 # Closue of Social Networks
 
-[IMAGES]
-
-Closed Network Structure; Open Network Structure
+.image-short[
+![](img/closure.svg)
+]
 
 ---
 # Social Capital: Types and Appropriation
