@@ -389,10 +389,99 @@ class: inverse
 # Discussion
 
 ---
-# Some Questions
+# Two Questions
+
+* "I personally find the focus on the "urban village" very interesting because I do not associate very strongly with my neighborhood. When speaking to people within the state, I identify with my city, and when speaking to people in other parts of the country, I identify with the "greater-Seattle area". For the class: What spatial area around your place of residence do you identify most strongly with? Is it your neighborhood, city, or state? Does this fluctuate? Do you think this answer is different for residents of other parts of the world?"
+
+--
+
+* "Based on the theories we've studied that argue against crime being an individual character flaw and instead as a product of space, time, disadvantage, etc., how do we reconcile this with personal responsibility? How do we understand punishment in a society where most people who are driven to crime wouldn't be under different circumstances than the ones that are forced onto them?"
+
+
+---
+# Three More Questions
+
+* "Is it possible for a community to build a negative collective efficacy? Like behaviors, and actions that residents shared in that community are not used to build a correct public order but for something else. If it is possible, do we have any examples?"
+
+???
+
+Suttles, Greenwood on defended neighborhoods. Einstein, Glick, & Palmer. All sorts.
+
+--
+
+* "Can we eliminate the inner city ghettos if racism doesn’t exist? Will we always have poor people (in a capitalist society) that fall victim to this type of community structures?"
+
+--
+
+* If social isolation has such a high correlation with violent crime amongst those living in highly impoverished areas, what are potential policy interventions to combat this lack of contact between groups of different backgrounds?
 
 ---
 # Some Clarifications
+
+
+* "What does 'Individualistic fallacy' and 'materialist fallacy' mean in Sampson’s article?"
+
+???
+
+Individualistic fallacy is the idea that if you observe correlations in individual characteristics, it is due to some mechanism operating at the individual (rather than collective level). e.g. unemployment and crime is because unemployed people have more time to commit crime. Can instead be the environment unemployed people live in. Similarly, materialist fallacy is the idea that if a lack of material goods predicts behavior like crime, the crime is committed for material gain. Material disadvantage also predicts expressive crimes.
+
+--
+
+* "In the introduction of Sampson and Wilson, why is the factor of lack-of-evidence and unknowing data so intensely mentioned? Haven’t we considered the pros and cons to both the new and lacking implications of research and different research experiments as they have come along?"
+
+
+???
+
+It is over 20 years old! We've come a long way. Research since then has aimed at all these questions and done a great job. The work on collective efficacy, for instance, forward movement on this topic. 
+
+--
+
+* "Collective efficacy theory states that it is the mutual support and trust in the neighborhood to reduce crime and maintain public order. In a scenario where urban neighborhoods start to have programs like HOA, would anyone participate (without incentives) and come together to support their neighborhood (by pushing crimes away, passive surveillance-neighborhood watch and such)?"
+
+???
+
+This is getting at what we call the free-rider problem. If I have space, I'll try to get into it in the next lecture or two. Basically because getting involved is costly and the benefits to doing so accrue not just to you but to others in community who aren't bearing that cost, people have tendency to not get involved as much as would be optimal for the group. Figuring out how to deal with that is a classic problem of social order--collective action problems.
+
+
+--
+
+* "Sampson and Wilson: How do structural social disorganization and cultural social isolation influence one another in a manner that produces the systematic loss of ability for African Americans to change their living context to match that of whites?"
+
+???
+
+Gist of it is that conditions that make it difficult to regulate behavior inside your community also make it difficult for community to bring in resources from outside. When conditions are quite bad, as well, people able to get out will tend to leave, which is in their interests but further depresses community.
+
+---
+
+* "If density and population size help determine the rate of homicide, how come heavily populated areas has smaller rates of homicide compared to less populated areas? For example some areas of Seattle have low crime but as a whole Seattle is densely populated."
+
+???
+
+Consider it from a routine activities standpoint. You can't kill someone who isn't there. Density means more people coming in contact with each other. But context in which people encounter each other is important. It isn't density or population per se but intervening mechanisms like informal social control and contexts of interpersonal conflict.
+
+--
+
+* From Sampson & Wilson (1994): "In turn, black family disruption was substantially related to rates of black murder and robbery, especially by juveniles... These effects were independent of income, region, density, city size and welfare benefits." Does this mean.. the main reason that cause black crime is because of their family [structure?]"
+
+???
+
+Not the main reason but a contributing reason. That paper showed that black male unemployment predicts single-mother households and the prevalence of single-mother households predicts crime net of other measures of disadvantage. This is fairly logical however--single parent households in general are disadvantaged and less capable of supervising children.
+
+--
+
+* "I'm curious how the application of this systemic theory would apply to these individual variables in areas that are racially homogeneous, have equal resource access, relative wealth distribution, civic associations, and community programs such as Norway, or perhaps Japan?"
+
+???
+
+Interestingly enough, Sampson and Wikstrom did a cross-national study of collective efficacy and found the patterns generally looked the same in both Chicago and Stockholm, Sweden. There's mixed evidence in the Netherlands and Australia. My annual review article covers this in detail.
+
+--
+
+* "If the social ecology of an area is largely spread out, would tightly knit social networks still exist to reduce interpersonal violence? For instance in a rural area, homeowners may have property lines that are miles apart from one another and community associations may be sparse."
+
+???
+
+Interestingly enough, spread out and rural places often have very tight networks over longer distances. Informal social control can be very effective in rural places because there are essentially no strangers--and those strangers that appear are a target of much scrutiny. There's mild supportive evidence for the collective efficacy framework in at least one rural US setting.
 
 ---
 # For Next Time
@@ -400,4 +489,10 @@ class: inverse
 * Peterson, Ruth D., and Lauren J. Krivo. 2010. *Divergent Social Worlds*. Pp. 71-125
 
 Things to pay attention to:
+
+* How expected levels of violence property crime change when equalizing structural conditions
+
+* The importance of both conditions inside neighborhoods as in nearby neighborhoods
+
+* The difficulty in addressing the racial-spatial divide with policy
    

@@ -135,6 +135,23 @@ class: inverse
 ---
 # Some Clarifications
 
+--
+
+* How does collective efficacy account for people who commit crimes far away from where they live?
+
+???
+
+The mechanism by which collective efficacy operates is mildly ambiguous but is stated to include both actual intervention against crime and also awareness that people will intervene--which is essentially deterrence. Places high in CE regulate their own members and also strangers, in theory.
+
+
+--
+
+* Sampson: If community ties need to be "activated" in order to produce collective efficacy, but being close to places with low collective efficacy reduces this chance, how does the network of communities rely on one another and perhaps create a circular cycle of no one being able to achieve collective efficacy? What contributes to this cycle?
+
+???
+
+This is part of the concentration of disadvantage. Poor, segregated neighborhoods are near other poor segregated neighborhoods, and not only are they weakly organized with each other, they wouldn't be in a strong position to make demands if they were. Big contributors are segregation, concentration of economic and political power.
+
 ---
 # For Next Time
 
