@@ -426,11 +426,14 @@ Our CE data are quite old--2003. Be nice to have more recent data but surveys ar
 * Collective efficacy is a general capacity to solve problems
 
    * Not just crime control
+   * Health outcomes
+
 
 --
 
 * Correlates with many pro-social behaviors (Sampson 2012)
 
+   * Voter turnout
    * Administration of CPR after cardiac arrest
    * Returning lost letters
 
