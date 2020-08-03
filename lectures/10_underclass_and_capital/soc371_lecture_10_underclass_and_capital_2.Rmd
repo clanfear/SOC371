@@ -534,6 +534,8 @@ Next finding is we have similar but slightly lower correlation with collective e
 
 Here is a map of CE and mailed letter rates for Seattle. They map on pretty well!
 
+Notice the university is missing on both and one area is gray on the right. We took no survey data from the University and did not do experiments in SoDo because it is weird.
+
 ---
 # 2016 Election Turnout
 
