@@ -334,3 +334,13 @@ body {
   background-position: center center, center bottom;
   background-size: contain, contain;
 }
+.centernote {
+  text-align: center;
+  position: fixed;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  padding-left: 100px;
+  padding-right: 100px;
+  bottom: 3em;
+}
