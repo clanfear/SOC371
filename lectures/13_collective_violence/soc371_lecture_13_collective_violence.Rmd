@@ -14,173 +14,218 @@ output:
       titleSlideClass: ["center","top"]
 ---
 
-# What is Criminology?
-
-Sutherland: "The study of making of laws, the breaking of laws, and reacting to the breaking of laws."
-
-Making Laws: Sociology of Law
-Breaking Laws: Criminology
-Reacting to Law Breaking: Sociology of Criminal Justice
+# OVerview
 
 ---
+# Differential Social Organization
 
-???
+* Static view: Organization in favor of crime vs. organization against crime
 
-* These are interrelated: laws determine what counts as crime and also the response
-* Assumptions about causes of crime shape reactions to breaking the law and legality of things in first place
+* Dynamic view: Collective action (joint behavior among two or more interdependent individuals)
+   * Consensus over objective (for crime or against crime)
+   * Consensus over means of attaining objective
 
----
-
-# Who am I?
-
-Chuck Lanfear
-
-* Instructor (not professor)
-
-* 6th Year Sociology PhD student
-
-Research:
-
-* Neighborhood Social Control 
-* Racial Bias in Policing
-* Broken Windows and Criminal Opportunity
+* Result: Collective action in favor of crime vs. collective action against crime
 
 ---
+# Collective Action
 
-# Objectives of Course
-
-* Provide you with an understanding of basic theories, concepts, and methods used by criminologists.
-
-* Show you how criminological theories apply to real-world phenomena and current events.
-
-* Make you a critical consumer of claims about crime and crime policies in the news, social media, and political campaigns.
-
-* Develop your critical and analytical skills through discussion and written exams.
-
-???
-
-Maybe one slide for each?
+* Grievance requiring a collective response
+* Social Structure (Resource Mobilization Theory)
+   * Social network ties
+   * Pre-existing organization
+   * Political opportunities
+   
+* Collective Action Frames
+   * Frame a grievance as calling for certain collective acts
+   * Meanings and understandings of issues
+   * Define a situation as calling for action
+   * Fight over whose meaning of issues prevails--e.g. abortion, gay marriage, torture
 
 ---
+# COllective Action Frames
 
-# Marketable Skills?
+* Frame Alignment
+   * Link individual interpretations to social movement organizations' interpretations
+   * Use argumentative tactics to align frames
+
+* Effectiveness of frames
+  * PRoblem and solution is defined collectively (not individually)
+  * Defines antagonists as "us" versus "them"
+  * Defines an injustice that can be corrected collectively
+
+* Example: Civil Rights
+
+[LINKL MLK I have a dream]
+
+---
+# Social Network Ties
+
+* NEtwork Closure
+   * Increases ability of individuals to influence others
+   * Open Structure: C can influence A and B individually
+   * Closed structure: C and A can influence B
+
+[Image: Open and closed structures]
+
+---
+# Social Network Ties
+
+* Strong versus weak ties
+   * Strong ties to similar others provide similar information
+   * Weak ties to dissimilar others provides different information
+   * Example: Hearing about a job
+
+[Image: Strong and weak ties]
+
+---
+# Social Efficacy vs. Collective Efficacy
+
+* Collective Efficacy: A Neighborhood's capacity to resolve local problems collectively
+   * Activation of capacity
+   * Apply this to groups
+   * Increased with strong social ties (network closure)
+
+* Social efficacy: An individual's ability to create consensus over group objectives and procedures and translate procedures into action
+   * Some individual are better able to create consensus and persuade others into collective action
+   * Charismatic individuals (MLK)
+
+---
+# Social Efficacy in Different Network Positions
+
+[IMAGE: Network diagram of positions]
+
+Central actor is socially efficacious resident: great structural position
+Two others socially efficacious but weak structural positions
 
 ---
 class: inverse
-# Course Structure
-
-
----
-# Daily Schedule
-
-Two parts:
-
-1. Lecture
-
-2. Discussion
+# Genocide
 
 ---
-# Content
+# Definition of Genocide
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE}
-library(tidyverse)
-course_outline <- readxl::read_excel("../../ignore/course_workbook.xlsx", sheet=1) %>% filter(Ignore!=1)
-course_readings <- readxl::read_excel("../../ignore/course_workbook.xlsx", sheet=2) %>% filter(Ignore!=1) %>%
-  select(Lecture, Citation)
-```
+Genocide is any of the following five acts committed with intent to destroy, in whole or in part, a national ethnic, racial, or religious group:
 
-.small[
-```{r, echo=FALSE, message=FALSE, warning=FALSE, eval=TRUE}
-course_outline %>%
-  select(Week, Lecture, Date, Topic) %>%
-  filter(!is.na(Lecture)) %>%
-  select(-Lecture) %>%
-  group_by(Date) %>%
-  summarize(Topic = first(Topic)) %>%
-  mutate_at(vars(-Date), ~ ifelse(is.na(.), "", .)) %>%
-  arrange(Date) %>%
-  mutate(date_orig = Date, Date = format(Date, "%b %e")) %>%
-  mutate(Date = ifelse(lead(Topic) == Topic, paste0(Date,"-", str_extract(lead(Date), "[0-9]+")), Date)) %>%
-  group_by(Topic) %>%
-  slice(1L) %>%
-  ungroup() %>%
-  arrange(date_orig) %>%
-  select(-date_orig) %>%
-  gt::gt()
-```
-]
+* Killing group members
+* Causing serious bodily or mental harm to group members
+* Deliberately inflicting conditions of life calculated to destroy the group as a whole or in part
+* Imposing measures intended to prevent births
+* Forcible transferring children of the group to another group
 
+---
+# Genocide in Darfur
+
+* Competition between settled black tribes and nomadic arabs
+   * Land, cattle, horses, and other resources
+   * Desertification intensified conflict
+   * Janjaweed (supported by Sudan government) vs. black African insurgents
+
+* Arming of Arab Janjaweed militias by government in 2003
+* Bombing of African villages by Sudanese government
+* Government forces join Janjaweed militias in ground attacks
+* Sexual violence and other atrocities
+* Confiscation of property (animals, grain, seed, equipment)
+* Displacement of black Africans into internal displacement camps
+* Resettlement of black African regions by Arabs
+
+---
+# Differential Social Organization of Genocide
+
+* Organization against genocide
+   * Typically the state (government)
+   * Black Afircan rebels and insurgents
+   * The international community & the international criminal court
+
+* Organization in Favor of Genocide
+   * Arab Janjaweed anti-insurgent groups
+   * Sudanese government
+   * Arab settlers
+
+* Collective action
+
+---
+# Collective Action in Favor of Genocide
+
+* Social networks and access to resources
+   * Arab Janjaweed & Sudan government forces
+   * Arms and cooperation
+
+* political opportunity: insurgent attacks
+
+* Collective action frames
+   * Define the conflict as a collective problem, not an individual grievance
+   * Define opposition (black Africans) as "them" versus "us" (racism)
+   * Frame injustices committed by "them" as correctable by organized actions against "them" (ethnic cleansing)
+
+* Social Efficacy
+   * Key leaders of Arab militia representing distinct areas
+   * Hilal, Dawai, Shineibat, Kushayb
+   * Each with strong regional social ties & social efficacy
+
+---
+# Collective Action in Favor of Genocide
+
+* Racism frame: Emotional spark
+   * "Us" vs. "Them" in zero-sum game
+      * Initially over land, water, and resources
+      * Gets transformed into race
+  * Demonize and dehumanize African blacks
+
+* Racial epithets
+   * Individual racist expressions are transformed into collective racism
+   * "Fanatical fury": Collective racist emotion unleashed on dehumanized African blacks
+   * Racism: A collective instrument of organized terror
+   * Reveal a reacist motive and intent (genocide)
+
+---
+# The Case for Genocide
+
+* Racial epithets heard during attacks (reflect racial intent)
+   * More likely when Sudanese government troops joined with Janjaweed militants
+   * "We will eliminate all you blacks"
+   * "You will have an Arab baby."
+
+* Nearby Arab settlements often ignored in attacks
+
+* Bombing and racial epithets combined for greater victimization
+
+* State-sponsored murder and rape
+
+---
+# Proposed Solution: International LAw
+
+* Call on the United Nations to define this as genocide
+* Call on International Criminal Court
+   * Define this as genocide
+   * Indict Hillal and others for genocide (Sudan's present, Omar al Bashir was "recently" indicted)
+   * End the atrocities by international intervention
+
+---
+# A Competing View
+
+* Viewed in historical context, this is a political-economic conflict
+   * Decades of conflict over land, water, animals, and other resources.
+   * Arab and black identities in Darfur have been fluid for centuries 
+   * British colonial rule: Re-tribalization, in which tribes would be designated new homelands
+* ICC is arbitrarily taking one side over the other
+   * Demonizing arabs (good vs. evil)
+   * Historically atrocities have been comitted by botyh sides
+* Africanists distrust the ICC
+   * Not accountable to anyone
+   * Except UN security council, which is dominated by US
+   * External intervention will only destabilize the region
+* Better solution: Internal political solution through negotation
+   
+   
 ---
 class: inverse
-## Course Requirements
+# Discussion
 
 ---
-# Grading
-
-| Item                   | Number | Percent of Grade |
-|:----------------------:|:------:|:----------------:|
-| Course Participation   | 18     |     10           |
-| Discussion Questions   | 16     |     20           |
-| Midterm Exams          |  2     |     40           |
-| Final Exam             |  1     |     30           |
-
-* 95% or higher is a 4.0  
-* Each 2.5% corresponds to a .1 difference 
-   + e.g. 90/100 is a 3.8
-   + Rounded down: 92/100 is also 3.8
-* 
+# Some Questions
 
 ---
-# Participation
-
-Components:
-
-* Reading
-* Discussion
-
-These are evaluated based on your participation in-class.
-
-If unable to attend, you can arrange for and submit a 1-page reading and discussion responses *prior to scheduled discussion*.
+# Some Clarifications
 
 ---
-### Discussion Questions
-
-2 (or more) discussion questions
-   + Submit via Canvas
-   + Due 6 PM the day prior to lecture
-   + Questions address different readings unless there is only one
-   
-Example: !!!
-
----
-# Exams
-
-* 2 Midterms
-* 1 Final
-
-Structure:
-* Open-book, at least one day to work.
-* Multiple short answers
-* One or more short essay
-* Citations expected
-   + ex: "Shaw & McKay (1942) proposed delinquent subcultures as a mechanism for stability in neighborhood crime rates."
-   + Material from *outside* course must have an entry in **Works Cited** section
-   + Assigned class material can just be author(s) and date
-   + Any major format (e.g. ASA, APA, Harvard) acceptable but be consistent
-
-*Emphases of exams is demonstrating understanding, critical thinking, and application of concepts, not regurgitation of facts, names, and dates.*
-
----
-## Course Texts and Readings
-
-* No Textbook
-* Two--short but important--books:
-   + [Divergent Social Worlds (2010) Ruth D. Peterson & Lauren J. Krivo](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71175976510001451)
-   + [Darfur and the Crime of Genocide (2009) John Hagan & Wenona Rymond-Richmond](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/kjtuig/CP71240618630001451) 
-   + Both available as eBooks through the UW library but affordable in print.
-
-
-
----
-# For Next Time
-   
