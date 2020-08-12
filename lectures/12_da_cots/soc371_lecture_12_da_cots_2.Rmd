@@ -2,7 +2,7 @@
 title: "The Code of the Street"
 subtitle: "SOC371, Summer 2020"
 author: "Chuck Lanfear"
-date: "Jun 22, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Aug 12, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
