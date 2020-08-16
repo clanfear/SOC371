@@ -1,0 +1,205 @@
+---
+title: "Genocide"
+subtitle: "SOC371, Summer 2020"
+author: "Chuck Lanfear"
+date: "Aug 19, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ../style/xaringan-themer.css
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["center","top"]
+---
+
+# Overview
+
+* Genocide
+
+* Differential Social Organization of Genocide
+
+* A Competing View
+
+* Wrapping Up the Course
+
+
+---
+# Definition of Genocide
+
+> Genocide is any of the following five acts committed with intent to destroy, in whole or in part, a national ethnic, racial, or religious group:
+
+* Killing group members
+* Causing serious bodily or mental harm to group members
+* Deliberately inflicting conditions of life calculated to destroy the group as a whole or in part
+* Imposing measures intended to prevent births
+* Forcible transferring children of the group to another group
+
+---
+# Genocide in Darfur
+
+* Competition between settled black tribes and nomadic arabs
+
+   * Land, cattle, horses, and other resources
+   * Intensified by desertification
+   * Janjaweed (supported by Sudan government) vs. Black African insurgents
+
+* Arming of Arab Janjaweed militias by government in 2003
+* Bombing of African villages by Sudanese government
+* Government forces join Janjaweed militias in ground attacks
+* Sexual violence and other atrocities
+* Confiscation of property (animals, grain, seed, equipment)
+* Displacement of Black Africans into internal displacement camps
+* Resettlement of Black African regions by Arabs
+
+---
+# Differential Social Organization of Genocide
+
+* Organization against genocide
+
+   * Typically the state (government)
+   * Black African rebels and insurgents
+   * The international community & the international criminal court
+
+* Organization in Favor of Genocide
+
+   * Arab Janjaweed anti-insurgent groups
+   * Sudanese government
+   * Arab settlers
+
+* Collective action
+
+---
+# Collective Action in Favor of Genocide
+
+* Social networks and access to resources
+
+   * Arab Janjaweed & Sudan government forces
+   * Arms and cooperation
+
+* Political opportunity: insurgent attacks
+
+* Collective action frames
+
+   * Define the conflict as a collective problem, not an individual grievance
+   * Define opposition (Black Africans) as "them" versus "us" (racism)
+   * Frame injustices committed by "them" as correctable by organized actions against "them" (ethnic cleansing)
+
+* Social Efficacy
+
+   * Key leaders of Arab militia representing distinct areas
+   * Hilal, Dawai, Shineibat, Kushayb
+   * Each with strong regional social ties & social efficacy
+
+---
+# Collective Action in Favor of Genocide
+
+* Racism frame: Emotional spark
+
+   * "Us" vs. "Them" in zero-sum game
+      * Initially over land, water, and resources
+      * Gets transformed into race
+  * Demonize and dehumanize African blacks
+
+* Racial epithets
+
+   * Individual racist expressions are transformed into collective racism
+   * "Fanatical fury": Collective racist emotion unleashed on dehumanized African blacks
+   * Racism: A collective instrument of organized terror
+   * Reveal a racist motive and intent (genocide)
+
+---
+# The Case for Genocide
+
+* Racial epithets heard during attacks (reflect racial intent)
+
+   * More likely when Sudanese government troops joined with Janjaweed militants
+   * "We will eliminate all you blacks"
+   * "You will have an Arab baby."
+
+* Nearby Arab settlements often ignored in attacks
+
+* Bombing and racial epithets combined for greater victimization
+
+* State-sponsored murder and rape
+
+---
+# Proposed Solution: International Law
+
+* Call on the United Nations to define this as genocide
+* Call on International Criminal Court
+   * Define this as genocide
+   * Indict Hillal and others for genocide (Sudan's present, Omar al Bashir was "recently" indicted)
+   * End the atrocities by international intervention
+
+---
+# A Competing View
+
+* Viewed in historical context, this is a political-economic conflict
+   * Decades of conflict over land, water, animals, and other resources.
+   * Arab and black identities in Darfur have been fluid for centuries 
+   * British colonial rule: Re-tribalization, in which tribes would be designated new homelands
+   
+* ICC is arbitrarily taking one side over the other
+   * Demonizing arabs (good vs. evil)
+   * Historically atrocities have been comitted by botyh sides
+   
+* Africanists distrust the ICC
+   * Not accountable to anyone
+   * Except UN security council, which is dominated by US
+   * External intervention will only destabilize the region
+   
+* Better solution: Internal political solution through negotation
+   
+   
+---
+class: inverse
+# Discussion
+
+---
+# Some Questions
+
+---
+# Some Clarifications
+
+---
+class: inverse
+# Wrapping Up
+
+---
+# Key Takeaways
+
+* Many competing theories on causes of crime
+
+   * Rational decision-making and incentives
+   * Bonds to individuals and society
+   * Social learning and culture
+
+--
+
+* Much agreement in many areas
+
+   * Social context is key: Disadvantage, instability, and personal ties matter for individuals and communities
+      * Communities matter for individuals
+   * Agency matters: Despite context, behavior varies widely between and within individuals
+
+--
+
+* Crime is a symptom: Prevention beats treatment
+
+   * Addressing disadvantage, segregation, and opportunity is difficult--but more effective than alternatives
+   * Incarceration is inefficient and harmful
+   * Changing in policing often have little impact
+
+---
+# Final Exam
+
+
+* Due 11:59 PM on Saturday.
+* No extensions--grades will be due.
+
+
+???
+
+Extension is already built in. No additional extension because grades will be due.
