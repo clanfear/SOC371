@@ -13,11 +13,11 @@
 
 ## Class Meetings
 
--   [**Lecture Zoom**: Monday / Wednesday
+-   [**Lecture (Zoom)**: Monday / Wednesday
     8:30-10:20](https://washington.zoom.us/j/97380045367)
--   [**Section A Zoom**: Wednesday
+-   [**Section A (Zoom)**: Wednesday
     3:30-4:20](https://washington.zoom.us/)
--   [**Section B Zoom**: Wednesday
+-   [**Section B (Zoom)**: Wednesday
     4:30-5:20](https://washington.zoom.us/)
 
 ## Overview
@@ -53,7 +53,8 @@ and segregation.
 
 The course website is accessible without a UWnetID and features all of
 the slides, links to readings, and assignments. Note many readings are,
-however, pay-walled and require a UWnetID to access. [See this page for
+however, pay-walled and require a UWnetID to access. These can be found
+on the Canvas site or accessed via the UW Library. [See this page for
 instructions for adding a UW Library proxy to your browser for
 off-campus access to
 articles.](https://www.lib.washington.edu/help/connect/tools) Lecture
@@ -63,7 +64,7 @@ videos will be posted within 36 hours of recording.
 
 The course Canvas will be used to access some readings, post discussion
 questions, and submit assignments. Do not use Canvas messages for
-communication with the instructor–it will not be monitored.
+communication with the instructor or TA–it will not be monitored.
 
 ## Course Requirements
 
@@ -71,8 +72,8 @@ Grades will be assessed with the following breakdown:
 
 |         Item         | Number | Percent of Grade |
 |:--------------------:|:------:|:----------------:|
-| Course Participation |   18   |        10        |
-| Discussion Questions |   17   |        20        |
+| Course Participation |   18   |        15        |
+| Discussion Questions |   17   |        15        |
 |    Midterm Exams     |   2    |        40        |
 |      Final Exam      |   1    |        30        |
 
@@ -90,11 +91,10 @@ Given the disruption presented by COVID-19, alternate evaluation is
 possible for students unable to attend one or more synchronous lectures.
 Students must contact the instructor prior to absences to be considered
 for alternate evaluation below. Alternate evaluation *must not exceed
-one page total* (but you will likely need 350+ words) and should contain
-*for each reading*:
+500 words* and should contain *for each reading*:
 
 1.  A basic summary of the reading
-2.  And one or more of:
+2.  And one or both of:
     1.  A personal reaction to the reading. That is, do you think the
         theory, its assumptions, and/or policy implications make sense
         or are missing important elements?
@@ -104,37 +104,41 @@ one page total* (but you will likely need 350+ words) and should contain
 
 #### Discussion Questions
 
-Students will be required to submit at least two discussion questions
-via Canvas prior to each lecture meeting. These questions will be used
-to facilitate post-lecture discussion. Questions should be open-ended
-and reflect engagement with the material–that is, they delve deeper into
-ideas presented in the reading or raise critical questions. Questions
-are due by 5 PM the day before (i.e. 5 PM Sunday for Monday lecture’s
-readings). If there are multiple readings, each question should address
-a different reading.
+Students will be required to submit two discussion questions via Canvas
+prior to each lecture meeting. These questions will be used to
+facilitate section discussions (and occasionally lecture
+clarifications). Questions should be open-ended and reflect engagement
+with the material–that is, they delve deeper into ideas presented in the
+reading or raise critical questions. Questions are due by 5 PM the day
+before (i.e. 5 PM Sunday for Monday lecture’s readings). If there are
+multiple readings, each question should address a different reading.
+Regardless of the number of readings, please always provide two
+questions.
 
 #### Exams
 
 There will be two midterm and one final exam. Exams will focus on
 application of concepts rather than regurgitation of knowledge.
-Consequently, they are open book and you will have at least a day to
-work on them. The format will consist of a number of short answer and
-essay questions. Students are expected to reference course readings with
-clear citations, e.g. “Shaw & McKay (1942) proposed delinquent
-subcultures as a mechanism for stability in neighborhood crime rates.”
-Students may refer to other materials, but should do so sparingly and
-not the exclusion of relevant course material. If material from outside
-the course is cited, you must add a *Works Cited* section at the end of
-the exam with a full, properly formatted (e.g. ASA format) citation for
-the work.
+Consequently, they are open book and you will have a few days to work on
+them. The format will consist of a number of short answer and essay
+questions. Students are expected to reference course readings with clear
+citations, e.g. “Shaw & McKay (1942) proposed delinquent subcultures as
+a mechanism for stability in neighborhood crime rates.” Students may
+refer to other materials, but should do so sparingly and not to the
+exclusion of relevant course material. If material from outside the
+course is cited, you must add a *Works Cited* section at the end of the
+exam with a full, properly formatted (e.g. ASA format) citation for the
+work.
 
 Exams must be submitted to Canvas as a raw text (e.g. .txt) or common
 word processing document (e.g. .docx). Files that are “corrupt” or
 cannot be opened will be treated as handed in at the time a readable
 file is received. You may send the instructor a test file to open if you
 are unsure about file format compatibility. There are no minimum length
-requirements and maximums will be by word count, so don’t waste your
-time playing with fonts, formatting, or margins.
+requirements and maximums will be by question-specific word count, so
+don’t waste your time playing with fonts, formatting, or margins.
+Exceeding the maximum word length for an answer will result in score
+deductions.
 
 ## Course Texts and Readings
 
@@ -159,17 +163,17 @@ for article reading than you would for a textbook chapter of comparable
 length. At the end of each lecture you will also receive a brief
 overview of what to expect and look for in the readings for the next
 lecture. If you find an article–or section of an article–particularly
-challenging or unclear, please contact the instructor, come to office
-hours to chat, or bring it up in discussion.
+challenging or unclear, please contact the teaching assistant, come to
+office hours to chat, or bring it up in discussion.
 
 ## Content Warning
 
 The content in this course engages with many emotionally and
-intellectually challenging topics, such as racism, sexism, violence,
-incarceration, and genocide. I will do my best to make the classroom
-environment a welcoming environment for confronting these topics. Do not
-hesitate to reach out if you have questions or concerns about
-encountering any course material.
+intellectually challenging topics, such as racism, sexism, violence
+including sexual violence, incarceration, and genocide. I will do my
+best to make the classroom environment a welcoming environment for
+confronting these topics. Do not hesitate to reach out if you have
+questions or concerns about encountering any course material.
 
 ## Contacting the Instructor
 
@@ -240,7 +244,7 @@ those described in [Student Governance Policies Chapter 112, Subsection
 1.B](http://www.washington.edu/admin/rules/policies/SGP/ScholRegCH112.html).
 Discussion questions are not eligible for late turn-in (without
 documentation of unavoidable cause) and will receive a zero if submitted
-after the due time.
+after the due time without prior approval.
 
 ## Academic Misconduct Policy
 
