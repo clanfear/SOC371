@@ -16,9 +16,9 @@ library(pander)
 ## Important links
 
 * [Lecture Zoom](https://washington.zoom.us/j/97380045367)
-* [Canvas Page](https://canvas.uw.edu/courses/1382874)
+* [Canvas Page](https://canvas.uw.edu/courses/1436108)
 * [Syllabus](docs/syllabus.html)
-* [Class Mailing List](soc371a_su20@uw.edu)
+* [Class Mailing List](soc371a_wi21@uw.edu)
 
 ## Course Material
 

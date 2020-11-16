@@ -9,17 +9,20 @@ library(tidyverse)
 library(pander)
 ```
 
-# SOC 371: Criminology
+# SOC 371: Criminology (Winter 2021)
 
-### Summer 2020
+## Contacts
 
-Instructor: [Charles Lanfear](mailto:clanfear@uw.edu)
+* Instructor: [Chuck Lanfear (clanfear@uw.edu)](mailto:clanfear@uw.edu)
+   * [Office Hours (Zoom): Tuesday: 12:00 - 1:00](https://washington.zoom.us/j/2979554878)
+* Teaching Assistant: [Thiago Marques (thiagm@uw.edu)](mailto:thiagm@uw.edu)
+   * [Office Hours (Zoom): TBA](https://washington.zoom.us/)
 
 ## Class Meetings 
 
-[**Lecture Zoom**: Monday / Wednesday 9:40-11:50]( https://washington.zoom.us/j/97380045367)
-
-[**Office Hours**: Tuesday: 12:00 - 1:30](https://washington.zoom.us/j/2979554878)
+* [**Lecture (Zoom)**: Monday / Wednesday 8:30-10:20](https://washington.zoom.us/j/97380045367)
+* [**Section A (Zoom)**: Wednesday 3:30-4:20](https://washington.zoom.us/)
+* [**Section B (Zoom)**: Wednesday 4:30-5:20](https://washington.zoom.us/)
 
 ## Overview
 
@@ -36,13 +39,14 @@ This course provides an introduction to sociological criminology. We begin by de
 * Develop your critical and analytical skills through discussion and written assignments.
 
 ### [Course Website](https://clanfear.github.io/SOC371/)
+
 [clanfear.github.io/SOC371/](https://clanfear.github.io/SOC371/)
 
 The course website is accessible without a UWnetID and features all of the slides, links to readings, and assignments. Note many readings are, however, pay-walled and require a UWnetID to access. [See this page for instructions for adding a UW Library proxy to your browser for off-campus access to articles.](https://www.lib.washington.edu/help/connect/tools) Lecture videos will be posted within 36 hours of recording.
 
-### [Course Canvas](https://canvas.uw.edu/courses/1382874)
+### [Course Canvas](https://canvas.uw.edu/courses/1436108)
 
-The course Canvas will be used to access some readings, post discussion questions, and submit assignments. Do not use Canvas messages for communication with the instructor--it will not be monitored.
+The course Canvas will be used to access some readings, post discussion questions, and submit assignments. Do not use Canvas messages for communication with the instructor or TA--it will not be monitored.
 
 ## Course Requirements
 
@@ -55,12 +59,14 @@ Grades will be assessed with the following breakdown:
 | Midterm Exams          |  2     |     40           |
 | Final Exam             |  1     |     30           |
 
-A score of at least 95% will guarantee a 4.0 in the course. Every 2.5 percentage points below 95 
-will correspond to a .1 difference in the final grade (e.g. 90/100 is a 3.8).
+A score of at least 95% will guarantee a 4.0 in the course. Every 2.0 percentage points below 95 (rounded *down*)
+will correspond to a .1 difference in the final grade (e.g. 89% or 90% is a 3.7). You can calculate this yourself:
+
+*Your Final Grade* = 4 - (95 - *Your Overall Percentage*) / 20
 
 #### Participation
 
-Students are expected to complete readings and engage in discussion. Given the disruption presented by COVID-19, alternate evaluation is possible for students unable to attend one or more synchronous lectures. Students must contact the instructor prior to absences to be considered for alternate evaluation below. Alternate evaluation *must not exceed one page total* (but you will likely need 350+ words) and should contain *for each reading*:
+Students are expected to complete readings and engage in discussion. Given the disruption presented by COVID-19, alternate evaluation is possible for students unable to attend one or more synchronous lectures. Students must contact the instructor prior to absences to be considered for alternate evaluation below. Alternate evaluation *must not exceed one page total* (but you will likely need 250+ words) and should contain *for each reading*:
 
 1. A basic summary of the reading
 2. And one or more of:
