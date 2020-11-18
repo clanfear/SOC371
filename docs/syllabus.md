@@ -72,7 +72,7 @@ Grades will be assessed with the following breakdown:
 
 |         Item         | Number | Percent of Grade |
 |:--------------------:|:------:|:----------------:|
-| Course Participation |   18   |        15        |
+| Course Participation |   10   |        15        |
 | Discussion Questions |   17   |        15        |
 |    Midterm Exams     |   2    |        40        |
 |      Final Exam      |   1    |        30        |
@@ -86,12 +86,12 @@ calculate this yourself:
 
 #### Participation
 
-Students are expected to complete readings and engage in discussion.
-Given the disruption presented by COVID-19, alternate evaluation is
-possible for students unable to attend one or more synchronous lectures.
-Students must contact the instructor prior to absences to be considered
-for alternate evaluation below. Alternate evaluation *must not exceed
-500 words* and should contain *for each reading*:
+Students are expected to complete readings and engage in discussion
+during sections. Given the disruption presented by COVID-19, alternate
+evaluation is possible for students unable to attend one or more
+synchronous section meetings. Alternate evaluation takes the form of
+reading responses which *must not exceed 500 words* and should contain
+*for each reading*:
 
 1.  A basic summary of the reading
 2.  And one or both of:
@@ -102,18 +102,22 @@ for alternate evaluation below. Alternate evaluation *must not exceed
         content. You should make a statement about which you find more
         plausible and why.
 
+Please submit reading responses as a file attachment to the relevant
+participation assignment. Reading responses do not take the place of
+discussion questions. Students must still submit discussion questions.
+
 #### Discussion Questions
 
 Students will be required to submit two discussion questions via Canvas
-prior to each lecture meeting. These questions will be used to
-facilitate section discussions (and occasionally lecture
-clarifications). Questions should be open-ended and reflect engagement
-with the material–that is, they delve deeper into ideas presented in the
-reading or raise critical questions. Questions are due by 5 PM the day
-before (i.e. 5 PM Sunday for Monday lecture’s readings). If there are
-multiple readings, each question should address a different reading.
-Regardless of the number of readings, please always provide two
-questions.
+prior to each lecture meeting. Please submit as text in the available
+entry boxes on Canvas. These questions will be used to facilitate
+section discussions (and occasionally lecture clarifications). Questions
+should be open-ended and reflect engagement with the material–that is,
+they delve deeper into ideas presented in the reading or raise critical
+questions. Questions are due by 5 PM the day before (i.e. 5 PM Sunday
+for Monday lecture’s readings). If there are multiple readings, each
+question should address a different reading. Regardless of the number of
+readings, please always provide two questions.
 
 #### Exams
 
