@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Criminology"
-subtitle: "SOC371, Summer 2020"
+subtitle: "SOC371, Winter 2021"
 author: "Chuck Lanfear"
 date: "Jun 22, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
@@ -42,14 +42,13 @@ Chuck Lanfear
 
 * Instructor (not professor)
 
-* 6th Year Sociology PhD student
+* Sociology PhD student
 
 Research:
 
 * Neighborhood Social Control 
 * Broken Windows and Criminal Opportunity
 * Racial Bias in Policing
-* Social Control of Homelessness
 
 ---
 
@@ -83,19 +82,18 @@ class: inverse
 
 
 ---
-# Daily Schedule
-
-Two parts:
+# Two components
 
 1. Lecture
 
-2. Discussion
+2. Section
 
-   + You provide (most) questions
+   + You provide (most) discussion questions
+   * There may be activities
 
 ???
 
-Should virtually always end early.
+Lecture should virtually always end early.
 
 ---
 # Content
@@ -137,18 +135,18 @@ class: inverse
 
 | Item                   | Number | Percent of Grade |
 |:----------------------:|:------:|:----------------:|
-| Course Participation   | 18     |     10           |
-| Discussion Questions   | 17     |     20           |
+| Course Participation   | 10     |     15           |
+| Discussion Questions   | 17     |     15           |
 | Midterm Exams          |  2     |     40           |
 | Final Exam             |  1     |     30           |
 
 * 95% or higher is a 4.0  
 
-* Each 2.5% corresponds to a .1 final grade difference 
+* Each 2.0% corresponds to a .1 final grade difference 
 
-   + e.g. 90/100 is a 3.8
+   + e.g. 89/100 is a 3.7
 
-   + This is rounded down<sup>1</sup>: 92/100 is also 3.8
+   + This is rounded down<sup>1</sup>: 90/100 is also 3.7
 
 .footnote[[1] I'll bump you up if you're *real close*.]
 
@@ -161,32 +159,38 @@ If distribution is looking low, will bump everyone up (not curve)
 
 Components:
 
-* Active participation in class
+* Active participation in section
    + Attendance $\neq$ Participation
 
 * Demonstration of having read the material
 
-If unable to attend, you can submit a 1-page reading and discussion responses *prior to scheduled discussion*.
+--
 
-* This option must be preapproved by me via email
+If unable to attend, you can submit a 1-page reading and discussion responses *prior to scheduled section discussion*.
+
+* This option must be preapproved by me/TA via email
 
 * Responses which are not preapproved will not be accepted
 
 ???
 
-Contact me if you will always or usually be unable to attend lectures
+Contact me if you will always or usually be unable to attend section
 
 ---
 # Discussion Questions
 
 2 (or more) discussion questions
    + Submit via Canvas
-   + Due 5 PM the day prior to lecture
+   + Due 5 PM the day prior to section
    + Questions address different readings unless there is only one
    
 Example: 
 
 "Harcourt suggests that broken windows policing is based on extending the concept of harm to include disorderly conduct in public spaces. How does this relate to controlling language or writing that is perceived as harmful or violent?"
+
+--
+
+You can *in addition* write clarification questions. These will be answered in section or lecture.
 
 ???
 
@@ -205,14 +209,16 @@ Comparisons to other readings; e.g. X says this, but Y says this.
 
 Structure:
 * Open-book with a few days to work
-* Only short-answer and essay questions
+* Only short-answer questions
 * Citations expected:
    + ex: "Shaw & McKay (1942) proposed delinquent subcultures as a mechanism for stability in neighborhood crime rates."
    + Material from *outside* course must have an entry in **Works Cited**
    + Assigned class material can just be author(s) and date
    + Any major format (e.g. ASA) acceptable but be consistent
 
-*Emphases of exams is demonstrating understanding, critical thinking, and application of concepts, not regurgitation of facts, names, and dates.*
+--
+
+*Emphases of exams is demonstrating understanding, critical thinking, and application of concepts, not regurgitation of facts, names, or dates.*
 
 ---
 ## Course Texts and Readings
@@ -415,6 +421,8 @@ All claims (propositions) about the world imply a theory (with assumptions).
 
 When you encounter new claims, it can be clarifying to sketch the implied causal graph.
 
+--
+
 If the causal relationships don't make sense, it may reveal a flawed theory:
 
 * Outcomes which happen before their causes (reverse causality)
@@ -425,11 +433,13 @@ If the causal relationships don't make sense, it may reveal a flawed theory:
 
 * Unwarranted assumptions
 
+--
+
 *Be critical consumers of theories*
 
 ---
 class:inverse
-# Discussion
+# Questions
 
 ---
 # For Next Time
