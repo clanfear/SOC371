@@ -2,7 +2,7 @@
 title: "Introduction to Criminology"
 subtitle: "SOC371, Winter 2021"
 author: "Chuck Lanfear"
-date: "Jun 22, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Jan 4, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -43,6 +43,8 @@ Chuck Lanfear
 * Instructor (not professor)
 
 * Sociology PhD student
+
+* Office Hours: Tuesday, 11:00 - 12:00
 
 Research:
 

@@ -14,7 +14,7 @@ library(pander)
 ## Contacts
 
 * Instructor: [Chuck Lanfear (clanfear@uw.edu)](mailto:clanfear@uw.edu)
-   * [Office Hours (Zoom): Tuesday: 12:00 - 1:00](https://washington.zoom.us/j/2979554878)
+   * [Office Hours (Zoom): Tuesday: 11:00 - 12:00](https://washington.zoom.us/j/2979554878)
 * Teaching Assistant: [Thiago Marques (thiagm@uw.edu)](mailto:thiagm@uw.edu)
    * [Office Hours (Zoom): TBA](https://washington.zoom.us/)
 
