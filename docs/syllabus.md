@@ -14,11 +14,11 @@
 ## Class Meetings
 
 -   [**Lecture (Zoom)**: Monday / Wednesday
-    8:30-10:20](https://washington.zoom.us/j/97380045367)
--   [**Section A (Zoom)**: Wednesday
-    3:30-4:20](https://washington.zoom.us/)
--   [**Section B (Zoom)**: Wednesday
-    4:30-5:20](https://washington.zoom.us/)
+    8:30-10:20](https://washington.zoom.us/j/92077343334)
+-   [**Section AA (Zoom)**: Wednesday
+    3:30-4:20](https://washington.zoom.us/j/95329696409?pwd=T1BacUl2UHlha0ZPazV4cU1PeDZYQT09)
+-   [**Section AB (Zoom)**: Wednesday
+    4:30-5:20](https://washington.zoom.us/j/99914900758?pwd=b1JJNVRncTNBcS9IdVZMcHRHSktmZz09)
 
 ## Overview
 
