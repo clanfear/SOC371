@@ -144,7 +144,7 @@ blockquote {
   border-bottom: 1px solid #666;
 }
 .remark-slide table thead th { border-bottom: 1px solid #ddd; }
-th, td { padding: 5px; }
+th, td { padding: 0px; }
 
 
 table.dataTable tbody {
