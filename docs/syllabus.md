@@ -91,8 +91,8 @@ Students are expected to complete readings and engage in discussion
 during sections. Given the disruption presented by COVID-19, alternate
 evaluation is possible for students unable to attend one or more
 synchronous section meetings. Alternate evaluation takes the form of
-reading responses which *must not exceed 500 words* and should contain
-*for each reading*:
+reading responses which *must not exceed 500 words or 150 per reading
+(whichever is greater)* and should contain *for each reading*:
 
 1.  A basic summary of the reading
 2.  And one or both of:
@@ -102,6 +102,15 @@ reading responses which *must not exceed 500 words* and should contain
     2.  A comparison and contrast with earlier readings and lecture
         content. You should make a statement about which you find more
         plausible and why.
+
+Note that each section covers the readings for the *entire week*. If you
+were to miss the February 3rd section, your reading response would need
+to cover the February 1st reading and the two February 3rd readings (3
+readings total). Note you can use a bit of extra space for weeks with
+many (4+) readings to a total of 150 per reading (e.g. 600 word for 4
+readings, 750 for 5). You don’t need to write the same on each (150 per)
+but rather just total up to the cap. Contact us if you are unclear what
+the cap is.
 
 Please submit reading responses as a file attachment to the relevant
 participation assignment. Reading responses do not take the place of
