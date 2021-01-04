@@ -122,7 +122,7 @@ course_outline %>%
   mutate(reading_number = as.character(row_number())) %>%
   mutate(reading_number = ifelse(!is.na(lead(reading_number)) | !is.na(lag(reading_number)), paste0("(",reading_number,") "), "")) %>%
   mutate(Link = ifelse(is.na(Link), "", Link)) %>%
-  mutate(Topic =ifelse(Topic == "No Class", Topic, paste0("[", Topic, "](", Link, ")"))) %>%
+  mutate(Topic =ifelse(Topic == "No Class", Topic, paste0("[", Topic, "](https://clanfear.github.io/SOC371/", Link, ")"))) %>%
   mutate(Video = ifelse(!is.na(Video), paste0("[(Zoom Recording)](", Video, ")"), "(No Recording Yet)")) %>%
   mutate(Video = ifelse(Topic == "No Class", "", Video)) %>%
   summarize(Topic = first(Topic), 
