@@ -266,7 +266,7 @@ Since these are meant to provoke discussion, they should be debatable, and not s
 
 Structure:
 * Open-book with a few days to work
-* Only short-answer questions
+* Only short-answer questions with *firm* word count limits
 * Citations expected:
    + ex: "Shaw & McKay (1942) proposed delinquent subcultures as a mechanism for stability in neighborhood crime rates."
    + Material from *outside* course must have an entry in **Works Cited**
