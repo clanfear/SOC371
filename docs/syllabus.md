@@ -90,9 +90,10 @@ calculate this yourself:
 Students are expected to complete readings and engage in discussion
 during sections. Given the disruption presented by COVID-19, alternate
 evaluation is possible for students unable to attend one or more
-synchronous section meetings. Alternate evaluation takes the form of
-reading responses which *must not exceed 500 words or 150 per reading
-(whichever is greater)* and should contain *for each reading*:
+(including *all*) synchronous section meetings. Alternate evaluation
+takes the form of reading responses which *must not exceed 500 words or
+150 per reading (whichever is greater)* and should contain *for each
+reading*:
 
 1.  A basic summary of the reading
 2.  And one or both of:
@@ -113,7 +114,8 @@ but rather just total up to the cap. Contact us if you are unclear what
 the cap is.
 
 Please submit reading responses as a file attachment to the relevant
-participation assignment. Reading responses do not take the place of
+participation assignment. Reading responses are due by 5 PM on the day
+of section (Wednesday). Reading responses do not take the place of
 discussion questions. Students must still submit discussion questions.
 
 #### Discussion Questions
