@@ -1,8 +1,8 @@
 ---
 title: "Classical Criminology"
-subtitle: "SOC371, Summer 2020"
+subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Jun 24, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Jan 6, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -19,15 +19,25 @@ output:
 
 1. Historical Context
 
+   * European Despotism
+   * The Enlightenment
+   * Beccaria
+
 2. Theoretical Assumptions
 
+   * Rationality
+   * Social Contract
+   
 3. Principles of Justice
+
+   * Punishment
+   * Criminal Law
 
 4. Criticisms
 
 ---
 class: inverse
-# Historical Background
+# Historical Context
   
 ---
 # 18th Century Europe
@@ -89,9 +99,9 @@ Be wary of beautiful visions of the past written by the wealthy and powerful or 
 
 ???
 
-1618 to 1648; Killed > 8 million including 20% of Germany.
+1618 to 1648; Killed upwards of 8 million including 20% of Germany.
 
-Defenestration of Prague when Bohemian protestants threw Holy Roman Emperor Ferdinand's reps out a window then elected a king.
+Began with the Second Defenestration of Prague when Bohemian protestants threw Holy Roman Emperor Ferdinand's reps out a window then elected a king.
 
 --
 
@@ -105,18 +115,32 @@ Defenestration of Prague when Bohemian protestants threw Holy Roman Emperor Ferd
 
 ???
 
-The thinkers were a new form of aristocracy, apart from feudal system
+The Enlightenment thinkers were a new form of aristocracy, apart from feudal system
 
-Naturally, the best people to rule the land looked a lot like them.
+Naturally, they felt the best people to rule the land looked a lot like them.
+
+Might ask, why was European aristocracy willing to consider reforms? There was a mix of feeling threatened by potential uprising, the popularity of the ideas, and wanting to be seen as a philosopher king.
 
 ---
 # Beccaria
 
+.pull-left70[
 *On Crimes and Punishments* (1764) was a reformist manifesto and indictment of European justice system.
+]
+
+.pull-right30[
+.image-100[
+![](img/beccaria_cesare_ritratto.jpg)
+]
+]
+
+???
+
+A response to the appalling conditions of continental Europe
 
 --
 
-Like virtually all influential works, composed in conversation with other thinkers and rooted in context.
+Like virtually all influential works, a conversation with other thinkers rooted in context.
 
 * Inspired by English justice system
 * Social contract from John Locke and Thomas Hobbes
@@ -126,7 +150,7 @@ Like virtually all influential works, composed in conversation with other thinke
 In turn, widely influential:
 
 * Jeremy Bentham, most directly
-* US "Founding Fathers"
+* "Founding Fathers" of the United States
 
 ???
 
@@ -168,7 +192,11 @@ Individuals are rationally self-interested:
    + People evaluate the consequences of all potential actions
    + They choose the result with highest pleasure and least pain
 
+--
+
+.centernote[
 *Individuals know what is best for them and act accordingly.*
+]
 
 ---
 # Utilitarianism (Macro)
@@ -177,13 +205,15 @@ Bentham: "it is the greatest happiness of the greatest number that is the measur
 
 ???
 
+Assumptions of rationality lead to utilitarian philosophy.
+
 Key idea: The morality of an act can be determined solely by the pleasure and plain produced by it. That which produces pain is evil.
 
-Judge people and government only by consequences.
+Judge people and government only by consequences of action.
 
 --
 
-If individuals know best how to satisfy their needs and wants...
+*If individuals know best how to satisfy their needs and wants...*
 
 ???
 
@@ -191,7 +221,7 @@ What is the implication for policy?
 
 --
 
-... to maximize the utility of all, we should avoid restricting them.
+*... to maximize the utility of all, we should avoid restricting them.*
 
 ???
 
@@ -202,7 +232,7 @@ What is the problem with this?
 This breaks down if individuals maximize utility at the expense of others.
 
 
-*This necessitates a deal between individuals and society*
+*This necessitates a deal--a contract--between individuals and society*
 
 ???
 
@@ -212,7 +242,7 @@ Redistribution is a key element of later conceptions of utilitarianism--but peop
 
 Bentham and later John Stuart Mill built considerably on this logic--obvious flaws are likely to have been addressed (e.g. moral *rules*, tendencies vs certainties)
 
-Dostoevsky's Brothers Karamazov--sacrifice a child for the happiness of all
+Dostoevsky's Brothers Karamazov--is it right to sacrifice a child for the happiness of all
 
 ---
 # Social Contract
@@ -220,6 +250,10 @@ Dostoevsky's Brothers Karamazov--sacrifice a child for the happiness of all
 &zwj;Consensus: Protect individual rights and property rights
 
 * Maximize individual utility
+
+???
+
+Allow people to maximize their utility but protect their rights
 
 --
 
@@ -243,7 +277,7 @@ It gets fuzzy when insanity enters the mix--this is irrationality
 
 Also gets fuzzy when definitions of harm are widened
 
-J.S. Mill: We cannot accept offense or disagreement as forms of harm.
+John Stuart Mill's response: We cannot accept offense or disagreement as forms of harm, or there is no end to what can be legally proscribed.
 
 ---
 class: inverse
@@ -261,9 +295,11 @@ Curtail severity
 Proportional severity
   
 * Crimes against property punished by fines
-* Imprisonment when the crime deprives others of freedom
+* Imprisonment only when the crime deprives others of freedom
 
 ???
+
+Punishment should be in proportion to the crime
 
 Issues with this?
 
@@ -282,11 +318,17 @@ How do you determine what is proportional?
 
 Issues with this?
 
-How do we calibrate severity?
+How do we calibrate severity? How do we deal with unpunished crimes?
   
 --
 
 &zwj;Goal: *Make crime the irrational choice.*
+
+???
+
+By making just barely overwhelming the pleasures of crime with punishment, one can prevent crime.
+
+Calibration is an eternal problem though. Particularly problematic if pleasure from an act differs for everyone. Bentham believed it was quantifiable--the felicific or hedonic calculus. But Betham was also a bit of a weird guy. At his request, his clothed skeleton and wax head are on display at University College, London.
 
 ---
 # Criminal Law
@@ -298,22 +340,26 @@ Terms of Social Contract
 
 ???
 
+Terms of social contract should be clear and know to all
+
 No one should be ignorant of their social obligations
 
 --
 
 Minimization of Law
 
-* "To prohibit an action unnecessarily increases rather than decreases crime." (Radnowitz 9)
+* "To prohibit an action unnecessarily increases rather than decreases crime." (Radzinowicz 9)
 
 ???
 
-It is unreasonable to have a criminal code which is arcane 
+It is unreasonable to have a criminal code which is arcane
 
 ---
 # Administration
 
 No Ex-Post Facto Legislation
+
+* Something cannot be made retroactively illegal
 
 ???
 
@@ -367,7 +413,7 @@ Reward good behavior
 
 ???
 
-Bolster this by rewarding seeking higher pleasures
+Bolster this by rewarding seeking higher pleasures; increase the pleasure of conformity
 
 --
 
@@ -375,20 +421,24 @@ Punishment is last resort
 
 * Certainty, not severity, critical element for prevention
 
+???
+
+If one will always be caught, undue severity isn't needed, and the calculus is clear
+
 --
 
 Little consideration for structural causes of crime
 
 ???
 
-A starving person stealing bread; Bentham says we can justify the first-order evil (theft) but not the second (deprivation of bread from owner)
+A starving person stealing bread; Bentham says we can justify the first-order evil (theft) but not the second (deprivation of bread from owner).
 
 ---
 class: inverse
 # Criticisms
 
 ---
-# Marxist critique
+# Marxist Critique
 
 Reforms achieve justice only in egalitarian society
 
@@ -413,16 +463,16 @@ Law is part of capitalist superstructure
    
 ???
 
-Consider that in the late 1800s through early 1900s strikes were put down by military or hired guns
+Consider that in the late 1800s through early 1900s labor strikes were put down by military or hired guns
 
 Slavery persisted deep into the 1800s in the US--facilitated capitalist gains
 
 --
 
-*Should strive for equality*
+.centernote[*Should strive for equality!*]
 
 ---
-# Feminist
+# Feminist Critique
 
 Patriarchy
 
@@ -435,7 +485,7 @@ Law reproduces patriarchy
 
 * Domestic violence is private affair, not treated seriously
 * Common law ruled out spousal rape
-* Law maintains status quo
+* Law *maintains* status quo
 * Equal rights amendment prohibited unequal treatment
    + ... but was never ratified
    + 25 state-level ERAs
@@ -449,7 +499,7 @@ Idaho, Kentucky, Nebraska, Tennessee and South Dakota *revoked* their ratificati
 
 --
 
-*Should strive for equality*
+.centernote[*Should strive for equality!*]
 
 
 ---
@@ -463,7 +513,7 @@ Civil rights
 
 ???
 
-For all talk of liberty and equality, slavery lasted 100 years longer in US
+For all talk of liberty and equality, slavery lasted 100 years longer in US than Europe
 
 --
 
@@ -483,7 +533,7 @@ Drug laws and stop and frisk mainly enforced on minorities
 
 --
 
-*Should strive for equality*
+.centernote[*Should strive for equality!*]
 
 
 ---
@@ -502,9 +552,9 @@ Main critical viewpoints share a logic:
 
 --
 
-3. Equality should be goal
+3. Equality should be the goal
 
-   + Vision of equality different under each critique
+   + Vision of equality is different under each critique
 
 --
 
@@ -512,61 +562,11 @@ Main critical viewpoints share a logic:
 
 ---
 class: inverse
-# Discussion
-
----
-# Some Questions
-
-* "Trevino mentioned all four classical thinkers concerns with social and legal change. Keeping social change in mind, should legal systems focus on becoming more fluid and adaptive to better protect the current, rapidly changing societies?"
-
---
-
-* "Trevino's piece runs through both Beccaria's philosophies on punishment as well as requests for legal reform while mentioning that Beccaria had immense influence over Europe and America. How do you and how do you not see these requests playing out in modern day?"
-
---
-
-* "Beccaria’s radical and revolutionary ideas heavily rely on three assumptions regarding human nature: hedonism, free will, and rationality. To what extent are these assumptions valid? Should other assumptions be considered?"
-
----
-# Some Clarifications
-
-* What is swiftness and how is it related to crime today, given our courts?
+# Questions
 
 ???
 
-We'll talk in deterrence. Our courts ARE terribly slow. Sociological work on misdemeanor justice and procedural hassle shows being slow is a *tool* of justice now.
-
---
-
-* Measurement: How do we make sure punishment just outweighs pleasure?
-
-???
-
-This is an eternal problem. Particularly problematic if pleasure from an act differs for everyone. Bentham believed it was quantifiable--the felicific or hedonic calculus. Betham was also a bit of a weird guy. His clothed skeleton and wax head are on display at University College, London.
-
---
-
-* Assumptions: Wouldn't a rehabilitative model be better?
-
-???
-
-What do the assumptions say about this? Rehabilitation doesn't make sense because compulsion deprives one of freedom and the pleasures and pains are immutable.
-
---
-
-* How does certainty compel obediance to contract? How can law restore freedom?
-
---
-
-* How did decreased severity relate to crime rates?
-
---
-
-* What leads to similar people differing in criminality?
-
---
-
-* Why was European aristocracy willing to consider reforms?
+Can start writing questions
 
 ---
 # For Next Time
@@ -588,4 +588,3 @@ What do the assumptions say about this? Rehabilitation doesn't make sense becaus
    * Context matters
    * Crime may not be result of rational process
    * External influences may exist
-                    
