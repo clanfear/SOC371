@@ -2,7 +2,7 @@
 title: "Classical Criminology"
 subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Jan 6, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Jan 6, 2021<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
