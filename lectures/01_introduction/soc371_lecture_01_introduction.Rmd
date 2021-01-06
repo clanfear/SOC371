@@ -538,6 +538,8 @@ class:inverse
 
 ### Readings: 
 
+* Hagan (1985) “Defining Crime: An Issue of Morality.” in *Modern Criminology: Crime, Criminal Behavior, and Its Control*
+
 * Trevino (1996) "Cesare Beccaria: Legal Reformer" in *The Sociology of Law*
 
 * Radzinowicz (1966) "The Liberal Position" in *Ideology and Crime*
