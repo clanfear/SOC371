@@ -37,7 +37,7 @@ Legalistic definition is by far most common definition of crime
 
 Broader norm violating, but non-criminal, behavior is under general label of deviance
 
-Common criticism of legal definition is using it reproduces idealogical bias
+Common criticism of legal definition is using it reproduces idealogical bias: draws focus to what dominant groups in society have codified as wrong.
 
 --
 
@@ -48,6 +48,14 @@ Components:
 * Intent: ***mens rea***
 
    + Culpability is intent *and absence of defense*
+
+???
+
+acteus reus is the guilty act
+
+mens rea is the guilty mind
+
+need both, and no valid defense, for it to be a crime
 
 --
 
@@ -118,6 +126,10 @@ Crime is an intentional act of law violation
    + Intent that a criminal result occurs
    + Knowledge a criminal result could occur
 
+???
+
+Intent just means you know something illegal will result from the action
+
 --
 
 Special classes of intent:
@@ -129,9 +141,9 @@ Special classes of intent:
 
 ???
 
-Constructive intent is when an individual may not have intended for the outcome, but a reasonable person could forsee it as a possible result.
+Constructive intent is when an individual may not have intended for the outcome, but a reasonable person could foresee it as a possible result.
 
-Reckless driving that results in a death
+An Example: Reckless driving that results in a death
 
 --
 
@@ -154,8 +166,8 @@ Also statutory rape in 22 states--applies even if defendant was misled
 Sometimes court entertains a "good faith" defense if defendant made active attempt to verify
 
 ---
-# Legally accepted defenses:
-     
+# Legally Accepted Defenses
+
 * Self defense, defense of others
 
 ???
@@ -164,13 +176,15 @@ Limited to proportional response to present, unlawful, and unprovoked attack
 
 Usually duty to retreat, can only sometimes defend property
 
-WA has true man doctrine; "true man" is one without fauly
+WA has true man doctrine; "true man" is one without fault and thus has no obligation to retreat; this is beyond castle doctrine
 
 --
 
 * Consent
 
 ???
+
+If you did something to someone which they agreed on, it may be a valid defense--such as taking property you were told you could borrow.
 
 Gets fuzzy--cannot consent to guarantee severe harm in many cases (or death)
 
@@ -294,13 +308,17 @@ Can be about studying the placing of labels--categorization; labeling theory has
 
 Moralistic
 
+???
+
+That which is prohibited by common morality is a crime; obviously very specific group to group
+
 --
 
 Political
 
 ???
 
-This calls back to arbitrary power in continental Europe; need not even put a law on the books to make something criminal in many places
+That which is prohibited by government is a crime. This calls back to arbitrary power in continental Europe; need not even put a law on the books to make something criminal in many places
 
 ---
 class: inverse
@@ -317,6 +335,8 @@ Ideal characteristics:
 * Politicality: Outlawed by a political authority
 
 ???
+
+Criminal law characterized by specificity; specifies an act and punishment
 
 Non-political authorities cannot establish crimes
 
@@ -343,6 +363,8 @@ By definition crimes carry punishments--but there is no obligation to apply the 
 
 * State vs. Federal Law vs. Local
 
+   + Double jeopardy doesn't apply across state vs. federal jurisdictions
+   
 ???
 
 These are overlapping; one is subject to all at once
@@ -355,6 +377,8 @@ Most people live under many overlapping codes: US, state, county, district, city
 
 * Civil vs. Criminal
 
+   + Burden of proof
+
 ???
 
 Focus on contracts, civil wrongs, and property other than theft or destruction
@@ -366,6 +390,9 @@ Do not confuse with the civil law system that is the European-origin counterpart
 --
 
 * Statutory vs. Common Law
+
+   + Statutory: From *statutes* (legislation)
+   + Common Law: From *rulings*
 
 ???
 
@@ -387,6 +414,12 @@ class: inverse
 
 * Law is just a codification 
 
+???
+
+Law as consensus is straightforward: Law is based what everyone has agreed on is unacceptable behavior.
+
+Just a codification of existing norms of interaction, as is necessary in larger more complex society
+
 
 ---
 # Law as Conflict
@@ -399,7 +432,7 @@ Whose morality rises to the top is what matters and has consequences
 
 --
 
-* Stratification: 
+* Stratification as cause: 
    
    + Necessitates regulation of interaction
    
@@ -407,7 +440,7 @@ Whose morality rises to the top is what matters and has consequences
 
 ???
 
-Chambliss and Seidman's point: Complex societies need laws to regulate interaction of highly diverse groups.
+This is Chambliss and Seidman's point: Complex societies need laws to regulate interaction of highly diverse groups.
 
 But that complexity produces heterogeneity in power
 
