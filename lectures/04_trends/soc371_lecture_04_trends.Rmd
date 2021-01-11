@@ -1,8 +1,8 @@
 ---
 title: "Trends in Crime, Violence, and Incarceration"
-subtitle: "SOC371, Summer 2020"
+subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Jul 1, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Jan 13, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -394,6 +394,12 @@ Increase in incarceration was larger for black and hispanic populations, though 
 
 That's comparable proportional increase for whites and hispanics, but much higher for black.
 
+Not illustrated, but on a sidenote, people in prison typically cannot vote--but they get counted for allocating representation.
+
+If 50% of the people in your district are incarcerated, each non-incarcerated person effectively counts as two votes.
+
+Having a large prison in your area can give you a big boost in political power. This results in a shift of political power from urban black and Latino areas (where people get arrested) to rural white areas (where prisons are). There's movements to get that pop reallocated to the pre-incarceration districts of prisoners.
+
 ---
 
 .image-tall[
@@ -409,6 +415,26 @@ Drug offenses often have shorter sentences--more turnover than for violent crime
 Increase in incarcerated population due mainly to general increase in sentences across the board
 
 ---
+
+.image-tall[
+![](img/jratcliffe_philly_incidents.png)
+]
+
+.footnote[Source:<br> [Jerry Ratcliffe's Twitter feed](https://twitter.com/Jerry_Ratcliffe)]
+
+???
+
+Added this to satisfy some curiosity many probably have. This is an area chart that shows the amount of different types of calls Philly police responded to in 2019--note this is calls not time spent on calls. More serious calls get more time.
+
+Most calls are noncriminal incidents and false alarms--but note they're also largely not social service calls.
+
+Rather, most calls deal with public order issues.
+
+But for the rest, there is about an equal number of calls for serious crimes and calls that might be classified as medical or social services--though in many cases the police are responding as escort for medical or social service providers.
+
+If you looked at time spent, rather than raw calls, the more serious events would greatly increase in size.
+
+---
 # Drug Arrest Trends by Race
 
 .image-short[
@@ -419,9 +445,11 @@ Increase in incarcerated population due mainly to general increase in sentences 
 
 ???
 
+Back to arrests for drugs
+
 Massive increase in arrests mainly seen for black individuals
 
-Some of this due to targeting of inner city drug markets
+Another thing to note is most policing is reactive and there's good evidence people are more likely to call the police on black and Hispanic people. Police are also disproportionately deployed to minority areas--in particular to target drug markets. You don't need any individual officer bias to generate these outcomes--the issue is structural.
 
 ---
 # Drug Use by Race
@@ -439,6 +467,8 @@ Substance use tends to be somewhat higher for whites than blacks
 Highest groups typically AINA; Hispanic lower than black, Asian lowest
 
 Pattern of arrest and incarceration follows concentration of police attention more than patterns in use or sales
+
+One major reason is most white use and sales occur in private premises where it goes unseen; poorer folk hustle and use on the street
 
 ---
 class: inverse
@@ -487,7 +517,8 @@ gun_ownership <- read_csv("data/gun_ownership.csv")
 .image-tall[
 ```{r, echo=FALSE}
 gun_ownership %>%
-  mutate(Population = pop2020*1000) %>%
+  mutate(Population = pop2020*1000,
+         firearmsRate = round(firearmsRate / 100, 2)) %>%
   filter(Population > 10000000) %>%
   arrange(desc(firearmsRate)) %>%
   slice_head(n = 10) %>%
@@ -507,7 +538,7 @@ US civilians own just shy of 400 million firearms, which is about 46% of all gun
 
 That's about three times the firearms held by all militaries in the world combined (133 million).
 
-Gun ownership in US (vs Europe) is more heavily weighted toward handguns; direct comparisons of gun counts are misleading as handguns are generally the issue.
+Gun ownership in US (vs Europe) is more heavily weighted toward handguns; direct comparisons of gun counts are misleading as handguns are generally the issue--most homicides involve handguns.
 
 ---
 
@@ -531,7 +562,7 @@ Gun Ownership Across States
 
 ???
 
-Overall gun death rates are correlated with gun ownership
+Overall gun death rates are correlated with gun ownership by state.
 
 Gun homicide rates exhibit a weaker correlation because of the rural vs. urban issue--will get to that
 
@@ -542,11 +573,16 @@ Gun homicide rates exhibit a weaker correlation because of the rural vs. urban i
 ]
 
 * Gun *ownership* is declining
-   + In 2016, pproximately 22% of adults owned guns
+   + In 2016, approximately 22% of adults owned guns
 * *Concentration* of gun ownership is increasing
    + 3% of citizens own half of US guns, averaging 17 each
 
 .footnote[Sources: [Patrick Egan, Monkey Cage](https://themonkeycage.org/2012/07/the-declining-culture-of-guns-and-violence-in-the-united-states/), [The Guardian](https://www.theguardian.com/us-news/2017/nov/15/the-gun-numbers-just-3-of-american-adults-own-a-collective-133m-firearms)]
+
+???
+
+The number of people owning guns is dropping over time, but the number of guns owned is increasing.
+
 
 ---
 
@@ -605,6 +641,9 @@ Legality of firearms involved in crime is not well recorded
 
 What work has been done suggests majority are obtained via direct theft, sale of stolen weapons, or unrecorded transfers.
 
+This means most homicides are attached to guns--but those guns aren't acquired through legitimate channels
+
+At the initial stage, however, they were purchased legally, so there is a lot of concern about minimizing thefts or transfers and tracing weapon origins.
 
 ---
 
@@ -616,13 +655,15 @@ What work has been done suggests majority are obtained via direct theft, sale of
 
 ???
 
+These are assault deaths compared to similar OECD countries.
+
 Most assault deaths are firearms in US. Lower firearm death rates elsewhere.
 
 Not a good look
 
-Actual rates of assault are not this out of proportion
+Actual rates of assault are not this out of proportion--we have roughly similar assault rates to rest of OECD.
 
-Issue here is more effective weapons in course of assaults
+The issue here is more effective weapons in course of assaults--primarily handguns.
 
 ---
 # Assault Deaths in US vs. OECD
@@ -633,7 +674,7 @@ Issue here is more effective weapons in course of assaults
 
 ???
 
-Bringing in some excluded OECD countries makes US look a little better
+Bringing in some excluded OECD countries--Mexico and Estonia--it makes US look a little better
 
 Until you consider Mexico has a continuous drug war going on. Recent spike back up was beginning of Calderon's militaristic approach to cartels.
 
@@ -662,7 +703,7 @@ Gun homicide rates--not just counts--are much higher in urban areas than rural
 
 Gun homicides are concentrated in small number of cities, small areas within those cities
 
-Differences in violence often don't map to other crimes: St. Louis only about 20% more property crime.
+Differences in violence often don't map to other crimes: St. Louis only about 20% more property crime than Seattle
 
 --
 
@@ -683,6 +724,8 @@ Relationship is complex.
 ]
 
 ???
+
+This plot compares firearm homicide rates in US cities to comparable countries
 
 Note that within the comparison countries, they have individual cities with similar concentrations
 
@@ -711,6 +754,10 @@ mj_mass_shoot %>%
 
 * Handguns and long guns used equally
    + Long guns account for 1.4 times as many deaths
+
+???
+
+Mass shootings look very different from other homicides
 
 ---
 
@@ -744,7 +791,7 @@ If you're expecting conflict, handguns can be carried all the time
 
 If you want to inflict maximum harm, long guns are universally superior
 
-This is why mass shootings and conventional homicide are totally different things; can't address the same way; same with DV
+This is why mass shootings and conventional homicide are totally different things; can't address the same way; same with domestic violence
 
 
 --
@@ -765,96 +812,25 @@ Pathway is through theft or transfers
 --
 
 This is a public policy conundrum
-   + Large, politically active gun owning population
    + Gun laws largely target non-criminal owners
-   + Externality problem
+   + Externality problem<sup>1</sup>
+   + Large, politically active, law-abiding gun-owning population
+      + Moral stance on regulation
 
+.footnote[[1] "an externality is the cost or benefit that is imposed by one or several parties on a third party who did not agree to incur that cost or benefit" - [Wikipedia](https://en.wikipedia.org/wiki/Externality)]
 ???
 
-Gun ownership externality: Ownership enables illegal gun acquisition via theft.
+Gun ownership externality: Legal ownership enables illegal gun acquisition via theft.
 
-Liberty doctrine of US makes it hard to legally restrict ownership due to this externality.
+What is unique about guns isn't that people can steal the item and use it illegally, but rather the consequences of that illegal use are unusually severe compared to other things that might be stolen--like drugs.
 
---
+Liberty doctrine of US makes it hard to legally restrict ownership due to this externality, even though the majority of homicides in US can be attributed to it. People do not like idea of regulating people obeying law because of actions of people already breaking law.
 
-Ex. Policy: Focused Deterrence
-   + Target high risk individuals in high risk areas
-   + Coordinate police, social services, and community orgs
-
-???
-
-Focused deterrence recognizes concentration issue, goes after highest risk pool aggressively; evidence better than many other approaches
+Firearm owners and lobby are a large and powerful voting block, many of whom share a moral anti-regulation stance.
 
 ---
 class: inverse
-# Discussion
-
----
-# Questions 1
-
-* "I feel that this reading showed how skewed local and national views on crime rates can be opposed to actual statistics based on where an individual lives as well as the story we tell ourselves as Americas, usually through media and anecdotal stories. Based on perception alone, do you view the neighborhood you live in as safe or dangerous? High crime or low crime? Why? What are the indicators that you use to assess this?"
-
---
-
-* "Baumer and Wolff respectfully argue that NYC's great crime decline was not only local and that many of the reasons it did disproportionally decline may have had something with policing. Considering the current movement, how do you see this playing a role in a counter argument to defunding the police? What do you think Baumer and Wolff's opinions are regarding defunding the police?"
-
-???
-
-Most crim folks believe we're both over and under policing. General belief in necessity of police but role is far, far too broad.
-
----
-# Questions 2
-
-* "Beyond Crime and Punishment: Prisons and Inequalities was published almost 20 years ago and we still see the same trend of black men making the majority of the prison population today. Additionally, we see the same association between criminal behavior and economic disadvantage. Even though this is a systematic problem, what are some things we could do so that we don't see the same trend another 20 years later?"
-
---
-
-* "The article Evaluating Contemporary Crime Drop(s) in America, New York City, and Many Other Places mentioned that one possible explanation for crime drop is an increase of video gaming. This seems to be contrasting to what I grew up with. How do you think the trend in crimes relates to cultural upbringing?"
-
-???
-
-Psych, Soc, Pub Health, and others have documented increase in anxiety, reduction in independence, increased time indoors, reduced unstructured time of youth, reductions in dating, sex, drug use, increases in suicide. Links to social media, internet, constraining parenting.
-
----
-# Some Clarifications
-
-* How can reported crimes be lower and the amount of people going to prison be tripled? [Are] police arresting people for crimes that are not being reported?
-
-???
-
-Some policing strategies implemented in the 90s and 2000s involved more proactive policing. But what is mostly going on is harsher penalties. We're incarcerating for things we didn't used to, and doing so for longer.
-
---
-
-* Balancing "target hardening" against crime with avoiding incarcerating more people--opportunity reduction and displacement.
-
-???
-
-We'll get into criminal opportunity later, but a consistent finding is that removing criminal opportunities prevents crimes from being committed without displacing them elsewhere. This would reduce incarceration and crime at the same time.
-
---
-
-* I wonder if there are any other statistics that are masked by the prison population and possibly used for political agenda?
-
-???
-
-A big one is population counts. People in prison typically cannot vote, but they get counted for allocating representation. Having a large prison in your area can give you a big boost in political power. This results in a shift of political power from urban black areas to rural white areas. There's movements to get that pop reallocated to the pre-incarceration districts of prisoners.
-
---
-
-* "Why do you think that crimes have gone down but the number of incarcerated prisoners has gone up? With that is there a noticeable trend with race and accused crime, is this based on a systematic flaw in the police force or a trend of systematic racism in the people making the calls?"
-
-???
-
-Most policing is reactive and there's good evidence people are more likely to call the police on black and Hispanic people, particularly in white neighborhoods. C&C paper. Police are also disproportionately deployed to minority areas. You don't need any individual officer bias to generate outcomes.
-
---
-
-* How is education related to race, crime, and incarceration?
-
-???
-
-Poor, black, urban neighborhoods have bad schools, few conventional opportunities for success. Staying in school makes less sense when it doesn't seem like it gets you anywhere--and maybe you aren't learning anything anyway.
+# Questions
 
 ---
 # For Next Time
@@ -868,5 +844,6 @@ Poor, black, urban neighborhoods have bad schools, few conventional opportunitie
 ### Things to pay attention to:
 
 Police data should not be taken at face value!
+
 * Official crime rates are combination of actual victimization and willingness to call police.
 * Racial bias is hard to measure with police data
