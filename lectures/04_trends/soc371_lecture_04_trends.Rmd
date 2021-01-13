@@ -23,7 +23,7 @@ library(tidyverse)
 1. Crime Trends
 
    * Age Distribution
-   * The Great Decline
+   * The Great Crime Decline
    * Race
 
 2. Incarceration Trends
@@ -33,9 +33,9 @@ library(tidyverse)
 
 3. Gun Trends
 
-   * Trends in possession
-   * Trends in violence
-   * Public opinion and gun control
+   * Possession
+   * Violence
+   * Public Opinion and Gun Control
 
 ---
 class: inverse
@@ -49,6 +49,7 @@ Primary sources:
 * Uniform Crime Report (UCR)
 
    + Crimes known to police
+      + **Index Crimes**
    + Departments covering over 90% of population
    + Handled by FBI
 
@@ -62,7 +63,7 @@ Participation is not mandatory, so some places no covered
 
 UCR reporting sometimes inconsistent--better to compare within locality than between them
 
-
+NIBRS--new system--is emerging but doesn't have full coverage
 
 --
 
@@ -129,9 +130,9 @@ Some theorized reasons:
 * Fewer 15-25 year olds
 * Economic growth: Lower joblessness, higher wages
 * Crack market decline
-* Roe v Wade: Fewer crime prone after 1974, fewer 20-25
+* Roe v Wade: Fewer crime prone after 1974, fewer 20-25 (Levitt & Dubner)
 * Police and incarceration (deterrence / incapacitation)
-* Sharkey: Rise of community organizations
+* Rise of community organizations (Sharkey)
 * Reduced involvement in risky behaviors
 * Gentrification: "Retaking" of city centers
   
@@ -355,6 +356,12 @@ class: inverse
 
 .footnote[Source: [Smallman12q, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:U.S._incarceration_rates_1925_onwards.png)]
 
+???
+
+Crime is highly concentrated among males, and incarceration even more so--approximately tenfold difference.
+
+In large part because involvement in violence is even more concentrated among men than crime in general.
+
 ---
 
 .image-tall[
@@ -377,7 +384,9 @@ It is unlikely that all countries accurately report incarceration statistics, so
 
 ???
 
-This looks pretty bad, but keep in mind it lumps together all drug crimes while disaggregating violence and not including theft, the most common property crime.
+This plot shows incarceration rates by time of crime since 1980.
+
+This looks pretty bad, but keep in mind it lumps together all drug crimes while disaggregating violence and not including theft, the most common property crime--rates increased for everything.
 
 ---
 # Race / Ethnicity
@@ -413,6 +422,8 @@ Despite war on drugs, current prison population is not dominated by drug offende
 Drug offenses often have shorter sentences--more turnover than for violent crimes
 
 Increase in incarcerated population due mainly to general increase in sentences across the board
+
+People are staying in jail and prison longer than they used to.
 
 ---
 
@@ -505,7 +516,7 @@ Conception of individual right to bear arms--as opposed to collective state-leve
 
 Case established precedent for individual right to gun ownership independent of militia and including for self-defense.
 
-Issue more or less settled for now barring a constitutional amendment
+Issue more or less settled for now barring a constitutional amendment--common law precedent has established an individual right.
 
 ---
 
@@ -534,7 +545,9 @@ gun_ownership %>%
 
 ???
 
-US civilians own just shy of 400 million firearms, which is about 46% of all guns in the world
+Top 10 gun ownership countries over 10 million pop.
+
+US civilians own just shy of 400 million firearms, which is estimated to be about 46% of all guns in the world
 
 That's about three times the firearms held by all militaries in the world combined (133 million).
 
@@ -835,7 +848,7 @@ class: inverse
 ---
 # For Next Time
 
-* Loftin, Colin and David McDowall. 2010. “The Use of Official Records to Measure Crime and Delinquency.” *Journal of Quantitative Criminology* 26(4):52-32.
+* Loftin, Colin and David McDowall. 2010. “The Use of Official Records to Measure Crime and Delinquency.” *Journal of Quantitative Criminology* 26(4):527-32.
 
 * Ehrenberg, Rachel. 2012.”Reliance on Raw Statistics Makes City Crime Rankings Misleading.” *Science News* 181(12):9
 
