@@ -87,6 +87,10 @@ class: inverse
 ]
 ]
 
+???
+
+It is necessary to clarify the main types of approaches to research. Important to know difference.
+
 ---
 # A Qualitative Example
 
@@ -102,15 +106,17 @@ class: inverse
 - Mario Small
 ]
 
+.centernote[*Goal: Understand how offenders **interpret** world and act based on that.*]
+
 ???
 
 One of my favorite crim books is primarily qualitative.
 
 St. Jean spent enormous amount of time talking to residents, police, and most importantly active drug dealers, robbers, and people regularly involved in violence.
 
-Goal was to understand how offenders choose where--and how--to conduct their criminal activites.
+Goal was to understand how offenders choose where--and how--to conduct their criminal activities.
 
-Fundamentally about meaning and decision-making.
+Fundamentally about meaning and decision-making. The data here are narratives of offenders.
 
 ---
 # A Quantitative Example
@@ -127,11 +133,15 @@ Fundamentally about meaning and decision-making.
 - Ross Matsueda
 ]
 
+.centernote[*Goal: Examine how urban racial inequality leads relates to crime in the United States.*]
+
 ???
 
 We'll be reading this later in the term.
 
 Book is the result of a massive undertaking in numeric data collection--getting crime rates for every census tract in nearly 100 cities, analyzing relationship to structural conditions.
+
+This is about examining a numerical relationship: How does segregation relate to crime throughout the country? The data here are numbers capturing inequality and counting crime.
 
 ---
 # Qualitative
@@ -147,7 +157,7 @@ Data
 
 ???
 
-Qual work is, by definition, non-numeric and non-statistical. It focuses on narrative and interpretation.
+Qual work is, by definition, non-numerical and non-statistical. It focuses on narrative and interpretation.
 
 --
 
@@ -515,7 +525,7 @@ class: inverse
 
 Unobservables (Constructs): Subjective, internal, or only indirectly measurable
 
-   * Individual self-control, wellness, social class, fear of crime
+   * Individual self-control, wellness, social class, education
    * Neighborhood social capital, disadvantage, collective efficacy
 
 *Unobservables do not exist in the real world: they are conceptual*
@@ -547,6 +557,8 @@ These are ideal types. Some theoretically observable things must be treated as u
 Important thing here is being clear about what is meant--what you want to measure
 
 What does social class mean?
+
+Should capture place in social hierarchy of society; should be related to things like how you speak, what media you consume, social and political beliefs.
 
 --
 
@@ -661,7 +673,7 @@ Fundamental problem of causal inference
 
 --
 
-&zwj;Solution: Randomized Treatment
+&zwj;Solution: Randomized Treatment (An experiment!)
 * On average, randomly selected groups differ only by treatment.
 * Average outcome difference between groups is treatment effect.
 
