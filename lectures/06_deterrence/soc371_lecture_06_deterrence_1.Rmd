@@ -1,8 +1,8 @@
 ---
 title: "Rational Choice and Deterrence"
-subtitle: "SOC371, Summer 2020"
+subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Jul 8, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Jan 25, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -72,16 +72,18 @@ James Q. Wilson was influential political scientist and policy writer. Focused o
 
 Thinking About Crime introduced idea of incapacitation as mechanism for crime reduction in places with higher penalties.
 
-Wrote original Broken Windows article with George Kelling and was pro War on Drugs on moral grounds.
+We'll talk about incapacitation more later.
+
+Also wrote the original Broken Windows article with George Kelling and was pro War on Drugs on moral grounds.
 
 --
 
 
-*Rather than focus on the intervening work first, we begin at **deterrence**.*
+.centernote[*Rather than focus on the intervening work first, we begin at **deterrence**.*]
 
 ???
 
-Deterrence is still fundamental basis for most crime policy
+Deterrence is still fundamental basis for most crime policy. If penalties go up, crime should go down.
 
 ---
 # Deterrence and Rationality
@@ -127,7 +129,7 @@ People do not pick optimal choice every time but do on average
 
 Key is that people respond to incentives
 
-People's perceived rewards are idiosyncratic and taste-based; mainly just know that on average people want *more*
+People's perceived rewards are idiosyncratic and taste-based; mainly just know that on average people want *more*, whatever it is
 
 --
 
@@ -144,7 +146,7 @@ If rational choice can explain criminality well, it can likely explain more rati
 ---
 #  Deterrence Doctrine
 
-Deterrence is simply idea that punishment can impact crime.
+Deterrence is simply the idea that punishment can impact crime.
 
    + People *respond to incentives*
 
@@ -172,7 +174,7 @@ If punishment increases, people will commit less crime; if gains increase, more.
 
 --
 
-*Crime can be controlled by increasing its cost*
+.centernote[*Crime can be controlled by increasing its cost*]
 
 ---
 # Marginal vs. Absolute
@@ -181,6 +183,7 @@ If punishment increases, people will commit less crime; if gains increase, more.
 
    + Deterrent effect of a penalty vs. no penalty
    + *Will decriminalizing drugs result in more drug use?*
+   + Less research here, but evidence is fairly strong, depending on the crime
 
 ???
 
@@ -192,6 +195,7 @@ This is question of whether *any penalty at all* has an effect on a behavior.
 
    + Deterrent effect of a penalty compared to different penalty
    + *Does the death penalty reduce more crime than life sentences?*
+   + Most research focused here--evidence is mixed
 
 ???
 
@@ -200,13 +204,13 @@ This is if increasing or decreasing penalties increases or decreases behavior.
 ---
 # Variables in Deterrence
 
-* Certainty
+* **Certainty**
 
-   + Probability of being sanctioned
+   + Probability of being sanctioned--likelihood of pay cost
    + Objective Measures:
        * Arrest or clearance rate
        * Proportion of offenders prosecuted
-   + Subjective Measures: Perceived punishment probability
+   + Subjective Measure: Perceived punishment probability
    + Tittle's "Shell of Illusion"
 
 ???
@@ -218,7 +222,7 @@ This is related to the illusion most people have that certain types of law viola
 
 --
 
-* Severity
+* **Severity**
 
    + Severity of the sanction
    + This is the *cost*
@@ -231,7 +235,7 @@ Subjective usually involves asking people "how bad would it be to be arrested / 
 
 --
 
-* Celerity (Swiftness)
+* **Celerity** (Swiftness)
 
    + Length of time between crime and sanction
    
@@ -243,7 +247,7 @@ Time discounting in economics--a loss or gain in the future is worth less than o
 
 Not real relevant in US system due to everything being slow
 
-The slowness may actually be a severity component too
+The slowness may actually be a severity component too; people know they'll spend a lot of time even waiting for a hearing or trial
 
 ---
 class: inverse
@@ -252,7 +256,7 @@ class: inverse
 ---
 # General Deterrence
 
-*Does threat of punishment deter people from crime?*
+*Does the threat of punishment deter people from crime?*
 
    + Perceived threat of sanctions deters individuals from crime
    + Based on perception, not personal experience
@@ -265,15 +269,22 @@ Research Approaches
 
    + Changes in crime rates before/after policy changes
    + Effects of perceived risk and severity
+   + Effect of peers being arrested
 
 ---
 # Specific Deterrence
 
-Does punishment deter punished people?
+*Does being punished deter people from committing more crime?*
 
    + Experience of punishment deters individuals from future crime
    + Based on experience, occurs only after punishment
    + About reducing *recidivism*
+
+???
+
+Specific deterrence is about keeping people from reoffending
+
+If they were punished once, they will realize they don't want that to happen again
 
 --
 
@@ -283,12 +294,23 @@ Research Approaches
        + But those sent to prison may be more crime prone
        + Experimental design: Need equivalent treatment and control groups
    + Randomly vary punishment
+       + Lab experiments
+       + Randomized arrest (e.g. Sherman & Berk 1984)
    + Look at marginal cases--natural experiments
        + Same crime probation vs. incarceration
+       + Harsher vs. more lenient judges
+
+???
+
+Specific deterrence can be hard to research--punishment often does more than just punish.
+
+Not really ethical to experimentally vary *real* punishments; can try in experiments
 
 
 
-
+---
+class: inverse
+# Rational Choice
 
 ---
 # Rational Choice Model
@@ -330,7 +352,7 @@ $$
 
 This is conventional economic utility model
 
-Don't estimate exact values, but rather take advantage of basic properties
+Don't estimate exact values, but rather takes advantage of basic properties
 
 All else equal, reducing reward / increasing cost reduces value and thus likelihood of crime.
 
@@ -362,9 +384,9 @@ Mixed methods work revealing participation in gang fights as rational behavior
 
 Gang leader decides whether or not to join a fight
 
-If he decides not to, likely he will suffer small to medium, status loss
+If he decides not to, likely he will likely suffer moderate status loss with gang
 
-IF he does, small chance he will need to shoot someone and end up in jail -- large cost
+If he does join fight, small chance he will need to shoot someone and end up in jail -- large cost
 
 Because likelihood of jail is small, he'll probably join fight--it is rational to do so
 
@@ -378,7 +400,7 @@ class: inverse
 
 Rational choice hypothesis: Perceived cost/benefit *impacts* future crime
 
-* Crime = Pr $*$ Value(Reward) > Pr $*$ Value(Costs) 
+* Crime = Pr(Reward) $*$ Value(Reward) > Pr(Cost) $*$ Value(Cost) 
 
 ???
 
@@ -430,8 +452,9 @@ When they get away with it (or get punished), they update perceptions--this is a
       
 * Measure for Perceived Arrest Risk
     + Experienced certainty: Arrests/Crimes for each person
-    + Unsanctioned offenses: number of crimes for non-arrested
+    + Unsanctioned offenses: Number of crimes for non-arrested
     + Crimes of peers
+       + Peers getting away with crime is information
 
 ???
 
@@ -471,6 +494,8 @@ The model is somewhat more complicated: Preceding neighborhood and individual ch
 Find support for shell of illusion: High risk perceived by those not comitting
 
 Then risk increases with experienced certainty. Looks basically same for violence.
+
+People who never committed a crime perceive risk of sanctions similarly to those who did and were always caught
 
 ---
 # Rational Choice Theory
@@ -527,7 +552,7 @@ The cost or benefit ends up as a variable equal to the certainty times the value
 
 ???
 
-Also address reality that crime can't be committed without the opportunity to do so
+Also address reality that crime can't be committed without the opportunity to do so, so asks if they had the opportunity to commit crimes
     
 ---
 # Rational Choice and Crime
@@ -537,8 +562,14 @@ Also address reality that crime can't be committed without the opportunity to do
 ![](img/matsueda_crime.svg)
 ]
 
+???
+
+Original participation in crime predicts perceived risks and gains as well as future crime
+
+Future crime predicted by these perceived risks and gains
+
 ---
-# Summary
+# Findings
 
 * Small deterrent effect
 
@@ -549,12 +580,15 @@ Also address reality that crime can't be committed without the opportunity to do
 
 Evidence for modest deterrent effect, but relationship much stronger with rewards
 
+Youth more sensitive to the gains than the costs
+
 
 --
 
 * US already has high arrest and imprisonment rates
 
    + Would be draconian to increase substantially
+   + Marginal deterrence is weak
 
 ???
 
@@ -564,6 +598,8 @@ Not practical to increase risk sufficiently to deter these crimes
 
 * Some level of arrest and incarceration essential
 
+   + Absolute deterrence likely important
+
 ???
 
 Complete removal of threat likely to increase crime substantially
@@ -572,93 +608,15 @@ Complete removal of threat likely to increase crime substantially
 
 * Deterrence not a panacea for crime problem
 
+   + Need to address rewards to crime
+
 ???
 
 Can't punish our way out of this. Better to address, in particular, psychic gains of crime.
 
 ---
 class: inverse
-# Discussion
-
----
-# Some Questions 1
-
-"[With regard to the US's "war on terror" foreign policy] ... Would telling the world where the U.S. has eyes and what it could do to would-be terrorists be more of a deterrent than keeping it secret? Or does the world's disapproval and condemnation of human rights abuses act as more of a deterrent on the U.S. and outweigh the benefits of being upfront?"
-
-???
-
-This is an interesting link given the note by Levitt about foreign policy. There's some power in knowing a threat exists but being unsure about it. Recent evidence suggest ambiguity about certainty is itself a deterrent.
-
---
-
-"Knowing what we know about mass incarceration and capital punishment, what type of relationship with deterrence vs. incapacitation would we expect to see in a system of restorative justice over the current retributive model?"
-
---
-
-"How do we factor in the encouragement and motivation of ex-felons in the U.S. to commit more crime due to the legal discrimination of people who were previously incarcerated? When considering criminal justice policies that will increase deterrence, should we also be looking at the ability of people to reintegrate into society as law-abiding citizens?"
-
-???
-
-Valid point and one of the issue with relying only on deterrence. There are second-order consequences all over.
-
----
-# Some Questions 2
-
-"How do we ensure that punishments don't deter citizens from the law? To be more specific, how do we make sure that punishments deter crime but aren't so severe that they deter citizens from respecting the social contract at hand and from not trusting the government to properly handle criminal justice? For example, we know for data that the death penalty isn't proven to be very effective on deterrence, but we continue to use it in many states: how does this reduce trust in the criminal justice system?"
-
---
-
-"The second reading by Levitt says that if the payoff to crime is greater than any opportunity, a crime will likely be committed. How are the payoffs in today’s society variable due to various societal factors and how does this subjectivity impact the legitimacy of the deterrence theory?"
-
----
-# Some Clarifications 1
-
-Levitt notes that factor like economic fluctuation made it hard to establish causality for deterrence through the 1990s. If replicated this research now, would we expect similar results?
-
-???
-
-Research has been largely consistent in the recent period. External fluctuations in society are never absent or stable--these are always problems. Research must also grapple with how to isolate effects and it is never easy.
-
---
-
-"Does the racial differences in conviction, bail amounts, and sentencing play into deterrence? ... It seems like the consequences of committing a crime is higher for black/brown people."
-
-???
-
-Deterrence can account for this, and does, in form of different perceptions of apprehension and costs. There's a recognition in qualitative work that an arrest or any police contact can be much more dangerous for POC. A lot of work on police avoidance for people of color with no criminal involvement. May have reversal effect if you think you're going to be hassled by police either way--lower cost to involvement.
-
---
-
-"Part of deterrence is the "expected punishment." However, the sentence length of a single crime isn't always uniform across the offenders. How does that affect the effectiveness of deterrence?"
-
-???
-
-On the one hand, evidence indicates people don't have a good idea of sentences for crimes they are committing. On the other, deterrence typically most focused on the aggregate rather than individuals. Main issue of interest is if increasing (or decreasing) penalties causes--on average--people to alter criminal behavior. They don't need an accurate view of punishment, just needs to be monotonic.
-
---
-
-"How would one prove that one would be deterred from committing a crime because of consequences rather than another outside factor of them deciding not to commit the crime."
-
-???
-
-Answer is that it is quite hard for individuals. Easier in groups, particularly in quasi-experiment. Trick is figuring out how to isolate a difference in perceived costs from everything else. You never truly know for sure but you can make very convincing arguments by ruling out alternate explanations.
-
----
-# Some Clarifications 2
-
-What does Levitt mean by "incapacitation is not a behavioral theory of crime?"
-
-???
-
-Incapacitation isn't about the behavior of people like deterrence. Deterrence says you increase punishments, people commit less crime. Incapacitation is literally people are unable to commit crimes because they're in prison. It isn't about changing behavior but removal of all opportunity to do so.
-
---
-
-"How do we come to understand the context of a crime on a philosophical level in regard to deterrence when crimes are committed out of the need for survival/desperation/or duress?"
-
-???
-
-Deterrence is, in economic terms, specifically concerned with the elasticity of crime. Increase cost, demand goes down. For survival crimes, one might assume they are inelastic and deterrence can't much speak to it. Punishing survival crimes can't accomplish deterrence--which jives with duress and survival being defenses in court.
+# Questions
 
 ---
 # For Next Time
