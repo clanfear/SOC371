@@ -2,7 +2,7 @@
 title: "Rational Choice and Deterrence"
 subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Jan 27, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Jan 27, 2021<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -18,7 +18,7 @@ output:
 
 1. Sherman & Berk (1984)
 
-2. Routine Activities
+2. Routine Activity Theory
 
 3. Extensions
 
