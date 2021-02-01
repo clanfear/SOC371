@@ -26,7 +26,6 @@ output:
 
 3. Age, Crime, and Self-Control
 
-
 4. Predicting High Rate Offenders
 
    * RAND Studies
