@@ -2,7 +2,7 @@
 title: "Control Theory and the Life Course"
 subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Feb 3, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Feb 3, 2021<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -16,19 +16,21 @@ output:
 
 # Overview
 
-Social Control Theory
+* Social Control Theory
 
-* Context
+   * Context
 
-* *Causes of Delinquency*
+   * *Causes of Delinquency*
 
-* Empirical Standing
+   * Empirical Standing
 
-Life Course Criminology
+* Life Course Criminology
 
-* Concepts
+   * Concepts
 
-* Sampson & Laub (1993; 2003)
+   * Sampson & Laub (1993)
+
+   * Laub & Sampson (2003)
 
 ---
 class: inverse
