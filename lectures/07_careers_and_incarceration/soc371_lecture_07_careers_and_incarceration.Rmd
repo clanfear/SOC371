@@ -23,8 +23,11 @@ output:
    * Delinquency in a Birth Cohort
    * Participation vs. Frequency
    * Substantive Implications
-   
-3. Predicting High Rate Offenders
+
+3. Age, Crime, and Self-Control
+
+
+4. Predicting High Rate Offenders
 
    * RAND Studies
    * Problems of Actuarial Prediction
@@ -54,7 +57,7 @@ Cannot commit crimes, at least in public, if not in public
 
 Deterrence is behavioral: Use punishment to prevent everyone or the punished from committing future crime
 
-Incapacitation is not behavioral: You're just stuffing people in prison so others are not exposed to them
+Incapacitation is not behavioral: You're just stuffing people in prison so others are not exposed to them; opportunity vs. motivation
 
 Incapacitation only directly effects whoever is incapacitated
 
@@ -114,6 +117,8 @@ While general incapacitation is not efficient, it might be a way to handle chron
 --
 
 * How effective would this be?
+
+   * Depends on who offends and how often
 
 ???
 
@@ -196,6 +201,7 @@ General idea is if most crime is concentrated in small group, why not lock up th
 # Blumstein & Cohen
 
 * Decompose crime rate into participation rate and frequency rate
+
    * Participation rate: Proportion of pop arrested
    * Frequency rate: Average arrests per arrested
    
@@ -406,7 +412,7 @@ Angry outbursts and problem behavior compromise all aspects of their life
 ---
 # Gottfredson & Hirschi
 
-* Gottfredson & Hirschi: Ignore this research!
+* Gottfredson & Hirschi: "Ignore this research!"
 
    + Reflects unmeaningful statistical variation
    + Offenders differ by frequency only--same age patterns
@@ -448,6 +454,12 @@ Gottfredson & Hirschi say all that matters is social control and we can't identi
 ---
 class: inverse
 # Actuarial Prediction
+
+???
+
+Actuaries measure risk, often in industries like insurance and banking.
+
+Actuarial prediction is about assessing future risks based on present knowledge.
 
 ---
 ## Predicting High Rate Offenders
