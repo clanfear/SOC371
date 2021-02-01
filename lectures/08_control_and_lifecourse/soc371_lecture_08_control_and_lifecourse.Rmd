@@ -1,8 +1,8 @@
 ---
 title: "Control Theory and the Life Course"
-subtitle: "SOC371, Summer 2020"
+subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Jul 20, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Feb 3, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -143,6 +143,7 @@ Matsueda, Akers, and others argue these are straw man arguments; there's evidenc
 
 We'll get into differential association later
 
+
 ---
 # Hirschi's Offender
 
@@ -176,6 +177,13 @@ Deviant is untethered rather than differentially tethered
 
 If nothing prevents you from taking the easy path, you will do so. In this way, quite compatible with rational choice conception.
 
+--
+
+* Psychopathy / personality disorder only a symptom or tautology
+
+???
+
+You may have caught Hirschi's rant about psychopathy. Psychopathy is nowadays antisocial personality disorder, often preceded by conduct disorder. The tautology occurs because the diagnosis is made based on the presence of antisocial behavior. Then that diagnosis is used to explain antisocial behavior. These disorders, absent others with neurochemical bases, have little evidence for being separable from general criminal behavior and people tend to age out of them. Many psychologists and most sociologists studying in the area are quite skeptical. Foucault and medical sociologists have a lot to say about medicalization of deviance.
 
 
 ---
@@ -473,6 +481,8 @@ Trajectories are altered by meaningful life events--and a person's reaction to t
 ---
 # The Follow-Up
 
+*Laub & Sampson (2003): Shared Beginnings, Divergent Lives*
+
 * "50-year update"
 
    + Criminal records
@@ -582,7 +592,7 @@ Process of desisting often involved active reconception of self-image
 
 Other times they made commitment to go straight without really realizing it--but still by choosing marriage or work
 
-Those persisting not attraction of crime, awareness of costs
+Those persisting note the attraction of crime, awareness of costs
 
 Many cited active resistance to unjust authority, disdain of and alienation from elites as motivation
 
@@ -602,6 +612,10 @@ Many cited active resistance to unjust authority, disdain of and alienation from
   + Rational choice lacks recognition we choose preferences and actions jointly to discover and create new preferences (March 1978)
   + Cannot divorce agency from context--choice is situated
 
+* Matsueda (2006)
+
+  + Age-graded lifecourse compatible with a pragmatist view of actor
+
 ???
 
 Classically, rational choice takes preferences as exogenous and preceding actions
@@ -609,6 +623,8 @@ Classically, rational choice takes preferences as exogenous and preceding action
 Sampson & Laub see preferences as malleable and reciprocal: Our choices change our preferences and they're often determined simultaneously.
 
 All choices are made while situated in the present of the individual and their context
+
+Matsueda has noted that a pragmatist theory of action--which we'll see in his article on differential social organization--makes a good theory of agency for life course studies.
 
 ---
 # Summary
@@ -647,82 +663,7 @@ Agency is vital. No one desisted from crime without choosing to do so and doing 
 
 ---
 class: inverse
-# Discussion
-
----
-# Some Questions 
-
-* "If job stability is a big factor in the adult crime rate, are criminal records setting us back on reducing crime? What can we do to change the stigma around this to increase employment among people with such records?"
-
---
-
-* "Both theories of cultural deviance and the element of belief within the control theory contain an element of shared values/beliefs (or lack thereof) that holds society together. In today's globalized and multicultural world, does this singular belief system really still exist? Do we all share a core set of values and ideals that are considered delinquency when violated? How does culture and demographics like race, class, and religion affect this?"
-
---
-
-* Control theory makes the assumption that motivation for deviance is constant and uniform across people. Is this a plausible assumption? Is deviant motivation the same in different time periods? Different countries and cultures?
-
----
-# One More
-
-* "Most research that we've read or talked about was made up of examining the actions of men (and for good reason). But what might we expect to find if they had used the same control groups of delinquent and nondelinquent adolescents but replaced it entirely with girls and followed them through their lives?"
-
-???
-
-Fair amount of research shows social control theory doesn't show a lot of sex/gender differences. Form of some bonds may look different (such as children and marriage). Stronger desistent effects of motherhood than fatherhood in disadvantaged samples.
-
-
----
-# Some Clarifications
-
-* What was up with Hirschi's ramble about psychopathy and tautology?
-
-???
-
-Psychopathy is nowdays antisocial personality disorder, often preceded by conduct disorder. The tautology occurs because the diagnosis is made based on the presence of antisocial behavior. Then that diagnosis is used to explain antisocial behavior. These disorders, absent others with neurochemical bases, have little evidence for being separable from general criminal behavior and people tend to age out of them. Many psychologists and most sociologists studying in the area are quite skeptical. Foucault and medical sociologists have a lot to say about medicalization of deviance.
-
---
-
-* "How can we define what a social bond is outside of the definition of what is the law and what is breaking the law? How do these social bonds extend outside of crime?"
-
-???
-
-Theory applies not just to crime but to minor deviance including legal forms, such as cheating on romantic partners. The thing about social bonds is that they are not in relation to the law specifically but the harm that an act does to the interpersonal (or internalized) bond. A bond to parents restrains only actions that the child believes the parents would disapprove of. You can easily imagine control theory being used to describe doing assigned homework and getting good grades. Conformity takes many forms.
-
-
---
-
-* The more "social control" in a subject’s life (a stable marriage, family, work, etc.) are listed as indicators that prevent antisocial or criminal behavior later in life—is this due to the potential criminal feeling they have more to lose if they break the [social] contract or are people with these stable social aspects in their lives simply less likely to behave in that manner to begin with?
-
-???
-
-Hirschi would probably argue mainly the former--that motivation is uniform but restraints are not. But the plausibility of the assumption is a matter of argument.
-
---
-
-* "I noticed that the publish date for this book is 1969, and there were three fundamental perspectives on delinquency and deviant behavior. I wonder do we have any new theories about delinquency that were coming out after the publication of this book? If we have, what are they?"
-
-???
-
-Yes! New things have emerged. We'll be covering some, mainly macro and ecological theories: modern social disorg, collective efficacy, broken windows. There's one we won't cover like institutional anomie theory. On individual level there are things like Wikstrom's situational action theory, Simons & Burt's Social Schematic Theory. These theories tend to incorporate components of control and learning theories (and occasionally strain). Much as these older crim theories contain elements of older philosophy and science, there's nothing truly new under the sun.
-
----
-# Yet More Clarifications
-
-* "From the Causes of Delinquency reading, it defines control theory as a 'person is free to commit delinquent acts because his ties to the conventional order have somehow been broken.' How does this relate to migration and culture clashes? Which conventional order should they belong to?"
-
-???
-
-This is a good question. What's interesting here is that control theory would suggest many types of migrants would have few bonds. But migrant criminality is incredibly low--lower than basically every US born population. One might argue migration signals strong commitment to conventional success and belief in conforming ways--even illegal migration. Which is hard to explain by control theory, because the illegal migration is itself illegal--though it isn't impeded by bonds. 
-
---
-
-* "[With regard to control theory] Can this be an interdisciplinary topic that incorporates psychology aspects such as attachment theories or neuroscience and how trauma can affect brain chemistry? Would this help this theory develop solutions such as therapy or institutional interventions?"
-
-???
-
-It might help but I'd suspect Hirschi would not be very interested in the expansion. Concepts from psychology are better incorporated into some newer theories, like social schematic theory (which I am not real familiar with). The typical sociology and criminology argument is the additions add complexity but not much predictive power with regard to crime. But the psych work does well thinking about individualized treatments like cognitive behavioral therapy. Soc usually focuses on non-individual interventions.
-
+# Questions
 ---
 # For Next Time
 
@@ -742,6 +683,6 @@ Things to pay attention to:
 
 The Shaw & McKay excerpt is tiny sliver out of very large, complex, influential book studying delinquency in Chicago. Wealth of evidence is incredible. Hand tabulated every official record of delinquency in Chicago, mapped to place of residence, and cross-referenced to see who was charged together. Also did life histories of delinquents. 
 
-Came from the Chicago School of Sociology and was fnformed by contemporaries like Robert Park & Ernest Burgess, Edwin Sutherland, Frederic Thrasher. This school birthed symbolic interaction, subcultural theory, and human ecology approaches.
+Came from the Chicago School of Sociology and was informed by contemporaries like Robert Park & Ernest Burgess, Edwin Sutherland, Frederic Thrasher. This school birthed symbolic interaction, subcultural theory, and human ecology approaches.
 
 Sampson & Groves comes much later after social disorg largely abandoned until 1980s. Ruth Kornhauser (1978) reinterpreted social disorganization as a macro-level social control theory, simplifying it (but losing a lot of Shaw & McKay's insights).
