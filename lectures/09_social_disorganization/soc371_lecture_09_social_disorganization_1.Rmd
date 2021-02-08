@@ -494,7 +494,6 @@ Unmonitored children can join and form gangs, participate in delinquency; long h
    * Older gangs transmit delinquency to younger play groups
    * Delinquent tradition
       + Values
-      + Pressures
       + Rewards and sanctions
    * Transmission is learning of a culture
 
@@ -598,7 +597,7 @@ class: inverse
 ---
 # For Next Time
 
-* Peterson, Ruth D., and Lauren J. Krivo. 2010. *Divergent Social Worlds.* Pp. 1-70
+* Peterson, Ruth D., and Lauren J. Krivo. 2010. *Divergent Social Worlds.* Pp. 1-70<sup>1</sup>
 
 Things to pay attention to:
 
@@ -607,6 +606,8 @@ Things to pay attention to:
 * Incomparability of neighborhoods across ethno-racial categories
 
 * Depth and interrelated nature of structural causes
+
+.footnote[[1]] Not posted on Canvas--use the website links to the free eBook available through the UW Library.
 
 ???
 
