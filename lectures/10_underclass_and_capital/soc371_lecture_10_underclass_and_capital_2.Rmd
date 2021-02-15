@@ -1,5 +1,5 @@
 ---
-title: "The Urban Underclass, Social Capital, and Collective Efficacy"
+title: "Social Capital and Collective Efficacy"
 subtitle: "SOC371, Summer 2020"
 author: "Chuck Lanfear"
 date: "Jul 29, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"

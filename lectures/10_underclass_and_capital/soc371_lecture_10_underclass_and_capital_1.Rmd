@@ -1,8 +1,8 @@
 ---
-title: "The Urban Underclass, Social Capital, and Collective Efficacy"
-subtitle: "SOC371, Summer 2020"
+title: "The Urban Underclass"
+subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Jul 29, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Feb 17, 2021<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -16,11 +16,11 @@ output:
 
 # Overview
 
-* Urban underclass debate
+* Urban Underclass Debate
 
-   * Wilson
-   * Massey
-   * Quillian
+   * William J. Wilson
+   * Doug Massey
+   * Lincoln Quillian
 
 * Urban Underclass and Social Disorganization
 
@@ -34,6 +34,10 @@ class: inverse
 
 > Three centuries of injustice have brought about deep-seated structural distortions in the life of the Negro American. At this point, the present **tangle of pathology** is capable of perpetuating itself without assistance from the white world. The cycle can be broken only if these distortions are set right.
 
+???
+
+Daniel Patrick Moynihan was labor secretary under LBJ--later served under other administrations and was professor at Harvard, Democratic New York Senator from 1977 to 2001.
+
 --
 
 * Context: War on Poverty (1960s)
@@ -46,15 +50,21 @@ Broad programs to address poverty in US
 
 Moderate evidence for positive effects, especially for elderly which went via social security
 
-Since poor are disproportionately minority, benefits concentrated there--led to backlash in 1970s as well-off whites perceived they were subsidizing poor inner blacks.
+Since poor are disproportionately minority, benefits concentrated there--led to backlash in 1970s as well-off white people perceived they were subsidizing poor black people.
 
 --
 
 
 * Evidence:
 
-   * Unemployment dropping but welfare increasing
+   * "Moynihan's Scissors": Unemployment dropping, welfare increasing
    * Female-headed families: 25% of births out of wedlock (1965)
+
+???
+
+Moynihan pointed out an apparent paradox. For urban black Americans, unemployment was dropping but welfare enrollment increasing; these two factors normally move together.
+
+Drastic increase in single mothers
 
 --
 
@@ -62,20 +72,22 @@ Since poor are disproportionately minority, benefits concentrated there--led to 
 
    * Matriarchal structure out of line with mainstream
 
+???
+
+Essentially the idea is a history of oppression had destroyed black family structures
+
 --
 
-* *Civil rights alone will not produce racial equality*
+* Conclusion: *Civil rights alone will not produce racial equality*
 
    * Must restore family structure
 
 
 ???
 
-Moynihan was labor secretary under LBJ--later served under other administrations and was professor at Harvard, New York Senator from 77 to 2001.
+Also argument that black culture had become matriarchal, weakening ability of black men to be authority figures; not inherently problematic, but rather a problem because America is patriarchal. The mismatch is problematic.
 
-Also argument that black culture had become matriarchal, weakening ability of black men to be authority figures; not inherently problematic, but rather a problem because America is patriarchal.
-
-A self-sustaining tangle of pathology created by centuries of subjugation--even if structural conditions producing it removed, it will self-perpetuate. Must intervene to rebuild the family.
+The present issue is a self-sustaining tangle of pathology created by centuries of subjugation--even if structural conditions that produced it are removed, it will self-perpetuate. Must intervene to rebuild the family.
 
 ---
 # Competing Arguments
@@ -95,9 +107,11 @@ A self-sustaining tangle of pathology created by centuries of subjugation--even 
 
 ???
 
-Poverty-sustaining value systems
-   
-Critique here is this seems to suggest people could just stop being poor by changing their values. Technically Moynihan wasn't saying this--it was a historical oppression argument. 
+Post Moynihan report we see rise of competing arguments.
+
+First, culture of poverty: Coming from the right and in some ways drawing on parts of Moynihan to say there exists poverty-sustaining value systems.
+
+Critique here is this seems to suggest people could just stop being poor by changing their values. Technically Moynihan wasn't saying this--he was making a historical oppression argument. 
 
 But conservative politicans latched on: civil rights made everyone equal, now only racial self-help can solve problem. 
 
@@ -133,6 +147,19 @@ At same time, unwillingness, as WJ. Wilson says, "to describe any behavior that 
 The left focused on affirmative action and welfare policies to reduce inequality
 
 ---
+class: inverse
+# Wilson & Massey\*
+
+.pull-left[
+.image-short[![](img/bill_wilson.jpg)]
+]
+.pull-right[
+.image-short[![](img/doug_massey.jpg)]
+]
+
+.footnote[\* *... and Quillian too*]
+
+---
 # William Julius Wilson
 
 .pull-left[
@@ -164,15 +191,15 @@ On the one hand, he acknowledges the existence of a black underclass in the inne
 
 On the other, he questions how, if racism is driving everything, did things decline so much more rapidly since 1970 than they did prior during Jim Crow.
 
-Underclass is heterogenous group of families and individuals outside mainstream occupation system, includng those engaged in street crime and deviance, and those exposed to long term poverty and welfare dependency--and all sharing the same social environment.
+He defines the underclass as a heterogeneous group of families and individuals outside mainstream occupation system, including those engaged in street crime and deviance, and those exposed to long term poverty and welfare dependency--and all sharing the same social environment.
 
 His thesis is macro structure of economy has changed depriving inner city of work
 
-Directly engages with cultural behavior under concentrated disadvantage
-
 Results in isolation from opportunity, irrelevance of conventional lines of behavior
 
-Reliance on welfare and illegal gains for income; no work means no marriageable partners for women
+This work directly engages with cultural behavior under concentrated disadvantage
+
+Lac of opportunity means reliance on welfare and illegal gains for income; no work means no marriageable partners for women
 
 ---
 # The Underclass
@@ -198,9 +225,7 @@ We'll discuss the Code of the Street soon which elaborates these ideas
 
 ???
 
-Southern African Americans from rural areas migrated en masse from Jim Crow south to northern cities for manufacturing work
-
-Started around 1916, but a second larger wave during and after great depression
+Southern African Americans from rural areas migrated en masse from Jim Crow south to northern cities for manufacturing work. This started around 1916, but a second larger wave happened during and after great depression.
 
 --
 
@@ -213,23 +238,17 @@ Started around 1916, but a second larger wave during and after great depression
 
 ???
 
-Main thesis here is changes in the structure of the economy have created inner-city conditions
+Main thesis here is changes in the structure of the economy have created inner-city conditions. Key driver to Wilson was massive shift from manufacturing to service economy in full swing during 1970s
 
-Key driver to Wilson was massive shift from manufacturing to service economy in full swing during 1970s
-
-Low-skill jobs in inner city greatly reduced, leaving jobs requiring advanced skills and education
-
-Low skill work dispersing out to white suburbs; no appropriate jobs where black folk live
+Low-skill jobs in inner city greatly reduced, leaving only jobs requiring advanced skills and education. Meanwhile, low skill work dispersed out to white suburbs; no appropriate jobs where black folk live.
 
 Spatial mismatch: Low-income households are not where suitable jobs exist due to residential segregation and shift to suburban employment.
 
 Economic and social isolation means restricted job opportunities, limits access to informal job networks, reduces aspirations, and induces negative social dispositions.
 
-Isolation, dependence, and limited opportunity induces perception of futility--inability to achieve societal goals due to experience with extreme economic marginality; they feel unprepared and world is hostile to their efforts.
+LAck of Informal networks to provide information on potential jobs, school, and training as well as support in applying for these opportunities. Result is that isolation, dependence, and limited opportunity induce perception of futility--inability to achieve societal goals due to experience with extreme economic marginality; they feel unprepared and world is hostile to their efforts.
 
-Informal networks provide information on potential jobs, school, and training as well as support in applying for these opportunities
-
-Higher and more consistent opportunities in illegal economy
+In contrast, there are better and more consistent opportunities in the illegal economy
 
 --
 
@@ -249,54 +268,55 @@ Historic racism created the ghetto and discrimination aggravates it--but larger 
 
 ???
 
-Part of factors is departure of black middle class which destabilizes institutions as well as culture
+Part of factors is departure of black middle class which destabilizes institutions as well as culture, resulting in no role models, no examples of mainstream success, no social connections one can leverage for opportunities.
 
-No role models, no examples of mainstream success, no social connections one can leverage for opportunities
+--
 
-Policies recommended are broad universal social welfare and employment--tight labor market, higher wages, and general economic growth where accessible to urban blacks
-
+* Solution: Economic interventions
 
 ???
+
+Policies recommended are broad universal social welfare and employment--tight labor market, higher wages, and general economic growth where accessible to urban blacks
 
 
 ---
 # Massey's Counterpoint
 
+
+.pull-left[
+
 * Urban underclass rooted in extreme residential segregation
-
-???
-
-Massey's argument is that it is primarily environmental and driven by racial discrimination
-
-Black folk are concentrated in worst neighborhoods
-
---
 
 * Segregation due to current discrimination
 
    * Mortgage lending, real estate, rentals
    * Racial preferences
    * Crime as code word for minority
-
-???
-
-Audit studies have continuously discovered biased practices in services that shape residential attainment
-
-Racial preferences, particularly whites for homogenous communities, drive migration patterns
-
-Description of neighborhoods as dangerous or high crime is really code for black residents
-
---
    
 * Myth that middle class blacks moving to white neighborhoods
 
    * Segregation still high for well-off black families
+]
 
+.pull-right[
+.image-full[
+![](img/apartheid.jpg)
+]
+]
 
 ???
 
-Massey says middle class blacks are not departing; segregation is high regardless of race
+Doug Massey is former president of ASA, PAA, possibly most prominent scholar in residential segregation as well as immigration (particularly from Mexico). Wrote American Apartheid with Nancy Denton.
 
+Massey's argument is that the underclass is a symptom of the environment: Black folk are concentrated in worst neighborhood, and this is caused by racial discrimination.
+
+Lot of evidence. Audit studies have continuously discovered biased practices in services that shape residential attainment
+
+Racial preferences, particularly whites for homogeneous communities, drive migration patterns
+
+Description of neighborhoods as dangerous or high crime is usually just code for black residents
+
+Massey says middle class blacks are not departing, because segregation is high regardless of income
 
 Policies recommended here are dealing with racial residential segregation
 
@@ -310,6 +330,8 @@ Policies recommended here are dealing with racial residential segregation
    * Whites moving out to other white neighborhoods
 
 ???
+
+Lincoln Quillian is a sociologist at Northwestern focusing on racial stratification and segregation.
 
 Quillian uses panel study of income dynamics data to track composition of neighborhoods and flows of people to and from them
 
@@ -338,7 +360,7 @@ This means middle class blacks end up in mainly black neighborhoods anyway; neig
 
 ???
 
-Using demographic decompositions, Quillian shows three segregation processes going on. There's direct race segregation and segregation by class. But also, where minorities are not segregated--as is case for Latino pop--they are leaving near only poorest other-race neighbors. That is, where neighborhoods are integrated, it is mainly with poor whites.
+In later work using demographic decompositions, Quillian shows three segregation processes going on. There's direct race segregation and segregation by class. But also, where minorities are not segregated--as is case for Latino pop--they are leaving near only poorest other-race neighbors. That is, where neighborhoods are integrated, it is mainly with poor whites.
 
 
 ---
@@ -347,6 +369,10 @@ Using demographic decompositions, Quillian shows three segregation processes goi
 * Urban Underclass + Social Disorganization
 
 > ... macrosocial patterns of residential inequality give rise to the social isolation and ecological concentration of the truly disadvantaged, which in turn leads to structural barriers and cultural adaptations that undermine social organization and hence the control of crime.
+
+???
+
+Wilson & Sampson's work you read is about merging social disorganization with the urban underclass thesis.
 
 --
 
@@ -386,102 +412,7 @@ The mechanisms described here may, for instance, be driving the patterns in Pete
 
 ---
 class: inverse
-# Discussion
-
----
-# Two Questions
-
-* "I personally find the focus on the "urban village" very interesting because I do not associate very strongly with my neighborhood. When speaking to people within the state, I identify with my city, and when speaking to people in other parts of the country, I identify with the "greater-Seattle area". For the class: What spatial area around your place of residence do you identify most strongly with? Is it your neighborhood, city, or state? Does this fluctuate? Do you think this answer is different for residents of other parts of the world?"
-
---
-
-* "Based on the theories we've studied that argue against crime being an individual character flaw and instead as a product of space, time, disadvantage, etc., how do we reconcile this with personal responsibility? How do we understand punishment in a society where most people who are driven to crime wouldn't be under different circumstances than the ones that are forced onto them?"
-
-
----
-# Three More Questions
-
-* "Is it possible for a community to build a negative collective efficacy? Like behaviors, and actions that residents shared in that community are not used to build a correct public order but for something else. If it is possible, do we have any examples?"
-
-???
-
-Suttles, Greenwood on defended neighborhoods. Einstein, Glick, & Palmer. All sorts.
-
---
-
-* "Can we eliminate the inner city ghettos if racism doesn’t exist? Will we always have poor people (in a capitalist society) that fall victim to this type of community structures?"
-
---
-
-* If social isolation has such a high correlation with violent crime amongst those living in highly impoverished areas, what are potential policy interventions to combat this lack of contact between groups of different backgrounds?
-
----
-# Some Clarifications
-
-
-* "What does 'Individualistic fallacy' and 'materialist fallacy' mean in Sampson’s article?"
-
-???
-
-Individualistic fallacy is the idea that if you observe correlations in individual characteristics, it is due to some mechanism operating at the individual (rather than collective level). e.g. unemployment and crime is because unemployed people have more time to commit crime. Can instead be the environment unemployed people live in. Similarly, materialist fallacy is the idea that if a lack of material goods predicts behavior like crime, the crime is committed for material gain. Material disadvantage also predicts expressive crimes.
-
---
-
-* "In the introduction of Sampson and Wilson, why is the factor of lack-of-evidence and unknowing data so intensely mentioned? Haven’t we considered the pros and cons to both the new and lacking implications of research and different research experiments as they have come along?"
-
-
-???
-
-It is over 20 years old! We've come a long way. Research since then has aimed at all these questions and done a great job. The work on collective efficacy, for instance, forward movement on this topic. 
-
---
-
-* "Collective efficacy theory states that it is the mutual support and trust in the neighborhood to reduce crime and maintain public order. In a scenario where urban neighborhoods start to have programs like HOA, would anyone participate (without incentives) and come together to support their neighborhood (by pushing crimes away, passive surveillance-neighborhood watch and such)?"
-
-???
-
-This is getting at what we call the free-rider problem. If I have space, I'll try to get into it in the next lecture or two. Basically because getting involved is costly and the benefits to doing so accrue not just to you but to others in community who aren't bearing that cost, people have tendency to not get involved as much as would be optimal for the group. Figuring out how to deal with that is a classic problem of social order--collective action problems.
-
-
---
-
-* "Sampson and Wilson: How do structural social disorganization and cultural social isolation influence one another in a manner that produces the systematic loss of ability for African Americans to change their living context to match that of whites?"
-
-???
-
-Gist of it is that conditions that make it difficult to regulate behavior inside your community also make it difficult for community to bring in resources from outside. When conditions are quite bad, as well, people able to get out will tend to leave, which is in their interests but further depresses community.
-
----
-
-* "If density and population size help determine the rate of homicide, how come heavily populated areas has smaller rates of homicide compared to less populated areas? For example some areas of Seattle have low crime but as a whole Seattle is densely populated."
-
-???
-
-Consider it from a routine activities standpoint. You can't kill someone who isn't there. Density means more people coming in contact with each other. But context in which people encounter each other is important. It isn't density or population per se but intervening mechanisms like informal social control and contexts of interpersonal conflict.
-
---
-
-* From Sampson & Wilson (1994): "In turn, black family disruption was substantially related to rates of black murder and robbery, especially by juveniles... These effects were independent of income, region, density, city size and welfare benefits." Does this mean.. the main reason that cause black crime is because of their family [structure?]"
-
-???
-
-Not the main reason but a contributing reason. That paper showed that black male unemployment predicts single-mother households and the prevalence of single-mother households predicts crime net of other measures of disadvantage. This is fairly logical however--single parent households in general are disadvantaged and less capable of supervising children.
-
---
-
-* "I'm curious how the application of this systemic theory would apply to these individual variables in areas that are racially homogeneous, have equal resource access, relative wealth distribution, civic associations, and community programs such as Norway, or perhaps Japan?"
-
-???
-
-Interestingly enough, Sampson and Wikstrom did a cross-national study of collective efficacy and found the patterns generally looked the same in both Chicago and Stockholm, Sweden. There's mixed evidence in the Netherlands and Australia. My annual review article covers this in detail.
-
---
-
-* "If the social ecology of an area is largely spread out, would tightly knit social networks still exist to reduce interpersonal violence? For instance in a rural area, homeowners may have property lines that are miles apart from one another and community associations may be sparse."
-
-???
-
-Interestingly enough, spread out and rural places often have very tight networks over longer distances. Informal social control can be very effective in rural places because there are essentially no strangers--and those strangers that appear are a target of much scrutiny. There's mild supportive evidence for the collective efficacy framework in at least one rural US setting.
+# Questions
 
 ---
 # For Next Time
