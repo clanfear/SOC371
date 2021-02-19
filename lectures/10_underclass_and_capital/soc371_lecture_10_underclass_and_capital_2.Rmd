@@ -1,8 +1,8 @@
 ---
 title: "Social Capital and Collective Efficacy"
-subtitle: "SOC371, Summer 2020"
+subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Jul 29, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Feb 22, 2021p<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -39,7 +39,7 @@ class: inverse
 * Assets (stock) collected not for intrinsic value, but for producing other goods.
 
    * Not consumed by production (but may depreciate)
-   * Can be produced
+   * More can be produced (unlike land or labor)
 
 ???
 
@@ -49,8 +49,9 @@ Capital increases your ability to produce goods, and those goods can often be us
 
 * Forms of capital
 
-   * Financial capital
-   * Human capital
+   * Physical capital (e.g. tools, buildings, roads)
+   * Financial capital (e.g. stocks)
+   * Human capital (e.g. skills, education)
    * Social Capital
       * Modern conception: L.J. Hanifan (1916)
       * Key figures:
@@ -60,6 +61,8 @@ Capital increases your ability to produce goods, and those goods can often be us
 
 ???
 
+Classic economic capital was physical capital--plows, ships, factories.
+
 Financial capital is obligations which can be liquidated--turned into money. This is stock value. Based on collective market perception of value.
 
 Human capital is the collected skills, education, and productive capacity of individuals or groups of individuals.
@@ -68,42 +71,45 @@ Social capital is a bit different: It isn't an attribute of individuals at all, 
 
 Modern social capital theory in sociology (where it mainly emerged from) is associated with Bourdieu or Coleman. If you spend much time in Soc, you'll encounter both.
 
-Putnam popularized it in greater society with Bowling Alone
+Putnam popularized it in greater society with his book *Bowling Alone*
 
 We'll be focusing on Coleman-style social capital, as that sits at the roots of collective efficacy (Coleman overlapped at Chicago with Sampson).
 
 ---
 # Social Capital
 
-* Coleman: Aspects of social structure which facilitate individual *or collective* action.
+* Coleman: Social capital are aspects of social structure which facilitate individual *or collective* action.
 
 ???
 
-This is broad!
+This is broad! Any element of social structure that makes doing something easier or more likely.
 
 --
 
-* Inheres in social structure (network ties)
+* Exists in social structure (network ties)
 
    * Attribute of collectives
-   * Not possessed by individuals--but can be activated for gains
+   * Not possessed by individuals--but can be activated by them
 
 ???
 
 Social capital cannot exist without at least two people--and the more people that are involved, the more valuable it tends to be.
 
+Individuals do not have social capital, but they can use it to get things done
+
+Imagine a favor someone owes you. That is social capital. It doesn't exist without both of you having a mutual understanding. But you can call it in to get picked up from the airport or get help burying a body.
 
 
 --
 
 * Public good nature
 
-   * Individuals invest
+   * Individuals invest, but cannot exclude
    * Whole network may benefit
 
 ???
 
-Public goods are those that individuals can invest in but can't exclude others from using
+Social capital is related to public goods. Public goods are things that individuals can invest in but can't prevent others from using
 
 Social capital between two people often benefits people outside that dyad--we'll get examples
 
@@ -132,6 +138,7 @@ Networks are often simply drawn like this. This represents a group of people, mo
 
 When a group of people all know each other well, they mostly have the same information and values. This can be good for getting some things done.
 
+This might be a friend group, a department in your company, or a modestly sized cult.
 
 ---
 # Strength of Weak Ties
@@ -146,7 +153,7 @@ Weak ties are ties between acquaintances--members of other groups.
 
 Often what is most useful to people or a group is new information from unfamiliar sources. Say info about a job in a different company or neighborhood.
 
-Weak tie allows different kinds of information (e.g. job openings) to pass between Group A and Group B
+Weak ties allow different kinds of information (like job openings) to pass between Group A and Group B
 
 The presence of a weak tie also makes the members of the groups which make that connection relatively more powerful and influential--they're brokers for information.
 
@@ -169,11 +176,13 @@ If the parents know each other, they can share information to monitor and contro
 
 This is the classic "I'm going to call your mom" whupping-by-proxy
 
-If they don't, the children have an information advantage--they can do things like tell each of their parents they will be at the others' house while they're out making trouble.
+If parents don't know each other, the children have an information advantage--they can do things like tell each of their parents they will be at the others' house while they're out making trouble.
 
 In criminology we call this intergenerational closure--and it is a predictor of delinquency!
 
-Coleman hypothesizes that where individuals are weaker in a system--such as students vs. faculty or women vs. men--the individually disadvantaged parties are more likely to form tighter networks to generate social capital to level playing field. Example he gives is networks of women sharing reputations information about men they date. This info can facilitate generation of reputations--which can protect other women--or sanctioning via gossip and being close out of network.
+Coleman hypothesizes that where individuals have less power in a system--such as students vs. faculty or women vs. men--the individually disadvantaged parties are more likely to form tighter networks to generate social capital to level playing field. An example he gives is networks of women sharing information about men they date. This info can facilitate generation of reputations--which can protect other women--or sanctioning via gossip and being closed out of the network.
+
+There are thus incentives for the powerful to prevent organization of the weak. Join a union. HR Departments work for your bosses and isolate the employees.
 
 ---
 # Types and Appropriation
@@ -186,14 +195,13 @@ Coleman hypothesizes that where individuals are weaker in a system--such as stud
 
 ???
 
-Obligations, expectations, and trust are tremendously powerful; Coleman's classic example is Jewish diamond traders in New York. Diamonds are highly portable and valuable and difficult to determine exact value. Because of immense trust and interlocking connections of the community, they can entrust their goods to each other freely--making everyone able to work much more efficiently.
+Obligations, expectations, and trust are tremendously powerful; Coleman's classic example is Jewish diamond traders in New York. Diamonds are highly portable and valuable and difficult to determine the exact value of. Because of the immense trust and interlocking connections of the community, traders can entrust their goods to each other freely--making everyone able to work much more efficiently.
 
-Another form combining obligations, expectations, and trust here reciprocated exchange. Things like loaning a neighbor tools. This creates future obligations--you can borrow from them in future. Favors breed more favors.
+Another form combining obligations, expectations, and trust is reciprocated exchange. This is things like loaning a neighbor tools. This creates future obligations--you can borrow from them in future. Favors breed more favors.
 
 Norms and effective sanctions are social capital in Coleman's conception. Norms are expectations for behavior--which you can rely on to get things done.
 
-Sanctions maintain norms and bring people in line with expectations.
-
+Sanctions--rewards and punishments--maintain norms and bring people in line with expectations.
 
 --
 
@@ -204,7 +212,7 @@ Sanctions maintain norms and bring people in line with expectations.
 
 ???
 
-Social networks and capital can be used for purposes other than those for which they were created
+Important idea: social networks and capital can be used for purposes other than those for which they were created
 
 A classic example of Coleman's is study groups of young South Korean radicals. Within high schools, churches, and small towns, existing social networks were appropriated to discuss radical political ideologies. These small cells operated effectively in secret and safety because of the pre-existing social capital--trust, personal knowledge, obligations. Only perhaps a single trusted member would ever contact other radical cells outside, limiting exposure.
 
@@ -221,7 +229,7 @@ Another example is drug dealing that occurs via friendship networks. The ties an
 
 ???
 
-To enforce anti-crime norms, you need people willing to intervene and do it. Intervention costs time and energy as well as risks of retaliation.
+To enforce anti-crime norms, you need people willing to intervene and do it. Intervention costs time and energy as well habving risks of retaliation.
 
 --
 
@@ -249,7 +257,7 @@ This makes it a public good--something you can't selectively exclude people from
 
 Public goods often suffer from underinvestment because a lot of the good produced by each individual benefits others; if they gained the full benefit, everyone would sanction.
 
-Negative externalities are very common in markets. Pollution, for instance, may harm people living near a factory--the people in the area are paying a cost that should be born by the company instead. Many forms of regulation are to address externalities.
+Negative externalities are very common in markets. Pollution, for instance, may harm people living near a factory--the people in the area are paying a cost that should be borne by the company instead. Many forms of regulation exist to address externalities.
 
 --
 
@@ -265,18 +273,30 @@ Primary collective action problem for social control is free-riding: You can jus
 
 But if everyone free-rides, there will be no social control at all. We have good evidence of this in psychology and microeconomic games.
 
-Issue then is figuring out how to get people to intervene. Coleman notes this as a second-order sanction problem: You may need to sanction people for not sanctioning others!
+Issue then is figuring out how to get people to intervene. Coleman calls this a second-order sanction problem: You may need to sanction people for not sanctioning others!
 
-Sanctions can be positive though--for instance, praising someone for intervening. Because praise is low cost to people praising, high value to receiver, it can generate a system that very strongly reinforces generation of the public good. Coleman calls this zeal.
+Sanctions can be positive though--for instance, praising someone for intervening. Because praise is low cost to people praising, but high value to receiver, it can generate a system that very strongly reinforces generation of the public good. Coleman calls this zeal.
 
 ---
 class: inverse
 # Sampson's Collective Efficacy
 
+.pull-left[
+.image-full[
+![](img/sampson_gac.jpg)
+]
+]
+
+.pull-right[
+.image-full[
+![](img/sampson_headshot.jpg)
+]
+]
+
 ---
 # Collective Efficacy
 
-* Merge social disorganization with social capital theories
+* Merges social disorganization and social capital theories
 
    * Informal social control reduces crime
    * Social capital facilitates informal control
@@ -354,7 +374,7 @@ This means you can have a low crime neighborhood which stays that way because of
 # Operationalization
 
 
-* Collective efficacy is attribute of *place*
+* Collective efficacy is an attribute of *places*
 
    * Interested in neighborhood capacity for social control
    * Not directly observable: Use individuals as informants
@@ -403,6 +423,9 @@ This is capturing the necessary preconditions for CE. Assumption is that expecta
 ![](img/sampson_ce.svg)
 ]
 
+???
+
+Collective efficacy theory states efficacy is a mediator for structural conditions--but they still have direct effects on crime through other mechanisms.
 
 ---
 
@@ -412,7 +435,9 @@ This is capturing the necessary preconditions for CE. Assumption is that expecta
 
 ???
 
-SNCS was a 2002-2003 stratified random sample of Seattle residents netting some 5000 respondents.
+We have CE data for Seattle!
+
+The SNCS was a 2002-2003 stratified random sample of Seattle residents netting some 5000 respondents.
 
 Included same CE measures as Sampson's PHDCN; were able to replicate much of the findings from Chicago in Seattle
 
@@ -426,8 +451,11 @@ Our CE data are quite old--2003. Be nice to have more recent data but surveys ar
 * Collective efficacy is a general capacity to solve problems
 
    * Not just crime control
-   * Health outcomes
+   * Health outcomes even
 
+???
+
+Net of neighborhood conditions CE is related to asthma, stress, etc.
 
 --
 
@@ -441,7 +469,7 @@ Our CE data are quite old--2003. Be nice to have more recent data but surveys ar
 
 In Great American City Sampson describes two forms of prosocial behavior strongly linked to collective efficacy
 
-3,303 letters dropped across 343 Chicago NCs
+3,303 mock personal letters dropped across 343 Chicago NCs
 
 --
 
@@ -452,6 +480,8 @@ In Great American City Sampson describes two forms of prosocial behavior strongl
 
 
 Because lost letter returns are highly correlated with collective efficacy, can use prosocial behavior to estimate more recent CE
+
+So we did that in Seattle
 
 
 ---
@@ -520,7 +550,7 @@ Geocoded where they were dropped so we know exact spot it came from; map this to
 
 Study specifies which study and what specific letter addressee. Return rate is the overall proportion of letters returned of that type. The last column is the correlation between returns of that letter type and collective efficacy by neighborhood.
 
-First thing is our experiment is remarkably close in results to Milgram's original--and Seattle has way higher return rate than the Windy City.
+First thing is our experiment is remarkably close in results to Milgram's original--and Seattle has way higher return rate than the Windy City (in part because of actual wind).
 
 Next finding is we have similar but slightly lower correlation with collective efficacy--but this is because our CE data are rather old! In a follow-up simple model, we estimate we capture CE quite well. Can use our lost letter as an updated or alternative CE measure.
 
@@ -593,126 +623,12 @@ Basically what we need are strong, long time period, multi-city evaluations.
 
 * How does opportunity relate to collective efficacy?
 
+
+.centernote[*This is my own area of research!*]
+
 ---
 class: inverse
-# Discussion
-
----
-# Some Questions
-
-
-
-* "Does the conclusion in Chapter 6 make you feel hopeful or hopeless? The authors convey that any change to this hierarchy will not come easily. Do you agree or disagree? Do you feel empowered with these facts to advocate for change or does it convince you there's no way you'll make a difference?" and "Do you think the US will implement [programs to combat the disadvantages African American and other minority communities face] with how the country is right now?"
-
---
-
-* Did you grow up in or near a neighborhood you think had high (or low) collective efficacy? A place where you or others were likely to get watched carefully and scolded (or even have the police called on you) for misbehaving? What gave you that impression / how did you know?
-
---
-
-* "The book states that 'disadvantage is one of the strongest and most consistent predictors of neighborhood violence'. What action can we take to [combat] disadvantage...?"
-
----
-# One More
-
-* "So, how can we improve collective efficacy within neighborhoods that rank very low on the scale? How can people agree on these shared expectations and social cohesion?"
-
----
-# Some Clarifications
-
---
-
-* How does collective efficacy account for people who commit crimes far away from where they live?
-
-???
-
-The mechanism by which collective efficacy operates is mildly ambiguous but is stated to include both actual intervention against crime and also awareness that people will intervene--which is essentially deterrence. Places high in CE regulate their own members and also strangers, in theory.
-
-
---
-
-* Sampson: If community ties need to be "activated" in order to produce collective efficacy, but being close to places with low collective efficacy reduces this chance, how does the network of communities rely on one another and perhaps create a circular cycle of no one being able to achieve collective efficacy? What contributes to this cycle?
-
-???
-
-This is part of the concentration of disadvantage. Poor, segregated neighborhoods are near other poor segregated neighborhoods, and not only are they weakly organized with each other, they wouldn't be in a strong position to make demands if they were. Big contributors are segregation, concentration of economic and political power.
-
---
-
-* "[D]oes the segregation between the two groups also correlate with the chance of employment in these same areas?"
-
-???
-
-It does! But most analyses control for employment differences as best as possible. One issue might be segregated areas have more people out of workforce. Have to use proper measures of employment.
-
---
-
-* "Is there any practical way in which society can reduce gang violence?"
-
-???
-
-Yes! There's good evidence for a number of approaches to gang violence. Operation Ceasefire is a fairly famous example. Basically, successful approaches have targeted specific areas and known gang members, mixing social work community approaches with enhanced police attention. Approach generally called focused deterrence.
-
---
-
-* "In terms of spatial influences and distribution, how does the physical clustering or physical distance between properties in neighborhoods affect social bonds and ultimately crime rates? Is it any different or any connection to the spatial distributions of race and class in neighborhood populations?"
-
-???
-
-It depends. Density doesn't always linearly relate to social ties. The qualitative structure of places can matter a lot. There are many more factors than just the spacing and layout of properties in rural places versus suburbs versus urban villages versus a high disadvantage core-city neighborhood. Density may just enhance or aggravate good or bad conditions.
-
----
-# More Clarifications
-
-* If nearby neighborhoods affect each other, what would happen to each of them if we put a high crime black neighborhood near a low crime white neighborhood? And if neighborhoods affect their neighbors, and then those neighbors affect their neighbors, doesn't this propagate forever?
-
-???
-
-Conditions in cities are dynamic processes and neighborhoods have histories. The dynamics of cities mean situations like this rarely exist, because as a neighborhood gets poorer and crime increases, whites leave nearby neighborhoods. But if you could plop them down, you'd see interesting things. There would probably be spillover of violence into the white area but it would be likely to provoke strong responses and demands for city action. Much more likely to see crime go down in the poor area more than it would go up in the white area. If situation persisted, you'd expect white folks to begin moving out.
-
-As for the second part--kind of yes. It decays toward zero though. Imagine you start with a neighborhood with crime at 1 but neighbors receive 20% of that crime. By the neighborhood once removed, it is contributing only 4%, then 0.8% to the next order. Decays quite rapidly. Makes it hard to model properly though.
-
---
-
-* "Can similar results be assumed [from Peterson & Krivo] when it comes to white collar crime?"
-
-???
-
-No, almost assuredly not. The interesting thing about white collar crime is that it doesn't cluster and is largely committed by better-off people. Social disorganization theory generally describes predatory crime and violence.
-
---
-
-* "How does racial segregation in neighborhoods inhibit collective efficacy besides a 'lack of common local interests'?"
-
-???
-
-Segregation, for Peterson & Krivo, is sort of an underlying cause and magnifier of other problems. If disadvantage wasn't unevenly distributed by race, segregation would not cause the issues we see. The problem is segregation massively concentrates disadvantage, and socioeconomic disadvantage is the largest predictor of collective efficacy and crime.
-
---
-
-* "Why is there lower crime in the South overall even though there is more gun violence, and a larger subculture of violence? Could this be a result of there being more collective efficacy in the South for various reasons?
-
-???
-
-The finding of lower crime in the South should be taken with caution. Their sample has no deep south cities where the crime is particularly high--likely because those police departments would not share data. The lower crime rate in South is also while, essentially, controlling for racial composition. This basically means the southern cities in their sample appear unusually lower crime than would be expected given their racial composition, segregation, employment, etc. So they do have high crime--just lower than what you'd expect.
-
----
-# Two Last Ones
-
-* "How do areas with larger immigrant characteristics have lower crime? How do immigrants improve the state of a neighborhood (in terms of crime rates)?"
-
-???
-
-Evidence for a protective effect of immigrants is somewhat mixed but relatively consistent in small neighborhood units. The exact reason isn't completely clear. Individual level data indicates foreign born immigrants are on average very much less likely to commit crime. In neighborhoods, the hypothesis is strong networks, since most clusters of immigrants are the result of chain migration--families and folks from the same cities or general areas all going to the same neighborhood. Due to language and culture, they cluster together and form tighter than usual groupings. The heterogeneity hypothesis of Shaw & McKay may not pan out in this regard.
-
---
-
-* "What do Peterson and Krivo mean when they say 'higher deprivation is connected with less and less change in criminal violence'?"
-
-```{r, echo=FALSE, fig.align="center", fig.height = 3.2, fig.width=6, dev='svg'}
-plot(function(x){0.4*x - 0.2*(x^2)}, xlab = "Disadvantage", ylab = "Crime")
-```
-
+# Questions
 
 ---
 # For Next Time
@@ -735,6 +651,6 @@ Things to pay attention to:
 
 Wilson & Kelling's piece is the origin of broken windows theory--one of most influential pieces of public crim scholarship of all time. You may be familiar with broken windows or order maintenance policing. Consider whether it actually supports those policing strategies.
 
-Sampson & Raudenbush is incredibly important AJS paper contrasting collective efficacy and broken windows. Methods are complex. Read them, but focus on theoretical setup and conclusions.
+Sampson & Raudenbush is incredibly important AJS paper contrasting collective efficacy and broken windows. Methods are complex. Read them, but focus on theoretical setup and conclusions--the introduction and discussion / conclusion.
 
 Kezier et al. is highly influential field experiment on broken windows. We've replicated it in Seattle many times and will chat about it next time.
