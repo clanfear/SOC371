@@ -2,7 +2,7 @@
 title: "Social Capital and Collective Efficacy"
 subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Feb 22, 2021p<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Feb 22, 2021<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
