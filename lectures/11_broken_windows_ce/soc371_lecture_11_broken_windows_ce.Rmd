@@ -1,8 +1,8 @@
 ---
 title: "Broken Windows and Collective Efficacy"
-subtitle: "SOC371, Summer 2020"
+subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Aug 5, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Feb 24, 2021<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -99,7 +99,7 @@ Two feedback loops. This is hard to test!
 
 * Residents worry more about low-level disorder than major crimes
 
-   * Consensus on disorder
+   * Assumption: Consensus on disorder
    * Goal: Stabilize informal control by reducing fear of crime (indirect path)
 
 ???
@@ -493,6 +493,8 @@ Also noteworthy that vast majority of people here walked by while Keizer said it
 
 * Collective efficacy is associated with lower theft, but not more mailing.
 
+.centernote[*We fail to replicate Keizer et al. (2008)*]
+
 ???
 
 If you ignored the walk-bys and only tabulated differences in theft and mailing, it would *appear* that thefts increased relatively like Keizer. But would be false.
@@ -705,70 +707,7 @@ We did not, however find CE associated with sanctioning litterers.
 
 ---
 class: inverse
-# Discussion
-
-
----
-# Some Questions
-
-* "It seems like the broken window would not support the "defund the police" movement. What are some arguments we can make from this perspective against defunding the police? And are there any counterpoints?"
-
---
-
-* The city regularly conducts sweeps of homeless encampments, largely motivated by complaints from local residents. Are there insights can we draw from the readings with regard to the existing homelessness issues in Seattle?
-
---
-
-* "Should police solely be reactive to limit profiling or... should [there] be a sense of community control?" [And how do we prevent community social control efforts from reflecting "racial animus" as Wilson & Kelling consider?]
-
----
-
-* "At the end of their article, Wilson and Kelling write that 'the police are plainly the key to order maintenance' and that, because of budget shortfalls, 'each department must assign its existing officers with great care... the key is to identify neighborhoods at the tipping point'. It seems like... a large portion of the population has come to a resounding disagreement with this statement and are grappling with all the ways this ideology has caused serious harm..." [What do you see as the role of the police now? Or alternative institutions (though Wilson & Kelling note the responsibility conferred by "the badge")? What about where neighborhoods are "at the tipping point" and unable to maintain safe public spaces?]
-
---
-
-* How do we grapple with gentrification, particularly driven by large corporations as in Seattle? Does it reduce the perceived "public-ness" of neighborhoods? And how do we address concerns that reducing disorder (and even crime) in neighborhoods can induce gentrification (which can result in more aggressive policing of disorder)?
-
----
-# Some Clarifications
-
-* Might the prohibition signs in Keizer et al. (2008) influence perceptions of getting caught? 
-
-???
-
-Hard to say. I don't think I'd infer that from the signs. A second paper of theirs found the signs made disorder effects stronger, rather than weaker, which would indicate they did not increase perceptions of getting caught. Methodological problems there though.
-
---
-
-* "How do we protect unattended properties in disadvantaged neighborhoods from getting vandalized without having to call the police all the time?"
-
-???
-
-Possibly answered by slides earlier. But the gist is doing things like removing unattended properties! Or improving the ability of community to supervise them.
-
---
-
-* "But what determines that? How was it decided that graffiti is less serious than theft? Or public intoxication compared to vandalism?"
-
-???
-
-This is kind of a great question. It is moderately subjective. You can kind of follow simple rules or quantitative valuation, but to some degree it is about subjective agreement. I imagine in abstract most folks might consider vandalism worse than public intoxication--but the behavior and setting might change that.
-
---
-
-* "In which ways does the fact that the people maintaining that order (the police officers) are white impact this level of security that the predominantly black residents feel?"
-
-???
-
-This is a good question and somewhat out of my wheelhouse. Did not have time to do a literature search, but the work I'm familiar with doesn't show substantial differences in perceptions of safety or effectiveness of police based on same versus different race of residents and officers. I've read some work showing it can predict perceptions of fair treatment though.
-
---
-
-* How do neighborhoods recover from the spiral of decay Wilson & Kelling describe? Are there examples of places that have?
-
-???
-
-Interestingly enough, there are tons. Lots of neighborhoods in cities all over US once had a lot more disorder and crime than they do now. Lot of different things have occurred ranging from successful neighborhood revitalization orgs, destruction of project housing, gentrification, etc. Many different routes.
+# Questions
 
 ---
 # For Next Time
@@ -783,4 +722,4 @@ Things to pay attention to:
 
 * Assumptions of differential association theory: Definitions and their sources.
 
-* Links between social disorganization and Code of the Street
+* Links between social disorganization and the Code of the Street
