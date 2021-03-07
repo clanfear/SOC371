@@ -1,8 +1,8 @@
 ---
 title: "Differential Social Organization"
-subtitle: "SOC371, Summer 2020"
+subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Aug 17, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Mar 8, 2021<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -51,7 +51,7 @@ Basic extension of social disorganization; imagine the social structure and grou
 
 In the dynamic view, group *processes* explain changes in crime rates over time. Group processes here are collective action, which is joint behavior among two or more interdependent individuals.
 
-COllective action implies agreement on an objective for action and agreement on the methods to accomplish that objective. For instance, collective efficacy's objective is typically control of delinquency in the neighborhood and the means are direct sanctioning and monitoring.
+Collective action implies agreement on an objective for action and on the methods to accomplish that objective. For instance, collective efficacy's objective is typically control of delinquency in the neighborhood and the means are direct sanctioning and monitoring.
 
 --
 
@@ -60,6 +60,8 @@ COllective action implies agreement on an objective for action and agreement on 
 ???
 
 This perspective alters differential social organization into a form conceivably as collective action for and against crime.
+
+Can be unintuitive to think about crime as collective action, but most crime occurs in groups. Lot of continuity in repeated collective action too, such as gangs.
 
 ---
 # Collective Action
@@ -97,7 +99,7 @@ A key to collective action is framing. Collective action frames are emergent bel
 
 These frames are ways of interpreting the world--meanings and understandings--which are produced jointly among those involved
 
-
+One can imagine a gang fight emerging as the result of members framing a particular event as requiring a violent retaliation.
 
 ---
 # Collective Action Frames
@@ -111,7 +113,9 @@ These frames are ways of interpreting the world--meanings and understandings--wh
 
 Because frames are produced jointly, they involve debate, argument, and struggle--whose meaning matters.
 
-Goal of nascent social movements is to align the interpretations of individuals with those of the organization.
+Goal of emerging social movements is to align the interpretations of individuals with those of the organization.
+
+That is, young movements need to get people on board with the program.
 
 --
 
@@ -129,6 +133,8 @@ Clear antagonists--the target of action, whether they are offenders or those in 
 
 The problem in question must be conceived of as one that can be addressed with collective action of the aggrieved--a difference can be made if they act.
 
+Think of last part as an issue of efficacy: If a task is perceived as impossible, folks won't make the attempt. So you have to frame it as a big enough problem that one individual can handle it, but as something a group can handle together.
+
 --
 
 * Example: Civil Rights
@@ -136,7 +142,7 @@ The problem in question must be conceived of as one that can be addressed with c
 ---
 ### Dr. Martin Luther King Jr. "I Have a Dream"
 
-> "There are those who are asking the devotees of civil rights, "When will you be satisfied?" We can never be satisfied as long as the Negro is the victim of the unspeakable horrors of police brutality... We cannot be satisfied as long as the negro's basic mobility is from a smaller ghetto to a larger one... We cannot be satisfied as long as a Negro in Mississippi cannot vote and a Negro in New York believes he has nothing for which to vote. No, no, we are not satisfied, and we will not be satisfied until "justice rolls down like waters, and righteousness like a mighty stream.
+> "There are those who are asking the devotees of civil rights, "When will you be satisfied?" We can never be satisfied as long as the Negro is the victim of the unspeakable horrors of police brutality... We cannot be satisfied as long as the negro's basic mobility is from a smaller ghetto to a larger one... We cannot be satisfied as long as a Negro in Mississippi cannot vote and a Negro in New York believes he has nothing for which to vote. No, no, we are not satisfied, and we will not be satisfied until "justice rolls down like waters, and righteousness like a mighty stream."
 
 ???
 
@@ -289,98 +295,14 @@ J can leverage their social efficacy to get a lot done. They are effective bridg
 
 C and E are highly effective but isolated. C can only work through J, the central actor. E is only connected to D and then J. These actors could be much more influential if they were central to the network.
 
-You can imagine then that collective action is much easier to facilitate when a social efficacious actor is a hub of connection in a group.
+You can imagine then that collective action is much easier to facilitate when a socially efficacious actor is a hub of connection in a group.
 
 ---
 class: inverse
-# Discussion
+# Questions
+
 
 ---
-# Some Questions
-
-* "Matsueda writes that role-taking is the most effective form of social control. How does this idea interact with normative conflict? Do you believe more homogeneous societies have less crime because it's easier to role-take and identify with one another? How might America's diversity impede its collective efficacy and social organization?"
-
-???
-
-Discussion short today--ran out of time assembling questions; got most of the clarifications though.
-
---
-
-* "Does Gamson's framework for effective social movements align with the movement to defund the police? Where might that movement improve to be successful?" and "...do you feel as though the supporters have created a sense of "other"? If so, how is this effective in the movement or does it detract [from its effectiveness]?"
-
-???
-
-Gamson's framework: 
-
-1. Defines root of the problem and its solution collectively rather than individually
-2. Defines the antagonists
-3. Defines an injustice that can be corrected through a challenger's action
-
---
-
-* Did your community have someone [who is socially efficacious]... or in your life? How has that changed your life path?
-
----
-# Some Clarifications
-
-* "Are white-collar crimes also a generational thing like how teenage delinquent groups learn from older delinquent groups?"
-
-???
-
-I am not sure if there is firm evidence for this, but I'd suspect one could find a nugget of truth there by looking at things like the subprime mortgage fiasco leading to the 2008 crash. Evidence of learning from senior to junior colleagues. If you consider military or police misconduct as white collar crime, definitely evidence there.
-
---
-
-* "In the paper, it says 'Becker argued that the creation of deviance and crime begins with the process of rule creation, which is often instigated by moral crusaders, who are typically from upper classes, motivated by humanitarian concerns...' What happens when the upper class is not motivated to stop mostly white-collar crimes? Or things like exploitation of workers?"
-
-???
-
-It is an argument for how we end up in the very situation we are in now. We've been pretty slow to expand protections for workers and do anything about white collar crime. Things like tort reform continue to erode consumer rights and insulate companies from liability.
-
-
---
-
-* "If the occurrence of crime relies heavily on definitions of crime being favorable, how is the Differential Association theory affected when there is a strong combination of definitions in favor and not in favor of crime?"
-
-???
-
-If you get lots of both, you end up in a moderate crime situation. Lot of exposure to both. Since it is the ratio of definitions that matters, differential exposure is critical. Comes down to the groups you're enmeshed in. 
-
---
-
-* "In Matsueda’s article, he mentioned that 'definitions favorable to crime can be offset by definitions unfavorable to crime'. According to what he said, can we [alter definitions to reduce] their likelihood of commit[ing] crimes in the future?"
-
-???
-
-That is what the theory implies, but going about it requires some thought. Consider definitions have attributes like priority and intensity based on where they're coming from. If the individual does not trust or respect the source--such as the authorities--the definitions won't be persuasive. Similar to age-graded control theory, best approach is getting people to change their context to places where they're surrounded by anti-crime definitions from people they respect.
-
----
-# More Clarifications
-
-* "...Matsueda quotes Sutherland in saying, within the context of war, private property (and private property laws) can decrease the amount of theft in a community. If this is true, how would a socialist argue that the absence of private property is better for a society? Can Sutherland's position be held up by a social criminologist?"
-
-???
-
-The point here is somewhat nuanced. The idea is that government policy of requisitioning private property for the war effort undermined existing norms of sanctity of private property. If the government can seize it freely, then it is easier to make leap to being okay for others to take things as well in certain contexts. In a socialist system without private property, theft takes on a somewhat different meaning--all theft of property is theft from the government. I don't think the same issue occurs here. But one might assume a transition to such a system could produce that.
-
---
-
-* "Clarification: Are all stages of moral reasoning learning processes?"
-
-???
-
-I am not an expert, but to my reading yes: The stages of moral reason are based on internal construction of justifications. They are not innate, but arrived at through experience and learning--but that occurs in the context of cognitive development as well.
-
---
-
-* "How would Matsueda use Sutherland’s principles of criminology to explain the ways in which organizations that objectively deter criminal behavior, sometimes compel individuals to deviate because of their aversion to social control? (i.e. detention)"
-
-???
-
-"Sutherland is assuming that crime rates are the result of both criminal patterns or organization and the reactions to crime or organization against crime. Thus, societal reactions or what later became known as labeling, is endemic to differential organization."
-
----
-class: inverse
 # For Next Time
 
 * Hagan, John, and Wenona Rymond-Richmond. 2009. *Darfur and the Crime of Genocide.* Cambridge, UK: Cambridge University Press, pp. 103-218
