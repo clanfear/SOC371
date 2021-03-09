@@ -1,8 +1,8 @@
 ---
 title: "Genocide"
-subtitle: "SOC371, Summer 2020"
+subtitle: "SOC371"
 author: "Chuck Lanfear"
-date: "Aug 19, 2020<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+date: "Mar 10, 2021<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -139,7 +139,7 @@ The model graphically depicts the multilevel model of genocide. We will meander 
 
 The important thing to note in this model is its multilevel nature. The top row is macro or state-level features, such as a state-led ideology of Arab supremacism and the widespread genocidal victimization that results.
 
-Intervening between this ARab supremacism and genocide are process operating at lower local levels, like social construction of groups, individual racist practices and actions including use of epithets, and the vital mediating concept of Collectivized Racial Intent which they claim translates lower level processes into the construction of a genocidal state.
+Intervening between this Arab supremacist ideology and genocide are processes operating at lower local levels, like social construction of groups, individual racist practices and actions including use of epithets, and the vital mediating concept of Collectivized Racial Intent which they claim translates lower level processes into the construction of a genocidal state.
 
 ---
 # Differential Social Organization of Genocide
@@ -233,9 +233,9 @@ Thus we have a case where we have socially efficacious actors sitting central to
 
 ???
 
-A focus of their analysis is the racist collective action from and the motivating emotional spark that can ignite a "fanatical fury"--a priming for genocide.
+A focus of their analysis is the racist collective action frame and the motivating emotional spark that can ignite a "fanatical fury"--a priming for genocide.
 
-This is rooted in the social background of Sudan. Initially it is centered over land, water, and resource. But it shifts into being primarily about racial conflict through purposeful racial framing by the government and efficacious actors. Decades of permitting ethnic conflict to occur and escalate in Darfur intertwined with an ideology of supremacist Arabization. Black Africans are demonized and depicted as subhuman.
+This is rooted in the social background of Sudan. Initially it is centered over land, water, and resource. But it shifts into being primarily about racial conflict through purposeful racial framing by the government and efficacious actors. Decades of permitting ethnic conflict to occur and escalate in Darfur was intertwined with an ideology of supremacist Arabization. In discourse, Black Africans are demonized and depicted as subhuman.
 
 --
 
@@ -250,7 +250,9 @@ This is rooted in the social background of Sudan. Initially it is centered over 
 
 The practiced use of epithets in attacks transform individual racist beliefs and expressions into collective intent. Where use of racial epithets was more common, the violence is also worse. The epithets are thus implicated as a motivational factor in genocidal action.
 
-The "meso-level" causal factor Hagan & Rymond-Richmond focus on is this collectivized racial intent. They describe it in terms that sound like a Durkheimian Collective Effervescence centered on racial hatred and violence. This serves as an instrument of terror by making clear the intention is the destruction of the Black African people. In doing so, it of course reveals their genocidal intent--the *mens rea* of genocide.
+The "meso-level" causal factor Hagan & Rymond-Richmond focus on is this collectivized racial intent. They describe it in terms that sound like a Durkheimian Collective Effervescence centered on racial hatred and violence. For Durkheim, Collective Effervescence was about groups coming together in an energetic experience characterized by loss of individuality and strong lasting identification with the group.
+
+Furious use of epithets serves as an instrument of terror by making clear the intention is the destruction of the Black African people. In doing so, it of course reveals their shared genocidal intent--the *mens rea* of genocide.
 
 ---
 # The Case for Genocide
@@ -263,9 +265,11 @@ The "meso-level" causal factor Hagan & Rymond-Richmond focus on is this collecti
 
 ???
 
+The use a variety of evidence to make the case for genocide.
+
 Pervasive use of racial epithets reflects a racial intent to the actions taking place.
 
-That epithets were more common when the militias and government were working together suggests it is supported by the government or even originating there. Epithets are less common in either militia-alone or government-alone attacks--the use of epithets reinforces and motivates the fighters and provides a unifying force.
+That epithets were more common when the militias and government were working together suggests it is supported by the government or even originating there. Epithets were less common in either militia-alone or government-alone attacks--the use of epithets appeared to reinforce and motivate the fighters and provided a unifying force.
 
 The epithets spoken directly communicate genocidal intentions: They are there to eliminate Black Africans, to cause them to have Arab children.
 
@@ -291,7 +295,7 @@ Victimization was also much worse where epithets were more common and government
 
 ???
 
-They provide substantial evidence that locations with joint militia and government action experienced more murders and sexual violence. They also provide evidence of direct awareness and encouragement of both practices by state actors and their immediate proxies. 
+They also provide substantial evidence that locations with joint militia and government action experienced more murders and sexual violence. They also provide evidence of direct awareness and encouragement of both practices by state actors and their immediate proxies. 
 
 The racial nature of these is made clear in that both forms of victimization are minimal or absent in nearby Arab settlements, and both are more severe when racial epithets are present. Not just murder, but also rape appears to be a state-sanctioning genocidal policy in Darfur (as it has been in other genocides).
 
@@ -337,7 +341,7 @@ If the ICC indicts it doesn't guarantee anything will occur: They indict individ
 
 The ICC also has no power to enact direct military intervention--but the hope was ICC charges would compel intervention. UN peacekeepers were present from mid 2000s on, and violence has largely declined, but is still present and displacement of Black Africans is still occurring. A limited number of refugees in Chad have migrated back to Darfur.
 
-al-Bashir is to date the only person the ICC has ever charged with genocide--he is facing charges in Sudan for his role in the coup that put him in power. Haroun and Kushayb have been indicted for crimes against humanity. Haroun is also in custody in Sudan, but Kushayb was handed over to ICC in June.
+al-Bashir is to date the only person the ICC has ever charged with genocide--he is facing charges in Sudan for his role in the coup that put him in power. Haroun and Kushayb have been indicted for crimes against humanity. Haroun is also in custody in Sudan, but Kushayb was handed over to ICC in June last year.
 
 Worth noting that after initial ICC investigation, Sudan actually put Haroun, one of the architects of genocide, in charge of investigating it in Sudan, and he was put in a role overseeing deployment of UN peacekeepers. After ICC indicted him, UN had Haroun in possession and had agreed to cooperate with ICC, but instead flew Haroun around in Sudan using him as a mediator and never arrested him.
 
@@ -398,137 +402,6 @@ I'll finish by noting that this perspective is a controversial counterpoint, and
 
 ---
 class: inverse
-# Discussion
-
----
-# Some Questions
-
-* "[Matsueda] discusses the 'us' and 'them' which is [related] to the classification stage... of genocide. What other examples... can you think of? Why do you think this is the first stage of genocide?"
-
---
-
-* "In the reading, it asks whose morality is represented within law. Somehow I see the answers to these kinds of questions are always the people that are in power to create and enforce these laws. And these are usually those with privilege. Where else can we see the privileged moralities represented in our every day?"
-
---
-
-* "The authors argue that exclusionary framing of racial groups exists in both the US and Darfur, but that the US manifests it in individualized punishment and in Darfur is collective punishment (genocide). Do you agree that this is the difference? What are other factors that have historically not led the US to genocide, and instead to centuries of legal segregation and oppression?" and "How do you feel/think about the comparison (or “parallel”) of exclusionary processes drawn between the United States' 'War on Drugs' and Darfur?"
-
----
-# Some Clarifications
-
-
-
-* "The ideas of 'criminal organization' and 'joint criminal enterprise' represent group based common purpose. 'These ideas build on social science conceptions of group dynamics and collective action.' But, shouldn't everyone involved in a joint criminal enterprise inflicting genocide be charged with the violent crime?"
-
-???
-
-Ah, yes, that is what many of the architects of convention had in mind. That one would prosecute the entire apparatus as a criminal organization--at the very least anyone in any leadership position. The Nuremberg trials primarily convicted people in senior roles. But subsequent trials charged over 1000 others in various roles.
-
---
-
-* "Just like Khmer Rouge regime in Cambodia, the leaders of genocide in Darfur were charged with crime against humanity and war crimes, but their ideology influenced them enough for them to influence others and never for them to admit that they’re wrong. What does it take for criminals to realize that they’re wrong, when they’re so passionate about what they did?"
-
-???
-
---
-
-* "The book compared how America treats Blacks and Latinos with the Sudanese government, but what about Native Americans and the social exclusions they face?"
-
-???
-
-This is a good point and could easily have been brought up. I think to some degree the exclusion of Black and Latino Americans was chosen as it less similar to Darfur. Native Americans of course have been subject to different exclusionary conditions--but in many ways the history looks much more similar to the Darfur genocide.
-
----
-
-* "The author[s] mentioned, 'the United States and Great Britain, currently are moving toward increasingly punitive and stigmatizing justice system policies, which constitute policies of legalized social exclusion.' What are those stigmatizing policies in the U.S.?"
-
-???
-
-We're on a continued long upswing in criminal penalties of most kinds as well as retrenchment of the welfare state. 
-
---
-
-* "Racism is one of the most influential factors which lead to many social conflicts and crimes. And yet, we cannot erase this distorted thought right now. This makes me wonder about the origin of racism. Do you think racism is born along with humans or it is caused by the unstable social structure?"
-
-???
-
-Could easily have been a discussion question but there's evidence to weigh in on this. There is largely consensus about the social construction of much racial difference. There are phenotypic differences between different humans but they even those visible differences don't map logically on to racial categories. Modern racial conceptions are largely a modern thing. But hostility between socially constructed groups is not in any way new. There is cognitive and evolutionary psych evidence for both strong in-group cooperative instincts and out-group hostility. What we recognize as an in-group and out-group is developed through learning and interaction.
-
---
-
-* "After such horrendous acts are committed, how do the survivors' collective efficacy, social disorganization, or crime rates change? How does sociology theories factor in trauma to genocides and their studies?"
-
-???
-
-In situations extreme as these I'd make the argument the ecological theories become inapplicable. The individual level theories speak to countervailing effects--there are bonding effects of shared trauma that suppress crime but there's also deprivation, destabilization, psychological trauma, etc. But I don't think making before and after comparisons in criminal behavior is probably meaningful for the groups as a whole. But there's something to be said for the experience of individual refugees or pockets of them who have relocated. I'm not sure what the long term effects are. For the second part, I am not familiar with work on genocidal trauma but I'm basically 100% sure it is out there.
-
---
-
-* "In regard to the Darfur conflict, how are 'crimes against humanity' any different than genocide?"
-
-???
-
-Differ largely in intent. Crimes against humanity is a broad class of which genocide is a form. But genocide requires intent to destroy a racial, ethnic, or religious group in whole or in part. Crimes against humanity are just purposeful systematic attacks on civilians--no racial, ethnic, or religious component. By the modern standard, for instance, the atomic bomb attacks in Hiroshima and Nagasaki and fire bombing of Tokyo in Japan would be crimes against humanity, but lacking intent to destroy the racial group (even if the victims were virtually entirely Japanese), it was not genocidal.
-
---
-
-* "Hagan and Rymond-Richmond bring up the 'fighting-age bulge' and the population dynamics that are present in both the US and Sudan. Why do you presume young adolescent males are the most likely to commit crime? Is it inherent or something that we as a society teach/introduce?"
-
-???
-
-It appears to be largely inherent or at least invariant. While overall levels of involvement in crime vary substantially across nations, cultures, and cities, the age-crime curve is ever-present.
-
----
-
-* "How would we measure a neighborhood’s affinity for collective-efficacy or ability to achieve collective goals, if the term “goals” is inherently subjective? Wouldn’t we need to restrict goals to a certain set of accomplishments in order to measure the likelihood of achievement by a group?"
-
-???
-
-Yes, absolutely. That's one of the things about collective efficacy: It is task-specific. Different groups have different capacities to accomplish different things--and not only that, they have different capacities to do the same task in different ways. My dissertation is about this!
-
---
-
-* "What would a mass murder of a large group of people be considered if it was deemed unintentional?"
-
-???
-
-Depends. The Bhopal Disaster in 1984 was an industrial accident (methyl isocyanate spill) in India that killed somewhere around 8000 people in the first couple weeks and caused many more injuries. Indian courts eventually ruled it the result of criminal negligence--though there's some argument over whether it may have been a purposeful sabotage. So, it depends. Usually negligence.
-
---
-
-* "But what structural conditions must be present for this to occur at the large scale/group level in the context of mass murder or genocide? I fail to understand how a charismatic leader such a Hilal of Sudan could have maintained his position of political prominence as an openly unapologetic murderer for so long? (racialization, and the creation of the "other" don't appear to be strongly convincing)"
-
-???
-
-Ah, maybe this is a result of the distance you have with the conflict. What is the difference in acts between someone like Hilal and military commanders in conflicts? Consider bombing campaigns and invasions by, for instance, US forces in Vietnam, Afghanistan, or Japan that resulted in large quantities of civilian deaths--and for which those involved throughout the chain of command show little or no remorse--and receive remarkably little condemnation here. The militiamen of Darfur may perceive themselves to be fighting a just conflict, and a great leader can be quite admirable.
-
---
-
-* "Is it possible that the neutralization of morality can be applied to the situation in Darfur? If so, can this group neutralization be applied to the historical framework of racism, slavery, and perhaps Japanese internment in the American context?"
-
-???
-
-All of this, of course, can be framed as neutralization of morality--yes. Morality is a remarkably contextual thing--and that's one of the key ideas of differential association. Definitions are specific!
-
----
-
-* "Matsueda suggests that "it follows that differential social organization explains group crimes rate by influencing the availability of definitions favorable and unfavorable to crime within the group." But it seems to deprive the individual of their capacity for rationality."
-
-???
-
-If using a pure ratio of definitions, that's a fair critique. The move to a dynamic collective action type framework explicitly includes a symbolic interaction micro-level, which is very much centered on active participation of the individual as a sort of evolving negotiated self.
-
---
-
-* "Are wars and genocides one of the top reasons why there are more females than males in the world?"
-
-???
-
-Current estimates are there are about 101 men per 100 women, actually. About 105 men are born per 100 women, but we get into and cause more trouble. And even if we don't, we tend to die a little younger anyway. This means there are substantially more women than men at the high ages. While men die more often, women also suffer from disproportionate abortion and infanticide in strongly patriarchal countries--many of which have high birth rates--and fertility is more likely to cease after male births (they just wanted a male child). This has some offsetting effect.
-
-
----
-class: inverse
 # Wrapping Up
 
 ---
@@ -536,13 +409,13 @@ class: inverse
 
 * Many competing theories on causes of crime
 
-   * Rational decision-making and incentives
+   * Rational decision-making, incentives, and opportunities
    * Bonds to individuals and society
    * Social learning and cultures
 
 ???
 
-Each set of theories makes different assumptions about human nature and processes generating crime. Excellent and useful academic work comes from all perspectives.
+Each set of theories makes different assumptions about human nature and processes generating crime. Excellent and useful academic work comes from all perspectives. Sometimes they're blended together or synthesized as well.
 
 --
 
@@ -558,18 +431,20 @@ Each set of theories makes different assumptions about human nature and processe
 
    * Addressing disadvantage, segregation, and opportunity is difficult--but more effective than alternatives
    * Incarceration is inefficient and harmful
-   * Changing in policing often have little impact
+   * Changes in policing often have little impact
 
 ???
 
 Substantial agreement in general causes means there are many forms of interventions that generally agree with the common perspectives. Addressing underlying causes of disadvantage, segregation, and opportunity are key. They're difficult to do, but more likely to work than band-aid solutions.
 
+Overall, though, please be critical consumers of information. Particularly about crime, but also in general. The social and political world is complex and having absolute certainty about just about anything should be a warning sign. Important things deserve careful thinking. At the same time, just because someone is an expert doesn't mean they're right. Always push at things that don't quite make sense.
+
 ---
 # Final Exam
 
 
-* Due 11:59 PM on Saturday.
-* No extensions--grades will be due.<sup>1</sup>
+* Due 11:59 PM on Tuesday
+* **No extensions**--grades will be due.<sup>1</sup>
 
 .footnote[[1] Except emergencies mandated by UW policy. May result in delayed grades.]
 
